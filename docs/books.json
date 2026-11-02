@@ -1,5 +1,7 @@
 {
  "weight": 25,
+ "boost": 1.0,
+ "modern": 1950,
  "books": [
   {
    "title": "The Bible",
@@ -15,7 +17,47 @@
     "Spanish": 20,
     "Russian": 10
    },
+   "ru": "Библия",
+   "ru_author": "",
    "score": 1339,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/10.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/10"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Bible_%28King_James%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F_%28%D0%A1%D0%B8%D0%BD%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F_%28%D0%A1%D0%B8%D0%BD%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D1%8F_%28%D0%A1%D0%B8%D0%BD%D0%BE%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%29"
+    }
+   ],
    "retranslations": 185,
    "rank": 1
   },
@@ -33,7 +75,10 @@
     "Russian": 6,
     "Spanish": 5
    },
+   "ru": "Маленький принц",
+   "ru_author": "Сент-Экзюпери",
    "score": 850,
+   "free": [],
    "retranslations": 30,
    "rank": 2
   },
@@ -51,7 +96,23 @@
     "Russian": 10,
     "Spanish": 10
    },
+   "ru": "Дао дэ цзин",
+   "ru_author": "Лао-цзы",
    "score": 788,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/216.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/216"
+    }
+   ],
    "retranslations": 150,
    "rank": 3
   },
@@ -69,7 +130,47 @@
     "German": 8,
     "Hebrew": 4
    },
+   "ru": "Алиса в Стране чудес",
+   "ru_author": "Кэрролл",
    "score": 550,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/11.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/11"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Alice%27s_Adventures_in_Wonderland_%281907%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%90%D0%BB%D0%B8%D1%81%D0%B0_%D0%B2_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5_%D1%87%D1%83%D0%B4%D0%B5%D1%81_%28%D0%9A%D1%8D%D1%80%D1%80%D0%BE%D0%BB%D0%BB%3B_%D0%94%E2%80%99%D0%90%D0%BA%D1%82%D0%B8%D0%BB%D1%8C%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%90%D0%BB%D0%B8%D1%81%D0%B0_%D0%B2_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5_%D1%87%D1%83%D0%B4%D0%B5%D1%81_%28%D0%9A%D1%8D%D1%80%D1%80%D0%BE%D0%BB%D0%BB%3B_%D0%94%E2%80%99%D0%90%D0%BA%D1%82%D0%B8%D0%BB%D1%8C%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%90%D0%BB%D0%B8%D1%81%D0%B0_%D0%B2_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5_%D1%87%D1%83%D0%B4%D0%B5%D1%81_%28%D0%9A%D1%8D%D1%80%D1%80%D0%BE%D0%BB%D0%BB%3B_%D0%94%E2%80%99%D0%90%D0%BA%D1%82%D0%B8%D0%BB%D1%8C%29"
+    }
+   ],
    "retranslations": 38,
    "rank": 4
   },
@@ -86,7 +187,29 @@
     "French": 10,
     "Russian": 8
    },
+   "ru": "Коран",
+   "ru_author": "",
    "score": 513,
+   "free": [
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9A%D0%BE%D1%80%D0%B0%D0%BD_%28%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4%3B_%D0%A1%D0%B0%D0%B1%D0%BB%D1%83%D0%BA%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9A%D0%BE%D1%80%D0%B0%D0%BD_%28%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4%3B_%D0%A1%D0%B0%D0%B1%D0%BB%D1%83%D0%BA%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BD_%28%D0%9C%D1%83%D1%85%D0%B0%D0%BC%D0%BC%D0%B5%D0%B4%3B_%D0%A1%D0%B0%D0%B1%D0%BB%D1%83%D0%BA%D0%BE%D0%B2%29"
+    }
+   ],
    "retranslations": 89,
    "rank": 5
   },
@@ -104,7 +227,41 @@
     "Italian": 6,
     "Russian": 3
    },
+   "ru": "Одиссея",
+   "ru_author": "Гомер",
    "score": 470,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1727.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1727"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F_%28%D0%93%D0%BE%D0%BC%D0%B5%D1%80%3B_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F_%28%D0%93%D0%BE%D0%BC%D0%B5%D1%80%3B_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9E%D0%B4%D0%B8%D1%81%D1%81%D0%B5%D1%8F_%28%D0%93%D0%BE%D0%BC%D0%B5%D1%80%3B_%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%29"
+    }
+   ],
    "retranslations": 82,
    "rank": 6
   },
@@ -121,7 +278,47 @@
     "German": 8,
     "Russian": 4
    },
+   "ru": "Дон Кихот",
+   "ru_author": "Сервантес",
    "score": 456,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/996.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/996"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Don_Quixote&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%83%D0%BC%D0%BD%D0%BE-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B0%D0%BB%D1%8C%D0%B3%D0%BE_%D0%94%D0%BE%D0%BD-%D0%9A%D0%B8%D1%85%D0%BE%D1%82_%D0%9B%D0%B0%D0%BC%D0%B0%D0%BD%D1%87%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%A1%D0%B5%D1%80%D0%B2%D0%B0%D0%BD%D1%82%D0%B5%D1%81%3B_%D0%92%D0%B0%D1%82%D1%81%D0%BE%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%83%D0%BC%D0%BD%D0%BE-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B0%D0%BB%D1%8C%D0%B3%D0%BE_%D0%94%D0%BE%D0%BD-%D0%9A%D0%B8%D1%85%D0%BE%D1%82_%D0%9B%D0%B0%D0%BC%D0%B0%D0%BD%D1%87%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%A1%D0%B5%D1%80%D0%B2%D0%B0%D0%BD%D1%82%D0%B5%D1%81%3B_%D0%92%D0%B0%D1%82%D1%81%D0%BE%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D1%83%D0%BC%D0%BD%D0%BE-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B5%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B8%D0%B4%D0%B0%D0%BB%D1%8C%D0%B3%D0%BE_%D0%94%D0%BE%D0%BD-%D0%9A%D0%B8%D1%85%D0%BE%D1%82_%D0%9B%D0%B0%D0%BC%D0%B0%D0%BD%D1%87%D1%81%D0%BA%D0%B8%D0%B9_%28%D0%A1%D0%B5%D1%80%D0%B2%D0%B0%D0%BD%D1%82%D0%B5%D1%81%3B_%D0%92%D0%B0%D1%82%D1%81%D0%BE%D0%BD%29"
+    }
+   ],
    "retranslations": 38,
    "rank": 7
   },
@@ -138,7 +335,23 @@
     "French": 6,
     "Russian": 5
    },
+   "ru": "Бхагавад-гита",
+   "ru_author": "",
    "score": 452,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2388.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2388"
+    }
+   ],
    "retranslations": 117,
    "rank": 8
   },
@@ -154,7 +367,47 @@
     "German": 6,
     "Russian": 2
    },
+   "ru": "Приключения Пиноккио",
+   "ru_author": "Коллоди",
    "score": 447,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/500.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/500"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Adventures_of_Pinocchio_%281904%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D0%B8%D0%BD%D0%BE%D0%BA%D0%BA%D0%B8%D0%BE_%28%D0%9A%D0%BE%D0%BB%D0%BB%D0%BE%D0%B4%D0%B8%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D0%B8%D0%BD%D0%BE%D0%BA%D0%BA%D0%B8%D0%BE_%28%D0%9A%D0%BE%D0%BB%D0%BB%D0%BE%D0%B4%D0%B8%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%9F%D0%B8%D0%BD%D0%BE%D0%BA%D0%BA%D0%B8%D0%BE_%28%D0%9A%D0%BE%D0%BB%D0%BB%D0%BE%D0%B4%D0%B8%29"
+    }
+   ],
    "retranslations": 20,
    "rank": 9
   },
@@ -171,7 +424,23 @@
     "French": 15,
     "Russian": 4
    },
+   "ru": "Божественная комедия",
+   "ru_author": "Данте",
    "score": 446,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/8800.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/8800"
+    }
+   ],
    "retranslations": 80,
    "rank": 10
   },
@@ -188,7 +457,41 @@
     "French": 6,
     "Russian": 4
    },
+   "ru": "Илиада",
+   "ru_author": "Гомер",
    "score": 391,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2199.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2199"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%98%D0%BB%D0%B8%D0%B0%D0%B4%D0%B0_%28%D0%93%D0%BE%D0%BC%D0%B5%D1%80%3B_%D0%93%D0%BD%D0%B5%D0%B4%D0%B8%D1%87%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%98%D0%BB%D0%B8%D0%B0%D0%B4%D0%B0_%28%D0%93%D0%BE%D0%BC%D0%B5%D1%80%3B_%D0%93%D0%BD%D0%B5%D0%B4%D0%B8%D1%87%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%98%D0%BB%D0%B8%D0%B0%D0%B4%D0%B0_%28%D0%93%D0%BE%D0%BC%D0%B5%D1%80%3B_%D0%93%D0%BD%D0%B5%D0%B4%D0%B8%D1%87%29"
+    }
+   ],
    "retranslations": 64,
    "rank": 11
   },
@@ -204,7 +507,23 @@
     "French": 6,
     "Russian": 4
    },
+   "ru": "Сказки братьев Гримм",
+   "ru_author": "Гримм",
    "score": 383,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2591.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2591"
+    }
+   ],
    "retranslations": 27,
    "rank": 12
   },
@@ -220,739 +539,49 @@
     "French": 15,
     "Russian": 10
    },
+   "ru": "Гамлет",
+   "ru_author": "Шекспир",
    "score": 369,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1122.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1122"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Hamlet_%28Shakespeare%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%B0%D0%BC%D0%BB%D0%B5%D1%82_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%9A%D1%80%D0%BE%D0%BD%D0%B5%D0%B1%D0%B5%D1%80%D0%B3%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%B0%D0%BC%D0%BB%D0%B5%D1%82_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%9A%D1%80%D0%BE%D0%BD%D0%B5%D0%B1%D0%B5%D1%80%D0%B3%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%93%D0%B0%D0%BC%D0%BB%D0%B5%D1%82_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%9A%D1%80%D0%BE%D0%BD%D0%B5%D0%B1%D0%B5%D1%80%D0%B3%29"
+    }
+   ],
    "retranslations": 42,
    "rank": 13
-  },
-  {
-   "title": "The Raven",
-   "author": "Edgar Allan Poe",
-   "year": 1845,
-   "orig": "English",
-   "genre": "Poetry & Epic",
-   "langs": 40,
-   "multi": {
-    "Russian": 30,
-    "German": 10,
-    "Spanish": 8,
-    "French": 3
-   },
-   "score": 360,
-   "retranslations": 47,
-   "rank": 14
-  },
-  {
-   "title": "Rubáiyát of Omar Khayyám",
-   "author": "Omar Khayyám",
-   "year": 1120,
-   "orig": "Persian",
-   "genre": "Poetry & Epic",
-   "langs": 80,
-   "multi": {
-    "English": 30,
-    "Russian": 10,
-    "German": 6
-   },
-   "score": 350,
-   "retranslations": 43,
-   "rank": 15
-  },
-  {
-   "title": "Andersen's Fairy Tales",
-   "author": "Hans Christian Andersen",
-   "year": 1835,
-   "orig": "Danish",
-   "genre": "Children's",
-   "langs": 125,
-   "multi": {
-    "English": 20,
-    "German": 6,
-    "Russian": 4
-   },
-   "score": 348,
-   "retranslations": 27,
-   "rank": 16
-  },
-  {
-   "title": "The Imitation of Christ",
-   "author": "Thomas à Kempis",
-   "year": 1427,
-   "orig": "Latin",
-   "genre": "Religion & Spirituality",
-   "langs": 90,
-   "multi": {
-    "English": 15,
-    "French": 10,
-    "German": 8
-   },
-   "score": 346,
-   "retranslations": 30,
-   "rank": 17
-  },
-  {
-   "title": "Romeo and Juliet",
-   "author": "William Shakespeare",
-   "year": 1597,
-   "orig": "English",
-   "genre": "Drama",
-   "langs": 80,
-   "multi": {
-    "German": 12,
-    "French": 10,
-    "Russian": 8
-   },
-   "score": 328,
-   "retranslations": 27,
-   "rank": 18
-  },
-  {
-   "title": "Faust",
-   "author": "Johann Wolfgang von Goethe",
-   "year": 1808,
-   "orig": "German",
-   "genre": "Drama",
-   "langs": 60,
-   "multi": {
-    "English": 40,
-    "French": 6,
-    "Russian": 5
-   },
-   "score": 316,
-   "retranslations": 48,
-   "rank": 19
-  },
-  {
-   "title": "The Metamorphosis",
-   "author": "Franz Kafka",
-   "year": 1915,
-   "orig": "German",
-   "genre": "Modern Literary Fiction",
-   "langs": 100,
-   "multi": {
-    "English": 20,
-    "French": 6,
-    "Russian": 3
-   },
-   "score": 312,
-   "retranslations": 26,
-   "rank": 20
-  },
-  {
-   "title": "Robinson Crusoe",
-   "author": "Daniel Defoe",
-   "year": 1719,
-   "orig": "English",
-   "genre": "Adventure",
-   "langs": 100,
-   "multi": {
-    "German": 10,
-    "French": 8,
-    "Russian": 4
-   },
-   "score": 308,
-   "retranslations": 19,
-   "rank": 21
-  },
-  {
-   "title": "Crime and Punishment",
-   "author": "Fyodor Dostoevsky",
-   "year": 1866,
-   "orig": "Russian",
-   "genre": "Classic Literature",
-   "langs": 80,
-   "multi": {
-    "English": 13,
-    "German": 7,
-    "French": 6
-   },
-   "score": 307,
-   "retranslations": 23,
-   "rank": 22
-  },
-  {
-   "title": "Oedipus Rex",
-   "author": "Sophocles",
-   "year": -429,
-   "orig": "Ancient Greek",
-   "genre": "Drama",
-   "langs": 40,
-   "multi": {
-    "English": 30,
-    "German": 8,
-    "French": 6
-   },
-   "score": 302,
-   "retranslations": 41,
-   "rank": 23
-  },
-  {
-   "title": "The Prince",
-   "author": "Niccolò Machiavelli",
-   "year": 1532,
-   "orig": "Italian",
-   "genre": "Philosophy",
-   "langs": 60,
-   "multi": {
-    "English": 25,
-    "French": 6,
-    "German": 5
-   },
-   "score": 299,
-   "retranslations": 33,
-   "rank": 24
-  },
-  {
-   "title": "The Communist Manifesto",
-   "author": "Karl Marx & Friedrich Engels",
-   "year": 1848,
-   "orig": "German",
-   "genre": "History & Non-fiction",
-   "langs": 200,
-   "multi": {
-    "English": 3,
-    "Russian": 5
-   },
-   "score": 298,
-   "retranslations": 6,
-   "rank": 25
-  },
-  {
-   "title": "Eugene Onegin",
-   "author": "Alexander Pushkin",
-   "year": 1833,
-   "orig": "Russian",
-   "genre": "Poetry & Epic",
-   "langs": 40,
-   "multi": {
-    "English": 25,
-    "German": 10,
-    "French": 5
-   },
-   "score": 297,
-   "retranslations": 37,
-   "rank": 26
-  },
-  {
-   "title": "Macbeth",
-   "author": "William Shakespeare",
-   "year": 1623,
-   "orig": "English",
-   "genre": "Drama",
-   "langs": 70,
-   "multi": {
-    "German": 10,
-    "French": 8,
-    "Russian": 6
-   },
-   "score": 293,
-   "retranslations": 21,
-   "rank": 27
-  },
-  {
-   "title": "Anna Karenina",
-   "author": "Leo Tolstoy",
-   "year": 1878,
-   "orig": "Russian",
-   "genre": "Classic Literature",
-   "langs": 60,
-   "multi": {
-    "English": 12,
-    "German": 8,
-    "French": 6
-   },
-   "score": 289,
-   "retranslations": 23,
-   "rank": 28
-  },
-  {
-   "title": "The Dhammapada",
-   "author": "Buddhist canon",
-   "year": -250,
-   "orig": "Pali",
-   "genre": "Religion & Spirituality",
-   "langs": 50,
-   "multi": {
-    "English": 30,
-    "German": 6,
-    "French": 4
-   },
-   "score": 287,
-   "retranslations": 37,
-   "rank": 29
-  },
-  {
-   "title": "The Aeneid",
-   "author": "Virgil",
-   "year": -19,
-   "orig": "Latin",
-   "genre": "Poetry & Epic",
-   "langs": 40,
-   "multi": {
-    "English": 30,
-    "French": 6,
-    "German": 5
-   },
-   "score": 285,
-   "retranslations": 38,
-   "rank": 30
-  },
-  {
-   "title": "The Pilgrim's Progress",
-   "author": "John Bunyan",
-   "year": 1678,
-   "orig": "English",
-   "genre": "Religion & Spirituality",
-   "langs": 200,
-   "multi": {
-    "French": 3,
-    "German": 3
-   },
-   "score": 279,
-   "retranslations": 4,
-   "rank": 31
-  },
-  {
-   "title": "War and Peace",
-   "author": "Leo Tolstoy",
-   "year": 1869,
-   "orig": "Russian",
-   "genre": "Classic Literature",
-   "langs": 50,
-   "multi": {
-    "English": 12,
-    "German": 8,
-    "French": 6
-   },
-   "score": 279,
-   "retranslations": 23,
-   "rank": 32
-  },
-  {
-   "title": "The Republic",
-   "author": "Plato",
-   "year": -375,
-   "orig": "Ancient Greek",
-   "genre": "Philosophy",
-   "langs": 50,
-   "multi": {
-    "English": 15,
-    "German": 6,
-    "French": 6
-   },
-   "score": 277,
-   "retranslations": 24,
-   "rank": 33
-  },
-  {
-   "title": "Nineteen Eighty-Four",
-   "author": "George Orwell",
-   "year": 1949,
-   "orig": "English",
-   "genre": "Dystopian",
-   "langs": 65,
-   "multi": {
-    "German": 6,
-    "Russian": 5,
-    "Spanish": 4,
-    "French": 3
-   },
-   "score": 277,
-   "retranslations": 14,
-   "rank": 34
-  },
-  {
-   "title": "The Prophet",
-   "author": "Kahlil Gibran",
-   "year": 1923,
-   "orig": "English",
-   "genre": "Religion & Spirituality",
-   "langs": 110,
-   "multi": {
-    "Arabic": 8,
-    "French": 4,
-    "Russian": 3
-   },
-   "score": 275,
-   "retranslations": 12,
-   "rank": 35
-  },
-  {
-   "title": "The Art of War",
-   "author": "Sun Tzu",
-   "year": -500,
-   "orig": "Classical Chinese",
-   "genre": "Philosophy",
-   "langs": 40,
-   "multi": {
-    "English": 30,
-    "French": 5,
-    "Russian": 4
-   },
-   "score": 271,
-   "retranslations": 36,
-   "rank": 36
-  },
-  {
-   "title": "Meditations",
-   "author": "Marcus Aurelius",
-   "year": 180,
-   "orig": "Ancient Greek",
-   "genre": "Philosophy",
-   "langs": 40,
-   "multi": {
-    "English": 15,
-    "French": 6,
-    "German": 5
-   },
-   "score": 260,
-   "retranslations": 23,
-   "rank": 37
-  },
-  {
-   "title": "The Great Gatsby",
-   "author": "F. Scott Fitzgerald",
-   "year": 1925,
-   "orig": "English",
-   "genre": "Modern Literary Fiction",
-   "langs": 42,
-   "multi": {
-    "German": 10,
-    "French": 7,
-    "Spanish": 6
-   },
-   "score": 260,
-   "retranslations": 20,
-   "rank": 38
-  },
-  {
-   "title": "The Brothers Karamazov",
-   "author": "Fyodor Dostoevsky",
-   "year": 1880,
-   "orig": "Russian",
-   "genre": "Classic Literature",
-   "langs": 60,
-   "multi": {
-    "English": 8,
-    "German": 6,
-    "French": 5
-   },
-   "score": 258,
-   "retranslations": 16,
-   "rank": 39
-  },
-  {
-   "title": "The Analects",
-   "author": "Confucius",
-   "year": -475,
-   "orig": "Classical Chinese",
-   "genre": "Philosophy",
-   "langs": 40,
-   "multi": {
-    "English": 20,
-    "German": 4,
-    "French": 4
-   },
-   "score": 248,
-   "retranslations": 25,
-   "rank": 40
-  },
-  {
-   "title": "The Hound of the Baskervilles",
-   "author": "Arthur Conan Doyle",
-   "year": 1902,
-   "orig": "English",
-   "genre": "Mystery & Thriller",
-   "langs": 70,
-   "multi": {
-    "German": 6,
-    "Russian": 4,
-    "French": 4
-   },
-   "score": 235,
-   "retranslations": 11,
-   "rank": 41
-  },
-  {
-   "title": "Thus Spoke Zarathustra",
-   "author": "Friedrich Nietzsche",
-   "year": 1883,
-   "orig": "German",
-   "genre": "Philosophy",
-   "langs": 60,
-   "multi": {
-    "English": 8,
-    "French": 5,
-    "Russian": 3
-   },
-   "score": 233,
-   "retranslations": 13,
-   "rank": 42
-  },
-  {
-   "title": "Madame Bovary",
-   "author": "Gustave Flaubert",
-   "year": 1857,
-   "orig": "French",
-   "genre": "Classic Literature",
-   "langs": 60,
-   "multi": {
-    "English": 20,
-    "German": 6
-   },
-   "score": 233,
-   "retranslations": 24,
-   "rank": 43
-  },
-  {
-   "title": "Animal Farm",
-   "author": "George Orwell",
-   "year": 1945,
-   "orig": "English",
-   "genre": "Dystopian",
-   "langs": 70,
-   "multi": {
-    "Russian": 5,
-    "German": 4,
-    "French": 4
-   },
-   "score": 228,
-   "retranslations": 10,
-   "rank": 44
-  },
-  {
-   "title": "Beowulf",
-   "author": "Anonymous",
-   "year": 1000,
-   "orig": "Old English",
-   "genre": "Poetry & Epic",
-   "langs": 35,
-   "multi": {
-    "English (modern)": 40,
-    "German": 5
-   },
-   "score": 226,
-   "retranslations": 43,
-   "rank": 45
-  },
-  {
-   "title": "Gulliver's Travels",
-   "author": "Jonathan Swift",
-   "year": 1726,
-   "orig": "English",
-   "genre": "Adventure",
-   "langs": 50,
-   "multi": {
-    "German": 6,
-    "French": 5,
-    "Russian": 4
-   },
-   "score": 223,
-   "retranslations": 12,
-   "rank": 46
-  },
-  {
-   "title": "The Histories",
-   "author": "Herodotus",
-   "year": -430,
-   "orig": "Ancient Greek",
-   "genre": "History & Non-fiction",
-   "langs": 30,
-   "multi": {
-    "English": 12,
-    "German": 4,
-    "French": 4
-   },
-   "score": 220,
-   "retranslations": 17,
-   "rank": 47
-  },
-  {
-   "title": "Pride and Prejudice",
-   "author": "Jane Austen",
-   "year": 1813,
-   "orig": "English",
-   "genre": "Romance",
-   "langs": 40,
-   "multi": {
-    "French": 8,
-    "German": 6,
-    "Russian": 3
-   },
-   "score": 219,
-   "retranslations": 14,
-   "rank": 48
-  },
-  {
-   "title": "Treasure Island",
-   "author": "Robert Louis Stevenson",
-   "year": 1883,
-   "orig": "English",
-   "genre": "Adventure",
-   "langs": 60,
-   "multi": {
-    "German": 5,
-    "Russian": 4,
-    "French": 4
-   },
-   "score": 218,
-   "retranslations": 10,
-   "rank": 49
-  },
-  {
-   "title": "The Epic of Gilgamesh",
-   "author": "Anonymous",
-   "year": -1200,
-   "orig": "Akkadian",
-   "genre": "Poetry & Epic",
-   "langs": 35,
-   "multi": {
-    "English": 15,
-    "German": 4,
-    "Russian": 2
-   },
-   "score": 208,
-   "retranslations": 18,
-   "rank": 50
-  },
-  {
-   "title": "The Hobbit",
-   "author": "J. R. R. Tolkien",
-   "year": 1937,
-   "orig": "English",
-   "genre": "Fantasy",
-   "langs": 60,
-   "multi": {
-    "Russian": 5,
-    "German": 3,
-    "French": 2,
-    "Swedish": 2
-   },
-   "score": 208,
-   "retranslations": 8,
-   "rank": 51
-  },
-  {
-   "title": "Moby-Dick",
-   "author": "Herman Melville",
-   "year": 1851,
-   "orig": "English",
-   "genre": "Classic Literature",
-   "langs": 30,
-   "multi": {
-    "German": 6,
-    "Italian": 5,
-    "French": 4
-   },
-   "score": 203,
-   "retranslations": 12,
-   "rank": 52
-  },
-  {
-   "title": "Frankenstein",
-   "author": "Mary Shelley",
-   "year": 1818,
-   "orig": "English",
-   "genre": "Horror & Gothic",
-   "langs": 50,
-   "multi": {
-    "French": 5,
-    "German": 4,
-    "Russian": 3
-   },
-   "score": 198,
-   "retranslations": 9,
-   "rank": 53
-  },
-  {
-   "title": "Jane Eyre",
-   "author": "Charlotte Brontë",
-   "year": 1847,
-   "orig": "English",
-   "genre": "Romance",
-   "langs": 57,
-   "multi": {
-    "French": 8,
-    "German": 6
-   },
-   "score": 197,
-   "retranslations": 12,
-   "rank": 54
-  },
-  {
-   "title": "The Picture of Dorian Gray",
-   "author": "Oscar Wilde",
-   "year": 1890,
-   "orig": "English",
-   "genre": "Horror & Gothic",
-   "langs": 50,
-   "multi": {
-    "German": 6,
-    "Russian": 3,
-    "French": 3
-   },
-   "score": 194,
-   "retranslations": 9,
-   "rank": 55
-  },
-  {
-   "title": "Les Misérables",
-   "author": "Victor Hugo",
-   "year": 1862,
-   "orig": "French",
-   "genre": "Classic Literature",
-   "langs": 60,
-   "multi": {
-    "English": 8,
-    "German": 5
-   },
-   "score": 193,
-   "retranslations": 11,
-   "rank": 56
-  },
-  {
-   "title": "Twenty Thousand Leagues Under the Seas",
-   "author": "Jules Verne",
-   "year": 1870,
-   "orig": "French",
-   "genre": "Science Fiction",
-   "langs": 70,
-   "multi": {
-    "English": 10,
-    "Russian": 3
-   },
-   "score": 193,
-   "retranslations": 11,
-   "rank": 57
-  },
-  {
-   "title": "The Cherry Orchard",
-   "author": "Anton Chekhov",
-   "year": 1904,
-   "orig": "Russian",
-   "genre": "Drama",
-   "langs": 40,
-   "multi": {
-    "English": 15,
-    "German": 4
-   },
-   "score": 188,
-   "retranslations": 17,
-   "rank": 58
-  },
-  {
-   "title": "Candide",
-   "author": "Voltaire",
-   "year": 1759,
-   "orig": "French",
-   "genre": "Classic Literature",
-   "langs": 50,
-   "multi": {
-    "English": 10,
-    "German": 4
-   },
-   "score": 183,
-   "retranslations": 12,
-   "rank": 59
   },
   {
    "title": "The Lord of the Rings",
@@ -967,9 +596,2421 @@
     "French": 2,
     "Swedish": 2
    },
-   "score": 183,
+   "ru": "Властелин колец",
+   "ru_author": "Толкин",
+   "score": 366,
+   "free": [],
    "retranslations": 9,
+   "rank": 14
+  },
+  {
+   "title": "The Raven",
+   "author": "Edgar Allan Poe",
+   "year": 1845,
+   "orig": "English",
+   "genre": "Poetry & Epic",
+   "langs": 40,
+   "multi": {
+    "Russian": 30,
+    "German": 10,
+    "Spanish": 8,
+    "French": 3
+   },
+   "ru": "Ворон",
+   "ru_author": "По",
+   "score": 360,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1065.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1065"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Raven_%28Poe%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%92%D0%BE%D1%80%D0%BE%D0%BD_%28%D0%9F%D0%BE%3B_1885%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%92%D0%BE%D1%80%D0%BE%D0%BD_%28%D0%9F%D0%BE%3B_1885%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%BD_%28%D0%9F%D0%BE%3B_1885%29"
+    }
+   ],
+   "retranslations": 47,
+   "rank": 15
+  },
+  {
+   "title": "Rubáiyát of Omar Khayyám",
+   "author": "Omar Khayyám",
+   "year": 1120,
+   "orig": "Persian",
+   "genre": "Poetry & Epic",
+   "langs": 80,
+   "multi": {
+    "English": 30,
+    "Russian": 10,
+    "German": 6
+   },
+   "ru": "Рубаи",
+   "ru_author": "Хайям",
+   "score": 350,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/246.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/246"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Rub%C3%A1iy%C3%A1t_of_Omar_Khayy%C3%A1m_%28tr._Fitzgerald%2C_1905%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A0%D1%83%D0%B1%D0%B0%D0%B8_%28%D0%A5%D0%B0%D0%B9%D1%8F%D0%BC%3B_%D0%9B._%D0%9D.%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A0%D1%83%D0%B1%D0%B0%D0%B8_%28%D0%A5%D0%B0%D0%B9%D1%8F%D0%BC%3B_%D0%9B._%D0%9D.%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A0%D1%83%D0%B1%D0%B0%D0%B8_%28%D0%A5%D0%B0%D0%B9%D1%8F%D0%BC%3B_%D0%9B._%D0%9D.%29"
+    }
+   ],
+   "retranslations": 43,
+   "rank": 16
+  },
+  {
+   "title": "Andersen's Fairy Tales",
+   "author": "Hans Christian Andersen",
+   "year": 1835,
+   "orig": "Danish",
+   "genre": "Children's",
+   "langs": 125,
+   "multi": {
+    "English": 20,
+    "German": 6,
+    "Russian": 4
+   },
+   "ru": "Сказки",
+   "ru_author": "Андерсен",
+   "score": 348,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1597.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1597"
+    }
+   ],
+   "retranslations": 27,
+   "rank": 17
+  },
+  {
+   "title": "The Imitation of Christ",
+   "author": "Thomas à Kempis",
+   "year": 1427,
+   "orig": "Latin",
+   "genre": "Religion & Spirituality",
+   "langs": 90,
+   "multi": {
+    "English": 15,
+    "French": 10,
+    "German": 8
+   },
+   "ru": "О подражании Христу",
+   "ru_author": "Кемпийский",
+   "score": 346,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1653.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1653"
+    }
+   ],
+   "retranslations": 30,
+   "rank": 18
+  },
+  {
+   "title": "Romeo and Juliet",
+   "author": "William Shakespeare",
+   "year": 1597,
+   "orig": "English",
+   "genre": "Drama",
+   "langs": 80,
+   "multi": {
+    "German": 12,
+    "French": 10,
+    "Russian": 8
+   },
+   "ru": "Ромео и Джульетта",
+   "ru_author": "Шекспир",
+   "score": 328,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1112.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1112"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Romeo_and_Juliet_%28Shakespeare%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A0%D0%BE%D0%BC%D0%B5%D0%BE_%D0%B8_%D0%94%D0%B6%D1%83%D0%BB%D1%8C%D0%B5%D1%82%D1%82%D0%B0_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A0%D0%BE%D0%BC%D0%B5%D0%BE_%D0%B8_%D0%94%D0%B6%D1%83%D0%BB%D1%8C%D0%B5%D1%82%D1%82%D0%B0_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B5%D0%BE_%D0%B8_%D0%94%D0%B6%D1%83%D0%BB%D1%8C%D0%B5%D1%82%D1%82%D0%B0_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%91%D0%B0%D0%BB%D1%8C%D0%BC%D0%BE%D0%BD%D1%82%29"
+    }
+   ],
+   "retranslations": 27,
+   "rank": 19
+  },
+  {
+   "title": "The Master and Margarita",
+   "author": "Mikhail Bulgakov",
+   "year": 1967,
+   "orig": "Russian",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "English": 7,
+    "German": 4
+   },
+   "ru": "Мастер и Маргарита",
+   "ru_author": "Булгаков",
+   "score": 320,
+   "free": [],
+   "retranslations": 9,
+   "rank": 20
+  },
+  {
+   "title": "Harry Potter and the Philosopher's Stone",
+   "author": "J. K. Rowling",
+   "year": 1997,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 85,
+   "multi": {
+    "Russian": 2,
+    "Chinese": 2,
+    "Portuguese": 2
+   },
+   "ru": "Гарри Поттер и философский камень",
+   "ru_author": "Роулинг",
+   "score": 320,
+   "free": [],
+   "retranslations": 3,
+   "rank": 21
+  },
+  {
+   "title": "Faust",
+   "author": "Johann Wolfgang von Goethe",
+   "year": 1808,
+   "orig": "German",
+   "genre": "Drama",
+   "langs": 60,
+   "multi": {
+    "English": 40,
+    "French": 6,
+    "Russian": 5
+   },
+   "ru": "Фауст",
+   "ru_author": "Гёте",
+   "score": 316,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/14460.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/14460"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A4%D0%B0%D1%83%D1%81%D1%82_%28%D0%93%D1%91%D1%82%D0%B5%3B_%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A4%D0%B0%D1%83%D1%81%D1%82_%28%D0%93%D1%91%D1%82%D0%B5%3B_%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A4%D0%B0%D1%83%D1%81%D1%82_%28%D0%93%D1%91%D1%82%D0%B5%3B_%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29"
+    }
+   ],
+   "retranslations": 48,
+   "rank": 22
+  },
+  {
+   "title": "The Metamorphosis",
+   "author": "Franz Kafka",
+   "year": 1915,
+   "orig": "German",
+   "genre": "Modern Literary Fiction",
+   "langs": 100,
+   "multi": {
+    "English": 20,
+    "French": 6,
+    "Russian": 3
+   },
+   "ru": "Превращение",
+   "ru_author": "Кафка",
+   "score": 312,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/5200.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/5200"
+    }
+   ],
+   "retranslations": 26,
+   "rank": 23
+  },
+  {
+   "title": "Robinson Crusoe",
+   "author": "Daniel Defoe",
+   "year": 1719,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 100,
+   "multi": {
+    "German": 10,
+    "French": 8,
+    "Russian": 4
+   },
+   "ru": "Робинзон Крузо",
+   "ru_author": "Дефо",
+   "score": 308,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/521.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/521"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Robinson_Crusoe_%28Defoe%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD_%D0%9A%D1%80%D1%83%D0%B7%D0%BE_%28%D0%94%D0%B5%D1%84%D0%BE%3B_%D0%A8%D0%B8%D1%88%D0%BC%D0%B0%D1%80%D1%91%D0%B2%D0%B0%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD_%D0%9A%D1%80%D1%83%D0%B7%D0%BE_%28%D0%94%D0%B5%D1%84%D0%BE%3B_%D0%A8%D0%B8%D1%88%D0%BC%D0%B0%D1%80%D1%91%D0%B2%D0%B0%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B8%D0%BD%D0%B7%D0%BE%D0%BD_%D0%9A%D1%80%D1%83%D0%B7%D0%BE_%28%D0%94%D0%B5%D1%84%D0%BE%3B_%D0%A8%D0%B8%D1%88%D0%BC%D0%B0%D1%80%D1%91%D0%B2%D0%B0%29"
+    }
+   ],
+   "retranslations": 19,
+   "rank": 24
+  },
+  {
+   "title": "Crime and Punishment",
+   "author": "Fyodor Dostoevsky",
+   "year": 1866,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 80,
+   "multi": {
+    "English": 13,
+    "German": 7,
+    "French": 6
+   },
+   "ru": "Преступление и наказание",
+   "ru_author": "Достоевский",
+   "score": 307,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2554.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2554"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Crime_and_Punishment&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9F%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29"
+    }
+   ],
+   "retranslations": 23,
+   "rank": 25
+  },
+  {
+   "title": "Oedipus Rex",
+   "author": "Sophocles",
+   "year": -429,
+   "orig": "Ancient Greek",
+   "genre": "Drama",
+   "langs": 40,
+   "multi": {
+    "English": 30,
+    "German": 8,
+    "French": 6
+   },
+   "ru": "Царь Эдип",
+   "ru_author": "Софокл",
+   "score": 302,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/31.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/31"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A6%D0%B0%D1%80%D1%8C_%D0%AD%D0%B4%D0%B8%D0%BF_%28%D0%A1%D0%BE%D1%84%D0%BE%D0%BA%D0%BB%3B_%D0%97%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A6%D0%B0%D1%80%D1%8C_%D0%AD%D0%B4%D0%B8%D0%BF_%28%D0%A1%D0%BE%D1%84%D0%BE%D0%BA%D0%BB%3B_%D0%97%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A6%D0%B0%D1%80%D1%8C_%D0%AD%D0%B4%D0%B8%D0%BF_%28%D0%A1%D0%BE%D1%84%D0%BE%D0%BA%D0%BB%3B_%D0%97%D0%B5%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9%29"
+    }
+   ],
+   "retranslations": 41,
+   "rank": 26
+  },
+  {
+   "title": "The Prince",
+   "author": "Niccolò Machiavelli",
+   "year": 1532,
+   "orig": "Italian",
+   "genre": "Philosophy",
+   "langs": 60,
+   "multi": {
+    "English": 25,
+    "French": 6,
+    "German": 5
+   },
+   "ru": "Государь",
+   "ru_author": "Макиавелли",
+   "score": 299,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1232.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1232"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%8C_%28%D0%9C%D0%B0%D0%BA%D0%B8%D0%B0%D0%B2%D0%B5%D0%BB%D0%BB%D0%B8%3B_%D0%9A%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B8%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%8C_%28%D0%9C%D0%B0%D0%BA%D0%B8%D0%B0%D0%B2%D0%B5%D0%BB%D0%BB%D0%B8%3B_%D0%9A%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B8%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%8C_%28%D0%9C%D0%B0%D0%BA%D0%B8%D0%B0%D0%B2%D0%B5%D0%BB%D0%BB%D0%B8%3B_%D0%9A%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B8%D0%BD%29"
+    }
+   ],
+   "retranslations": 33,
+   "rank": 27
+  },
+  {
+   "title": "The Communist Manifesto",
+   "author": "Karl Marx & Friedrich Engels",
+   "year": 1848,
+   "orig": "German",
+   "genre": "History & Non-fiction",
+   "langs": 200,
+   "multi": {
+    "English": 3,
+    "Russian": 5
+   },
+   "ru": "Манифест Коммунистической партии",
+   "ru_author": "Маркс",
+   "score": 298,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/61.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/61"
+    }
+   ],
+   "retranslations": 6,
+   "rank": 28
+  },
+  {
+   "title": "Eugene Onegin",
+   "author": "Alexander Pushkin",
+   "year": 1833,
+   "orig": "Russian",
+   "genre": "Poetry & Epic",
+   "langs": 40,
+   "multi": {
+    "English": 25,
+    "German": 10,
+    "French": 5
+   },
+   "ru": "Евгений Онегин",
+   "ru_author": "Пушкин",
+   "score": 297,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/23997.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/23997"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8%D0%BD_%28%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8%D0%BD_%28%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_%D0%9E%D0%BD%D0%B5%D0%B3%D0%B8%D0%BD_%28%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%29"
+    }
+   ],
+   "retranslations": 37,
+   "rank": 29
+  },
+  {
+   "title": "Macbeth",
+   "author": "William Shakespeare",
+   "year": 1623,
+   "orig": "English",
+   "genre": "Drama",
+   "langs": 70,
+   "multi": {
+    "German": 10,
+    "French": 8,
+    "Russian": 6
+   },
+   "ru": "Макбет",
+   "ru_author": "Шекспир",
+   "score": 293,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1533.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1533"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Macbeth_%28Shakespeare%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9C%D0%B0%D0%BA%D0%B1%D0%B5%D1%82_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D1%8C%D1%91%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9C%D0%B0%D0%BA%D0%B1%D0%B5%D1%82_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D1%8C%D1%91%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D0%BA%D0%B1%D0%B5%D1%82_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%A1%D0%BE%D0%BB%D0%BE%D0%B2%D1%8C%D1%91%D0%B2%29"
+    }
+   ],
+   "retranslations": 21,
+   "rank": 30
+  },
+  {
+   "title": "Anna Karenina",
+   "author": "Leo Tolstoy",
+   "year": 1878,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 60,
+   "multi": {
+    "English": 12,
+    "German": 8,
+    "French": 6
+   },
+   "ru": "Анна Каренина",
+   "ru_author": "Толстой",
+   "score": 289,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1399.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1399"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%90%D0%BD%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0_%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%90%D0%BD%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0_%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%90%D0%BD%D0%BD%D0%B0_%D0%9A%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%BD%D0%B0_%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29"
+    }
+   ],
+   "retranslations": 23,
+   "rank": 31
+  },
+  {
+   "title": "The Dhammapada",
+   "author": "Buddhist canon",
+   "year": -250,
+   "orig": "Pali",
+   "genre": "Religion & Spirituality",
+   "langs": 50,
+   "multi": {
+    "English": 30,
+    "German": 6,
+    "French": 4
+   },
+   "ru": "Дхаммапада",
+   "ru_author": "",
+   "score": 287,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2017.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2017"
+    }
+   ],
+   "retranslations": 37,
+   "rank": 32
+  },
+  {
+   "title": "The Aeneid",
+   "author": "Virgil",
+   "year": -19,
+   "orig": "Latin",
+   "genre": "Poetry & Epic",
+   "langs": 40,
+   "multi": {
+    "English": 30,
+    "French": 6,
+    "German": 5
+   },
+   "ru": "Энеида",
+   "ru_author": "Вергилий",
+   "score": 285,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/228.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/228"
+    }
+   ],
+   "retranslations": 38,
+   "rank": 33
+  },
+  {
+   "title": "The Pilgrim's Progress",
+   "author": "John Bunyan",
+   "year": 1678,
+   "orig": "English",
+   "genre": "Religion & Spirituality",
+   "langs": 200,
+   "multi": {
+    "French": 3,
+    "German": 3
+   },
+   "ru": "Путешествие пилигрима",
+   "ru_author": "Беньян",
+   "score": 279,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/131.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/131"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Pilgrim%27s_Progress&format=pdf-a4"
+    }
+   ],
+   "retranslations": 4,
+   "rank": 34
+  },
+  {
+   "title": "War and Peace",
+   "author": "Leo Tolstoy",
+   "year": 1869,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 50,
+   "multi": {
+    "English": 12,
+    "German": 8,
+    "French": 6
+   },
+   "ru": "Война и мир",
+   "ru_author": "Толстой",
+   "score": 279,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2600.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2600"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=War_and_Peace_%28Tolstoy%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%BC%D0%B8%D1%80_%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%BC%D0%B8%D1%80_%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%BC%D0%B8%D1%80_%28%D0%A2%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%B9%29"
+    }
+   ],
+   "retranslations": 23,
+   "rank": 35
+  },
+  {
+   "title": "The Republic",
+   "author": "Plato",
+   "year": -375,
+   "orig": "Ancient Greek",
+   "genre": "Philosophy",
+   "langs": 50,
+   "multi": {
+    "English": 15,
+    "German": 6,
+    "French": 6
+   },
+   "ru": "Государство",
+   "ru_author": "Платон",
+   "score": 277,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/150.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/150"
+    }
+   ],
+   "retranslations": 24,
+   "rank": 36
+  },
+  {
+   "title": "Nineteen Eighty-Four",
+   "author": "George Orwell",
+   "year": 1949,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 65,
+   "multi": {
+    "German": 6,
+    "Russian": 5,
+    "Spanish": 4,
+    "French": 3
+   },
+   "ru": "1984",
+   "ru_author": "Оруэлл",
+   "score": 277,
+   "free": [],
+   "retranslations": 14,
+   "rank": 37
+  },
+  {
+   "title": "The Prophet",
+   "author": "Kahlil Gibran",
+   "year": 1923,
+   "orig": "English",
+   "genre": "Religion & Spirituality",
+   "langs": 110,
+   "multi": {
+    "Arabic": 8,
+    "French": 4,
+    "Russian": 3
+   },
+   "ru": "Пророк",
+   "ru_author": "Джебран",
+   "score": 275,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/58585.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/58585"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Prophet_%28Gibran%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 12,
+   "rank": 38
+  },
+  {
+   "title": "The Art of War",
+   "author": "Sun Tzu",
+   "year": -500,
+   "orig": "Classical Chinese",
+   "genre": "Philosophy",
+   "langs": 40,
+   "multi": {
+    "English": 30,
+    "French": 5,
+    "Russian": 4
+   },
+   "ru": "Искусство войны",
+   "ru_author": "Сунь-цзы",
+   "score": 271,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/132.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/132"
+    }
+   ],
+   "retranslations": 36,
+   "rank": 39
+  },
+  {
+   "title": "Meditations",
+   "author": "Marcus Aurelius",
+   "year": 180,
+   "orig": "Ancient Greek",
+   "genre": "Philosophy",
+   "langs": 40,
+   "multi": {
+    "English": 15,
+    "French": 6,
+    "German": 5
+   },
+   "ru": "Размышления",
+   "ru_author": "Марк Аврелий",
+   "score": 260,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2680.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2680"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9D%D0%B0%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5_%D1%81_%D1%81%D0%BE%D0%B1%D0%BE%D0%B9_%28%D0%9C%D0%B0%D1%80%D0%BA_%D0%90%D0%B2%D1%80%D0%B5%D0%BB%D0%B8%D0%B9%3B_%D0%A0%D0%BE%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9D%D0%B0%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5_%D1%81_%D1%81%D0%BE%D0%B1%D0%BE%D0%B9_%28%D0%9C%D0%B0%D1%80%D0%BA_%D0%90%D0%B2%D1%80%D0%B5%D0%BB%D0%B8%D0%B9%3B_%D0%A0%D0%BE%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9D%D0%B0%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5_%D1%81_%D1%81%D0%BE%D0%B1%D0%BE%D0%B9_%28%D0%9C%D0%B0%D1%80%D0%BA_%D0%90%D0%B2%D1%80%D0%B5%D0%BB%D0%B8%D0%B9%3B_%D0%A0%D0%BE%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%29"
+    }
+   ],
+   "retranslations": 23,
+   "rank": 40
+  },
+  {
+   "title": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "year": 1925,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 42,
+   "multi": {
+    "German": 10,
+    "French": 7,
+    "Spanish": 6
+   },
+   "ru": "Великий Гэтсби",
+   "ru_author": "Фицджеральд",
+   "score": 260,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/64317.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/64317"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Great_Gatsby_%281925%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 20,
+   "rank": 41
+  },
+  {
+   "title": "The Brothers Karamazov",
+   "author": "Fyodor Dostoevsky",
+   "year": 1880,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 60,
+   "multi": {
+    "English": 8,
+    "German": 6,
+    "French": 5
+   },
+   "ru": "Братья Карамазовы",
+   "ru_author": "Достоевский",
+   "score": 258,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/28054.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/28054"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Brothers_Karamazov&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F_%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F_%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%91%D1%80%D0%B0%D1%82%D1%8C%D1%8F_%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29"
+    }
+   ],
+   "retranslations": 16,
+   "rank": 42
+  },
+  {
+   "title": "Dune",
+   "author": "Frank Herbert",
+   "year": 1965,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 25,
+   "multi": {
+    "Russian": 4,
+    "German": 2,
+    "French": 2
+   },
+   "ru": "Дюна",
+   "ru_author": "Герберт",
+   "score": 250,
+   "free": [],
+   "retranslations": 5,
+   "rank": 43
+  },
+  {
+   "title": "The Analects",
+   "author": "Confucius",
+   "year": -475,
+   "orig": "Classical Chinese",
+   "genre": "Philosophy",
+   "langs": 40,
+   "multi": {
+    "English": 20,
+    "German": 4,
+    "French": 4
+   },
+   "ru": "Лунь юй",
+   "ru_author": "Конфуций",
+   "score": 248,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/3330.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/3330"
+    }
+   ],
+   "retranslations": 25,
+   "rank": 44
+  },
+  {
+   "title": "The Catcher in the Rye",
+   "author": "J. D. Salinger",
+   "year": 1951,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 30,
+   "multi": {
+    "German": 3,
+    "French": 2,
+    "Russian": 2
+   },
+   "ru": "Над пропастью во ржи",
+   "ru_author": "Сэлинджер",
+   "score": 239,
+   "free": [],
+   "retranslations": 4,
+   "rank": 45
+  },
+  {
+   "title": "Charlie and the Chocolate Factory",
+   "author": "Roald Dahl",
+   "year": 1964,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 55,
+   "multi": {
+    "Russian": 3,
+    "German": 2
+   },
+   "ru": "Чарли и шоколадная фабрика",
+   "ru_author": "Даль",
+   "score": 239,
+   "free": [],
+   "retranslations": 3,
+   "rank": 46
+  },
+  {
+   "title": "The Hound of the Baskervilles",
+   "author": "Arthur Conan Doyle",
+   "year": 1902,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 70,
+   "multi": {
+    "German": 6,
+    "Russian": 4,
+    "French": 4
+   },
+   "ru": "Собака Баскервилей",
+   "ru_author": "Конан Дойл",
+   "score": 235,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2852.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2852"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Hound_of_the_Baskervilles_%28Newnes%2C_1902%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 11,
+   "rank": 47
+  },
+  {
+   "title": "Thus Spoke Zarathustra",
+   "author": "Friedrich Nietzsche",
+   "year": 1883,
+   "orig": "German",
+   "genre": "Philosophy",
+   "langs": 60,
+   "multi": {
+    "English": 8,
+    "French": 5,
+    "Russian": 3
+   },
+   "ru": "Так говорил Заратустра",
+   "ru_author": "Ницше",
+   "score": 233,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1998.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1998"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A2%D0%B0%D0%BA_%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB_%D0%97%D0%B0%D1%80%D0%B0%D1%82%D1%83%D1%81%D1%82%D1%80%D0%B0_%28%D0%9D%D0%B8%D1%86%D1%88%D0%B5%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A2%D0%B0%D0%BA_%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB_%D0%97%D0%B0%D1%80%D0%B0%D1%82%D1%83%D1%81%D1%82%D1%80%D0%B0_%28%D0%9D%D0%B8%D1%86%D1%88%D0%B5%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A2%D0%B0%D0%BA_%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D0%BB_%D0%97%D0%B0%D1%80%D0%B0%D1%82%D1%83%D1%81%D1%82%D1%80%D0%B0_%28%D0%9D%D0%B8%D1%86%D1%88%D0%B5%29"
+    }
+   ],
+   "retranslations": 13,
+   "rank": 48
+  },
+  {
+   "title": "Madame Bovary",
+   "author": "Gustave Flaubert",
+   "year": 1857,
+   "orig": "French",
+   "genre": "Classic Literature",
+   "langs": 60,
+   "multi": {
+    "English": 20,
+    "German": 6
+   },
+   "ru": "Госпожа Бовари",
+   "ru_author": "Флобер",
+   "score": 233,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2413.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2413"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Madame_Bovary_%28Marx-Aveling_translation%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B6%D0%B0_%D0%91%D0%BE%D0%B2%D0%B0%D1%80%D0%B8_%28%D0%A4%D0%BB%D0%BE%D0%B1%D0%B5%D1%80%3B_%D0%A0%D0%BE%D0%BC%D0%BC%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B6%D0%B0_%D0%91%D0%BE%D0%B2%D0%B0%D1%80%D0%B8_%28%D0%A4%D0%BB%D0%BE%D0%B1%D0%B5%D1%80%3B_%D0%A0%D0%BE%D0%BC%D0%BC%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B6%D0%B0_%D0%91%D0%BE%D0%B2%D0%B0%D1%80%D0%B8_%28%D0%A4%D0%BB%D0%BE%D0%B1%D0%B5%D1%80%3B_%D0%A0%D0%BE%D0%BC%D0%BC%29"
+    }
+   ],
+   "retranslations": 24,
+   "rank": 49
+  },
+  {
+   "title": "Solaris",
+   "author": "Stanisław Lem",
+   "year": 1961,
+   "orig": "Polish",
+   "genre": "Science Fiction",
+   "langs": 40,
+   "multi": {
+    "English": 2,
+    "Russian": 2,
+    "German": 2
+   },
+   "ru": "Солярис",
+   "ru_author": "Лем",
+   "score": 230,
+   "free": [],
+   "retranslations": 3,
+   "rank": 50
+  },
+  {
+   "title": "Animal Farm",
+   "author": "George Orwell",
+   "year": 1945,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 70,
+   "multi": {
+    "Russian": 5,
+    "German": 4,
+    "French": 4
+   },
+   "ru": "Скотный двор",
+   "ru_author": "Оруэлл",
+   "score": 228,
+   "free": [],
+   "retranslations": 10,
+   "rank": 51
+  },
+  {
+   "title": "Sonnets",
+   "author": "William Shakespeare",
+   "year": 1609,
+   "orig": "English",
+   "genre": "Poetry & Epic",
+   "langs": 70,
+   "multi": {
+    "German": 10,
+    "Russian": 8
+   },
+   "ru": "Сонеты",
+   "ru_author": "Шекспир",
+   "score": 228,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1041.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1041"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Shakespeare%27s_Sonnets&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A1%D0%BE%D0%BD%D0%B5%D1%82%D1%8B_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A1%D0%BE%D0%BD%D0%B5%D1%82%D1%8B_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A1%D0%BE%D0%BD%D0%B5%D1%82%D1%8B_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%29"
+    }
+   ],
+   "retranslations": 16,
+   "rank": 52
+  },
+  {
+   "title": "Antigone",
+   "author": "Sophocles",
+   "year": -441,
+   "orig": "Ancient Greek",
+   "genre": "Drama",
+   "langs": 40,
+   "multi": {
+    "English": 30,
+    "German": 6
+   },
+   "ru": "Антигона",
+   "ru_author": "Софокл",
+   "score": 227,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/31.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/31"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%90%D0%BD%D1%82%D0%B8%D0%B3%D0%BE%D0%BD%D0%B0_%28%D0%A1%D0%BE%D1%84%D0%BE%D0%BA%D0%BB%3B_%D0%A8%D0%B5%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%90%D0%BD%D1%82%D0%B8%D0%B3%D0%BE%D0%BD%D0%B0_%28%D0%A1%D0%BE%D1%84%D0%BE%D0%BA%D0%BB%3B_%D0%A8%D0%B5%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D0%B3%D0%BE%D0%BD%D0%B0_%28%D0%A1%D0%BE%D1%84%D0%BE%D0%BA%D0%BB%3B_%D0%A8%D0%B5%D1%81%D1%82%D0%B0%D0%BA%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 34,
+   "rank": 53
+  },
+  {
+   "title": "Beowulf",
+   "author": "Anonymous",
+   "year": 1000,
+   "orig": "Old English",
+   "genre": "Poetry & Epic",
+   "langs": 35,
+   "multi": {
+    "English (modern)": 40,
+    "German": 5
+   },
+   "ru": "Беовульф",
+   "ru_author": "",
+   "score": 226,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/981.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/981"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Beowulf&format=pdf-a4"
+    }
+   ],
+   "retranslations": 43,
+   "rank": 54
+  },
+  {
+   "title": "The Lion, the Witch and the Wardrobe",
+   "author": "C. S. Lewis",
+   "year": 1950,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 47,
+   "multi": {
+    "Russian": 3,
+    "German": 2
+   },
+   "ru": "Лев, колдунья и платяной шкаф",
+   "ru_author": "Льюис",
+   "score": 223,
+   "free": [],
+   "retranslations": 3,
+   "rank": 55
+  },
+  {
+   "title": "Gulliver's Travels",
+   "author": "Jonathan Swift",
+   "year": 1726,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 50,
+   "multi": {
+    "German": 6,
+    "French": 5,
+    "Russian": 4
+   },
+   "ru": "Путешествия Гулливера",
+   "ru_author": "Свифт",
+   "score": 223,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/829.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/829"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Gulliver%27s_Travels&format=pdf-a4"
+    }
+   ],
+   "retranslations": 12,
+   "rank": 56
+  },
+  {
+   "title": "The Histories",
+   "author": "Herodotus",
+   "year": -430,
+   "orig": "Ancient Greek",
+   "genre": "History & Non-fiction",
+   "langs": 30,
+   "multi": {
+    "English": 12,
+    "German": 4,
+    "French": 4
+   },
+   "ru": "История",
+   "ru_author": "Геродот",
+   "score": 220,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2707.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2707"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Histories_%28Paton_translation%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%28%D0%93%D0%B5%D1%80%D0%BE%D0%B4%D0%BE%D1%82%3B_%D0%9C%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%28%D0%93%D0%B5%D1%80%D0%BE%D0%B4%D0%BE%D1%82%3B_%D0%9C%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%28%D0%93%D0%B5%D1%80%D0%BE%D0%B4%D0%BE%D1%82%3B_%D0%9C%D0%B8%D1%89%D0%B5%D0%BD%D0%BA%D0%BE%29"
+    }
+   ],
+   "retranslations": 17,
+   "rank": 57
+  },
+  {
+   "title": "Pride and Prejudice",
+   "author": "Jane Austen",
+   "year": 1813,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 40,
+   "multi": {
+    "French": 8,
+    "German": 6,
+    "Russian": 3
+   },
+   "ru": "Гордость и предубеждение",
+   "ru_author": "Остин",
+   "score": 219,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1342.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1342"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Pride_and_Prejudice_%281817%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 14,
+   "rank": 58
+  },
+  {
+   "title": "Treasure Island",
+   "author": "Robert Louis Stevenson",
+   "year": 1883,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 60,
+   "multi": {
+    "German": 5,
+    "Russian": 4,
+    "French": 4
+   },
+   "ru": "Остров сокровищ",
+   "ru_author": "Стивенсон",
+   "score": 218,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/120.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/120"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Treasure_Island_%281911%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89_%28%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BE%D0%BD%3B_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B0%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89_%28%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BE%D0%BD%3B_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B0%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9E%D1%81%D1%82%D1%80%D0%BE%D0%B2_%D1%81%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D0%B8%D1%89_%28%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%D1%81%D0%BE%D0%BD%3B_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%D0%B0%29"
+    }
+   ],
+   "retranslations": 10,
+   "rank": 59
+  },
+  {
+   "title": "The Epic of Gilgamesh",
+   "author": "Anonymous",
+   "year": -1200,
+   "orig": "Akkadian",
+   "genre": "Poetry & Epic",
+   "langs": 35,
+   "multi": {
+    "English": 15,
+    "German": 4,
+    "Russian": 2
+   },
+   "ru": "Эпос о Гильгамеше",
+   "ru_author": "",
+   "score": 208,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/11000.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/11000"
+    }
+   ],
+   "retranslations": 18,
    "rank": 60
+  },
+  {
+   "title": "The Hobbit",
+   "author": "J. R. R. Tolkien",
+   "year": 1937,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 60,
+   "multi": {
+    "Russian": 5,
+    "German": 3,
+    "French": 2,
+    "Swedish": 2
+   },
+   "ru": "Хоббит",
+   "ru_author": "Толкин",
+   "score": 208,
+   "free": [],
+   "retranslations": 8,
+   "rank": 61
+  },
+  {
+   "title": "Les Fleurs du mal",
+   "author": "Charles Baudelaire",
+   "year": 1857,
+   "orig": "French",
+   "genre": "Poetry & Epic",
+   "langs": 40,
+   "multi": {
+    "English": 20,
+    "Russian": 5
+   },
+   "ru": "Цветы зла",
+   "ru_author": "Бодлер",
+   "score": 206,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/36098.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/36098"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A6%D0%B2%D0%B5%D1%82%D1%8B_%D0%B7%D0%BB%D0%B0_%28%D0%91%D0%BE%D0%B4%D0%BB%D0%B5%D1%80%3B_%D0%9B%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A6%D0%B2%D0%B5%D1%82%D1%8B_%D0%B7%D0%BB%D0%B0_%28%D0%91%D0%BE%D0%B4%D0%BB%D0%B5%D1%80%3B_%D0%9B%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A6%D0%B2%D0%B5%D1%82%D1%8B_%D0%B7%D0%BB%D0%B0_%28%D0%91%D0%BE%D0%B4%D0%BB%D0%B5%D1%80%3B_%D0%9B%D0%B0%D0%BC%D0%B1%D0%BB%D0%B5%29"
+    }
+   ],
+   "retranslations": 23,
+   "rank": 62
+  },
+  {
+   "title": "Moby-Dick",
+   "author": "Herman Melville",
+   "year": 1851,
+   "orig": "English",
+   "genre": "Classic Literature",
+   "langs": 30,
+   "multi": {
+    "German": 6,
+    "Italian": 5,
+    "French": 4
+   },
+   "ru": "Моби Дик",
+   "ru_author": "Мелвилл",
+   "score": 203,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2701.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2701"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Moby-Dick_%28Melville%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 12,
+   "rank": 63
+  },
+  {
+   "title": "King Lear",
+   "author": "William Shakespeare",
+   "year": 1606,
+   "orig": "English",
+   "genre": "Drama",
+   "langs": 60,
+   "multi": {
+    "German": 8,
+    "Russian": 6
+   },
+   "ru": "Король Лир",
+   "ru_author": "Шекспир",
+   "score": 200,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1128.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1128"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=King_Lear_%28Shakespeare%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%9B%D0%B8%D1%80_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%9A%D0%B0%D0%BD%D1%88%D0%B8%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%9B%D0%B8%D1%80_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%9A%D0%B0%D0%BD%D1%88%D0%B8%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D1%8C_%D0%9B%D0%B8%D1%80_%28%D0%A8%D0%B5%D0%BA%D1%81%D0%BF%D0%B8%D1%80%3B_%D0%9A%D0%B0%D0%BD%D1%88%D0%B8%D0%BD%29"
+    }
+   ],
+   "retranslations": 12,
+   "rank": 64
+  },
+  {
+   "title": "Frankenstein",
+   "author": "Mary Shelley",
+   "year": 1818,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 50,
+   "multi": {
+    "French": 5,
+    "German": 4,
+    "Russian": 3
+   },
+   "ru": "Франкенштейн",
+   "ru_author": "Шелли",
+   "score": 198,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/84.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/84"
+    }
+   ],
+   "retranslations": 9,
+   "rank": 65
+  },
+  {
+   "title": "Jane Eyre",
+   "author": "Charlotte Brontë",
+   "year": 1847,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 57,
+   "multi": {
+    "French": 8,
+    "German": 6
+   },
+   "ru": "Джейн Эйр",
+   "ru_author": "Бронте",
+   "score": 197,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1260.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1260"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Jane_Eyre_%281st_edition%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 12,
+   "rank": 66
+  },
+  {
+   "title": "One Day in the Life of Ivan Denisovich",
+   "author": "Aleksandr Solzhenitsyn",
+   "year": 1962,
+   "orig": "Russian",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "English": 5
+   },
+   "ru": "Один день Ивана Денисовича",
+   "ru_author": "Солженицын",
+   "score": 196,
+   "free": [],
+   "retranslations": 4,
+   "rank": 67
+  },
+  {
+   "title": "The Picture of Dorian Gray",
+   "author": "Oscar Wilde",
+   "year": 1890,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 50,
+   "multi": {
+    "German": 6,
+    "Russian": 3,
+    "French": 3
+   },
+   "ru": "Портрет Дориана Грея",
+   "ru_author": "Уайльд",
+   "score": 194,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/174.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/174"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Picture_of_Dorian_Gray&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D1%8F_%28%D0%A3%D0%B0%D0%B9%D0%BB%D1%8C%D0%B4%3B_%D0%9B%D0%B8%D0%BA%D0%B8%D0%B0%D1%80%D0%B4%D0%BE%D0%BF%D1%83%D0%BB%D0%BE%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D1%8F_%28%D0%A3%D0%B0%D0%B9%D0%BB%D1%8C%D0%B4%3B_%D0%9B%D0%B8%D0%BA%D0%B8%D0%B0%D1%80%D0%B4%D0%BE%D0%BF%D1%83%D0%BB%D0%BE%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%94%D0%BE%D1%80%D0%B8%D0%B0%D0%BD%D0%B0_%D0%93%D1%80%D0%B5%D1%8F_%28%D0%A3%D0%B0%D0%B9%D0%BB%D1%8C%D0%B4%3B_%D0%9B%D0%B8%D0%BA%D0%B8%D0%B0%D1%80%D0%B4%D0%BE%D0%BF%D1%83%D0%BB%D0%BE%29"
+    }
+   ],
+   "retranslations": 9,
+   "rank": 68
+  },
+  {
+   "title": "Les Misérables",
+   "author": "Victor Hugo",
+   "year": 1862,
+   "orig": "French",
+   "genre": "Classic Literature",
+   "langs": 60,
+   "multi": {
+    "English": 8,
+    "German": 5
+   },
+   "ru": "Отверженные",
+   "ru_author": "Гюго",
+   "score": 193,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/135.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/135"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Les_Mis%C3%A9rables&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%28%D0%93%D1%8E%D0%B3%D0%BE%3B_%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%28%D0%93%D1%8E%D0%B3%D0%BE%3B_%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9E%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%28%D0%93%D1%8E%D0%B3%D0%BE%3B_%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 11,
+   "rank": 69
+  },
+  {
+   "title": "Twenty Thousand Leagues Under the Seas",
+   "author": "Jules Verne",
+   "year": 1870,
+   "orig": "French",
+   "genre": "Science Fiction",
+   "langs": 70,
+   "multi": {
+    "English": 10,
+    "Russian": 3
+   },
+   "ru": "Двадцать тысяч льё под водой",
+   "ru_author": "Верн",
+   "score": 193,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2488.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2488"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D1%82%D1%8B%D1%81%D1%8F%D1%87_%D0%BB%D1%8C%D0%B5_%D0%BF%D0%BE%D0%B4_%D0%B2%D0%BE%D0%B4%D0%BE%D0%B9_%28%D0%92%D0%B5%D1%80%D0%BD%3B_1907%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D1%82%D1%8B%D1%81%D1%8F%D1%87_%D0%BB%D1%8C%D0%B5_%D0%BF%D0%BE%D0%B4_%D0%B2%D0%BE%D0%B4%D0%BE%D0%B9_%28%D0%92%D0%B5%D1%80%D0%BD%3B_1907%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%94%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C_%D1%82%D1%8B%D1%81%D1%8F%D1%87_%D0%BB%D1%8C%D0%B5_%D0%BF%D0%BE%D0%B4_%D0%B2%D0%BE%D0%B4%D0%BE%D0%B9_%28%D0%92%D0%B5%D1%80%D0%BD%3B_1907%29"
+    }
+   ],
+   "retranslations": 11,
+   "rank": 70
+  },
+  {
+   "title": "The Hitchhiker's Guide to the Galaxy",
+   "author": "Douglas Adams",
+   "year": 1979,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 30,
+   "multi": {
+    "Russian": 3,
+    "German": 2
+   },
+   "ru": "Автостопом по галактике",
+   "ru_author": "Адамс",
+   "score": 189,
+   "free": [],
+   "retranslations": 3,
+   "rank": 71
+  },
+  {
+   "title": "The Cherry Orchard",
+   "author": "Anton Chekhov",
+   "year": 1904,
+   "orig": "Russian",
+   "genre": "Drama",
+   "langs": 40,
+   "multi": {
+    "English": 15,
+    "German": 4
+   },
+   "ru": "Вишнёвый сад",
+   "ru_author": "Чехов",
+   "score": 188,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/7986.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/7986"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Cherry_Orchard&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%92%D0%B8%D1%88%D0%BD%D1%91%D0%B2%D1%8B%D0%B9_%D1%81%D0%B0%D0%B4_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%92%D0%B8%D1%88%D0%BD%D1%91%D0%B2%D1%8B%D0%B9_%D1%81%D0%B0%D0%B4_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%92%D0%B8%D1%88%D0%BD%D1%91%D0%B2%D1%8B%D0%B9_%D1%81%D0%B0%D0%B4_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 17,
+   "rank": 72
+  },
+  {
+   "title": "Candide",
+   "author": "Voltaire",
+   "year": 1759,
+   "orig": "French",
+   "genre": "Classic Literature",
+   "langs": 50,
+   "multi": {
+    "English": 10,
+    "German": 4
+   },
+   "ru": "Кандид",
+   "ru_author": "Вольтер",
+   "score": 183,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/19942.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/19942"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Candide&format=pdf-a4"
+    }
+   ],
+   "retranslations": 12,
+   "rank": 73
+  },
+  {
+   "title": "Lolita",
+   "author": "Vladimir Nabokov",
+   "year": 1955,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "French": 2,
+    "German": 2
+   },
+   "ru": "Лолита",
+   "ru_author": "Набоков",
+   "score": 180,
+   "free": [],
+   "retranslations": 2,
+   "rank": 74
+  },
+  {
+   "title": "To Kill a Mockingbird",
+   "author": "Harper Lee",
+   "year": 1960,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "French": 2,
+    "German": 2
+   },
+   "ru": "Убить пересмешника",
+   "ru_author": "Ли",
+   "score": 180,
+   "free": [],
+   "retranslations": 2,
+   "rank": 75
+  },
+  {
+   "title": "The Old Man and the Sea",
+   "author": "Ernest Hemingway",
+   "year": 1952,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "German": 2,
+    "French": 2
+   },
+   "ru": "Старик и море",
+   "ru_author": "Хемингуэй",
+   "score": 180,
+   "free": [],
+   "retranslations": 2,
+   "rank": 76
+  },
+  {
+   "title": "The Alchemist",
+   "author": "Paulo Coelho",
+   "year": 1988,
+   "orig": "Portuguese",
+   "genre": "Modern Literary Fiction",
+   "langs": 88,
+   "multi": {},
+   "ru": "Алхимик",
+   "ru_author": "Коэльо",
+   "score": 176,
+   "free": [],
+   "retranslations": 0,
+   "rank": 77
   },
   {
    "title": "A Doll's House",
@@ -982,9 +3023,85 @@
     "English": 10,
     "German": 3
    },
+   "ru": "Кукольный дом",
+   "ru_author": "Ибсен",
    "score": 173,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2542.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2542"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=A_Doll%27s_House&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9A%D1%83%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%28%D0%98%D0%B1%D1%81%D0%B5%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9A%D1%83%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%28%D0%98%D0%B1%D1%81%D0%B5%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9A%D1%83%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%28%D0%98%D0%B1%D1%81%D0%B5%D0%BD%29"
+    }
+   ],
    "retranslations": 11,
-   "rank": 61
+   "rank": 78
+  },
+  {
+   "title": "Norwegian Wood",
+   "author": "Haruki Murakami",
+   "year": 1987,
+   "orig": "Japanese",
+   "genre": "Modern Literary Fiction",
+   "langs": 36,
+   "multi": {
+    "English": 2,
+    "Chinese": 2
+   },
+   "ru": "Норвежский лес",
+   "ru_author": "Мураками",
+   "score": 172,
+   "free": [],
+   "retranslations": 2,
+   "rank": 79
+  },
+  {
+   "title": "Lord of the Flies",
+   "author": "William Golding",
+   "year": 1954,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 35,
+   "multi": {
+    "Russian": 2,
+    "German": 2
+   },
+   "ru": "Повелитель мух",
+   "ru_author": "Голдинг",
+   "score": 170,
+   "free": [],
+   "retranslations": 2,
+   "rank": 80
   },
   {
    "title": "Ulysses",
@@ -999,9 +3116,31 @@
     "French": 2,
     "German": 2
    },
+   "ru": "Улисс",
+   "ru_author": "Джойс",
    "score": 169,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/4300.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/4300"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Ulysses_%28Joyce%29&format=pdf-a4"
+    }
+   ],
    "retranslations": 6,
-   "rank": 62
+   "rank": 81
   },
   {
    "title": "Pippi Longstocking",
@@ -1015,9 +3154,12 @@
     "Russian": 2,
     "German": 2
    },
+   "ru": "Пеппи Длинныйчулок",
+   "ru_author": "Линдгрен",
    "score": 167,
+   "free": [],
    "retranslations": 4,
-   "rank": 63
+   "rank": 82
   },
   {
    "title": "The Trial",
@@ -1030,9 +3172,25 @@
     "English": 6,
     "French": 3
    },
+   "ru": "Процесс",
+   "ru_author": "Кафка",
    "score": 164,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/7849.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/7849"
+    }
+   ],
    "retranslations": 7,
-   "rank": 64
+   "rank": 83
   },
   {
    "title": "Dracula",
@@ -1046,9 +3204,31 @@
     "German": 3,
     "French": 3
    },
+   "ru": "Дракула",
+   "ru_author": "Стокер",
    "score": 163,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/345.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/345"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Dracula&format=pdf-a4"
+    }
+   ],
    "retranslations": 6,
-   "rank": 65
+   "rank": 84
   },
   {
    "title": "The Stranger",
@@ -1061,40 +3241,12 @@
     "English": 4,
     "German": 3
    },
+   "ru": "Посторонний",
+   "ru_author": "Камю",
    "score": 160,
+   "free": [],
    "retranslations": 5,
-   "rank": 66
-  },
-  {
-   "title": "The Master and Margarita",
-   "author": "Mikhail Bulgakov",
-   "year": 1967,
-   "orig": "Russian",
-   "genre": "Modern Literary Fiction",
-   "langs": 40,
-   "multi": {
-    "English": 7,
-    "German": 4
-   },
-   "score": 160,
-   "retranslations": 9,
-   "rank": 67
-  },
-  {
-   "title": "Harry Potter and the Philosopher's Stone",
-   "author": "J. K. Rowling",
-   "year": 1997,
-   "orig": "English",
-   "genre": "Fantasy",
-   "langs": 85,
-   "multi": {
-    "Russian": 2,
-    "Chinese": 2,
-    "Portuguese": 2
-   },
-   "score": 160,
-   "retranslations": 3,
-   "rank": 68
+   "rank": 85
   },
   {
    "title": "The Adventures of Tom Sawyer",
@@ -1107,9 +3259,111 @@
     "Russian": 5,
     "German": 4
    },
+   "ru": "Приключения Тома Сойера",
+   "ru_author": "Твен",
    "score": 158,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/74.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/74"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Adventures_of_Tom_Sawyer&format=pdf-a4"
+    }
+   ],
    "retranslations": 7,
-   "rank": 69
+   "rank": 86
+  },
+  {
+   "title": "Confessions",
+   "author": "Augustine of Hippo",
+   "year": 400,
+   "orig": "Latin",
+   "genre": "Religion & Spirituality",
+   "langs": 40,
+   "multi": {
+    "English": 12,
+    "Russian": 2
+   },
+   "ru": "Исповедь",
+   "ru_author": "Августин",
+   "score": 155,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/3296.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/3296"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%98%D1%81%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D1%8C_%28%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%98%D1%81%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D1%8C_%28%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%98%D1%81%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D1%8C_%28%D0%90%D0%B2%D0%B3%D1%83%D1%81%D1%82%D0%B8%D0%BD%29"
+    }
+   ],
+   "retranslations": 12,
+   "rank": 87
+  },
+  {
+   "title": "The Sorrows of Young Werther",
+   "author": "Johann Wolfgang von Goethe",
+   "year": 1774,
+   "orig": "German",
+   "genre": "Classic Literature",
+   "langs": 40,
+   "multi": {
+    "English": 8,
+    "Russian": 3
+   },
+   "ru": "Страдания юного Вертера",
+   "ru_author": "Гёте",
+   "score": 155,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2527.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2527"
+    }
+   ],
+   "retranslations": 9,
+   "rank": 88
   },
   {
    "title": "Paradise Lost",
@@ -1122,9 +3376,49 @@
     "French": 6,
     "German": 5
    },
+   "ru": "Потерянный рай",
+   "ru_author": "Мильтон",
    "score": 153,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/20.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/20"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Paradise_Lost_%281674%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9_%28%D0%9C%D0%B8%D0%BB%D1%8C%D1%82%D0%BE%D0%BD%3B_%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9_%28%D0%9C%D0%B8%D0%BB%D1%8C%D1%82%D0%BE%D0%BD%3B_%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0%D0%B9_%28%D0%9C%D0%B8%D0%BB%D1%8C%D1%82%D0%BE%D0%BD%3B_%D0%A8%D1%83%D0%BB%D1%8C%D0%B3%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%29"
+    }
+   ],
    "retranslations": 9,
-   "rank": 70
+   "rank": 89
   },
   {
    "title": "The Three Musketeers",
@@ -1137,9 +3431,49 @@
     "English": 8,
     "Russian": 2
    },
+   "ru": "Три мушкетёра",
+   "ru_author": "Дюма",
    "score": 150,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1257.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1257"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Three_Musketeers&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A2%D1%80%D0%B8_%D0%BC%D1%83%D1%88%D0%BA%D0%B5%D1%82%D1%91%D1%80%D0%B0_%28%D0%94%D1%8E%D0%BC%D0%B0%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A2%D1%80%D0%B8_%D0%BC%D1%83%D1%88%D0%BA%D0%B5%D1%82%D1%91%D1%80%D0%B0_%28%D0%94%D1%8E%D0%BC%D0%B0%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A2%D1%80%D0%B8_%D0%BC%D1%83%D1%88%D0%BA%D0%B5%D1%82%D1%91%D1%80%D0%B0_%28%D0%94%D1%8E%D0%BC%D0%B0%29"
+    }
+   ],
    "retranslations": 8,
-   "rank": 71
+   "rank": 90
   },
   {
    "title": "On the Origin of Species",
@@ -1153,9 +3487,31 @@
     "French": 3,
     "Russian": 3
    },
+   "ru": "Происхождение видов",
+   "ru_author": "Дарвин",
    "score": 149,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1228.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1228"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=On_the_Origin_of_Species_%281859%29&format=pdf-a4"
+    }
+   ],
    "retranslations": 6,
-   "rank": 72
+   "rank": 91
   },
   {
    "title": "Wuthering Heights",
@@ -1168,9 +3524,123 @@
     "French": 5,
     "German": 4
    },
+   "ru": "Грозовой перевал",
+   "ru_author": "Бронте",
    "score": 148,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/768.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/768"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Wuthering_Heights&format=pdf-a4"
+    }
+   ],
    "retranslations": 7,
-   "rank": 73
+   "rank": 92
+  },
+  {
+   "title": "Adventures of Huckleberry Finn",
+   "author": "Mark Twain",
+   "year": 1884,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 50,
+   "multi": {
+    "German": 5,
+    "Russian": 3
+   },
+   "ru": "Приключения Гекльберри Финна",
+   "ru_author": "Твен",
+   "score": 148,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/76.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/76"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Adventures_of_Huckleberry_Finn&format=pdf-a4"
+    }
+   ],
+   "retranslations": 6,
+   "rank": 93
+  },
+  {
+   "title": "A Christmas Carol",
+   "author": "Charles Dickens",
+   "year": 1843,
+   "orig": "English",
+   "genre": "Classic Literature",
+   "langs": 50,
+   "multi": {
+    "German": 5,
+    "Russian": 3
+   },
+   "ru": "Рождественская песнь в прозе",
+   "ru_author": "Диккенс",
+   "score": 148,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/46.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/46"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=A_Christmas_Carol_%28Dickens%2C_1843_facsimile%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%81%D0%BD%D1%8C_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B7%D0%B5_%28%D0%94%D0%B8%D0%BA%D0%BA%D0%B5%D0%BD%D1%81%3B_%D0%9F%D1%83%D1%88%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%81%D0%BD%D1%8C_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B7%D0%B5_%28%D0%94%D0%B8%D0%BA%D0%BA%D0%B5%D0%BD%D1%81%3B_%D0%9F%D1%83%D1%88%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B5%D1%81%D0%BD%D1%8C_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B7%D0%B5_%28%D0%94%D0%B8%D0%BA%D0%BA%D0%B5%D0%BD%D1%81%3B_%D0%9F%D1%83%D1%88%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 6,
+   "rank": 94
   },
   {
    "title": "The Wealth of Nations",
@@ -1183,9 +3653,48 @@
     "German": 6,
     "French": 4
    },
+   "ru": "Исследование о природе и причинах богатства народов",
+   "ru_author": "Смит",
    "score": 145,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/3300.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/3300"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Wealth_of_Nations&format=pdf-a4"
+    }
+   ],
    "retranslations": 8,
-   "rank": 74
+   "rank": 95
+  },
+  {
+   "title": "A Game of Thrones",
+   "author": "George R. R. Martin",
+   "year": 1996,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 47,
+   "multi": {
+    "German": 2
+   },
+   "ru": "Игра престолов",
+   "ru_author": "Мартин",
+   "score": 144,
+   "free": [],
+   "retranslations": 1,
+   "rank": 96
   },
   {
    "title": "Siddhartha",
@@ -1198,9 +3707,25 @@
     "English": 5,
     "French": 2
    },
+   "ru": "Сиддхартха",
+   "ru_author": "Гессе",
    "score": 143,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2500.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2500"
+    }
+   ],
    "retranslations": 5,
-   "rank": 75
+   "rank": 97
   },
   {
    "title": "Heidi",
@@ -1212,9 +3737,49 @@
    "multi": {
     "English": 13
    },
+   "ru": "Хайди",
+   "ru_author": "Спири",
    "score": 143,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1448.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1448"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Heidi_%281899%29&format=pdf-a4"
+    }
+   ],
    "retranslations": 12,
-   "rank": 76
+   "rank": 98
+  },
+  {
+   "title": "Roadside Picnic",
+   "author": "Arkady & Boris Strugatsky",
+   "year": 1972,
+   "orig": "Russian",
+   "genre": "Science Fiction",
+   "langs": 20,
+   "multi": {
+    "English": 2,
+    "German": 2
+   },
+   "ru": "Пикник на обочине",
+   "ru_author": "Стругацкие",
+   "score": 140,
+   "free": [],
+   "retranslations": 2,
+   "rank": 99
   },
   {
    "title": "Winnie-the-Pooh",
@@ -1228,9 +3793,31 @@
     "German": 2,
     "Hebrew": 2
    },
+   "ru": "Винни-Пух",
+   "ru_author": "Милн",
    "score": 140,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/67098.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/67098"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Winnie-the-Pooh_%281961%29&format=pdf-a4"
+    }
+   ],
    "retranslations": 4,
-   "rank": 77
+   "rank": 100
   },
   {
    "title": "And Then There Were None",
@@ -1244,9 +3831,132 @@
     "German": 2,
     "French": 2
    },
+   "ru": "Десять негритят",
+   "ru_author": "Кристи",
    "score": 140,
+   "free": [],
    "retranslations": 4,
-   "rank": 78
+   "rank": 101
+  },
+  {
+   "title": "The Kite Runner",
+   "author": "Khaled Hosseini",
+   "year": 2003,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 70,
+   "multi": {},
+   "ru": "Бегущий за ветром",
+   "ru_author": "Хоссейни",
+   "score": 140,
+   "free": [],
+   "retranslations": 0,
+   "rank": 102
+  },
+  {
+   "title": "Little Women",
+   "author": "Louisa May Alcott",
+   "year": 1868,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 50,
+   "multi": {
+    "French": 4,
+    "Russian": 3
+   },
+   "ru": "Маленькие женщины",
+   "ru_author": "Олкотт",
+   "score": 140,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/514.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/514"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Little_Women&format=pdf-a4"
+    }
+   ],
+   "retranslations": 5,
+   "rank": 103
+  },
+  {
+   "title": "A Wizard of Earthsea",
+   "author": "Ursula K. Le Guin",
+   "year": 1968,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 30,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Волшебник Земноморья",
+   "ru_author": "Ле Гуин",
+   "score": 139,
+   "free": [],
+   "retranslations": 2,
+   "rank": 104
+  },
+  {
+   "title": "Foundation",
+   "author": "Isaac Asimov",
+   "year": 1951,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 30,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Основание",
+   "ru_author": "Азимов",
+   "score": 139,
+   "free": [],
+   "retranslations": 2,
+   "rank": 105
+  },
+  {
+   "title": "The Silmarillion",
+   "author": "J. R. R. Tolkien",
+   "year": 1977,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 30,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Сильмариллион",
+   "ru_author": "Толкин",
+   "score": 139,
+   "free": [],
+   "retranslations": 2,
+   "rank": 106
+  },
+  {
+   "title": "A Clockwork Orange",
+   "author": "Anthony Burgess",
+   "year": 1962,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 30,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Заводной апельсин",
+   "ru_author": "Бёрджесс",
+   "score": 139,
+   "free": [],
+   "retranslations": 2,
+   "rank": 107
   },
   {
    "title": "Around the World in Eighty Days",
@@ -1258,9 +3968,25 @@
    "multi": {
     "English": 8
    },
+   "ru": "Вокруг света за восемьдесят дней",
+   "ru_author": "Верн",
    "score": 135,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/103.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/103"
+    }
+   ],
    "retranslations": 7,
-   "rank": 79
+   "rank": 108
   },
   {
    "title": "The Count of Monte Cristo",
@@ -1273,9 +3999,98 @@
     "English": 5,
     "Russian": 2
    },
+   "ru": "Граф Монте-Кристо",
+   "ru_author": "Дюма",
    "score": 133,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1184.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1184"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Count_of_Monte_Cristo&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D1%80%D0%B0%D1%84_%D0%9C%D0%BE%D0%BD%D1%82%D0%B5-%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE_%28%D0%94%D1%8E%D0%BC%D0%B0%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D1%80%D0%B0%D1%84_%D0%9C%D0%BE%D0%BD%D1%82%D0%B5-%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE_%28%D0%94%D1%8E%D0%BC%D0%B0%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%93%D1%80%D0%B0%D1%84_%D0%9C%D0%BE%D0%BD%D1%82%D0%B5-%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%BE_%28%D0%94%D1%8E%D0%BC%D0%B0%29"
+    }
+   ],
    "retranslations": 5,
-   "rank": 80
+   "rank": 109
+  },
+  {
+   "title": "The Hunchback of Notre-Dame",
+   "author": "Victor Hugo",
+   "year": 1831,
+   "orig": "French",
+   "genre": "Classic Literature",
+   "langs": 50,
+   "multi": {
+    "English": 5,
+    "Russian": 2
+   },
+   "ru": "Собор Парижской Богоматери",
+   "ru_author": "Гюго",
+   "score": 133,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2610.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2610"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%28%D0%93%D1%8E%D0%B3%D0%BE%3B_%D0%9B%D0%BE%D0%BA%D1%81%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%28%D0%93%D1%8E%D0%B3%D0%BE%3B_%D0%9B%D0%BE%D0%BA%D1%81%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D1%80_%D0%9F%D0%B0%D1%80%D0%B8%D0%B6%D1%81%D0%BA%D0%BE%D0%B9_%D0%91%D0%BE%D0%B3%D0%BE%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8_%28%D0%93%D1%8E%D0%B3%D0%BE%3B_%D0%9B%D0%BE%D0%BA%D1%81%29"
+    }
+   ],
+   "retranslations": 5,
+   "rank": 110
   },
   {
    "title": "Swann's Way (In Search of Lost Time)",
@@ -1288,491 +4103,31 @@
     "English": 4,
     "German": 3
    },
+   "ru": "По направлению к Свану",
+   "ru_author": "Пруст",
    "score": 130,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/7178.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/7178"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Swann%27s_Way&format=pdf-a4"
+    }
+   ],
    "retranslations": 5,
-   "rank": 81
-  },
-  {
-   "title": "Dune",
-   "author": "Frank Herbert",
-   "year": 1965,
-   "orig": "English",
-   "genre": "Science Fiction",
-   "langs": 25,
-   "multi": {
-    "Russian": 4,
-    "German": 2,
-    "French": 2
-   },
-   "score": 125,
-   "retranslations": 5,
-   "rank": 82
-  },
-  {
-   "title": "The Catcher in the Rye",
-   "author": "J. D. Salinger",
-   "year": 1951,
-   "orig": "English",
-   "genre": "Modern Literary Fiction",
-   "langs": 30,
-   "multi": {
-    "German": 3,
-    "French": 2,
-    "Russian": 2
-   },
-   "score": 120,
-   "retranslations": 4,
-   "rank": 83
-  },
-  {
-   "title": "Charlie and the Chocolate Factory",
-   "author": "Roald Dahl",
-   "year": 1964,
-   "orig": "English",
-   "genre": "Children's",
-   "langs": 55,
-   "multi": {
-    "Russian": 3,
-    "German": 2
-   },
-   "score": 120,
-   "retranslations": 3,
-   "rank": 84
-  },
-  {
-   "title": "The Diary of a Young Girl",
-   "author": "Anne Frank",
-   "year": 1947,
-   "orig": "Dutch",
-   "genre": "History & Non-fiction",
-   "langs": 70,
-   "multi": {
-    "English": 2,
-    "German": 2
-   },
-   "score": 120,
-   "retranslations": 2,
-   "rank": 85
-  },
-  {
-   "title": "Great Expectations",
-   "author": "Charles Dickens",
-   "year": 1861,
-   "orig": "English",
-   "genre": "Classic Literature",
-   "langs": 40,
-   "multi": {
-    "French": 3,
-    "German": 3
-   },
-   "score": 119,
-   "retranslations": 4,
-   "rank": 86
-  },
-  {
-   "title": "Solaris",
-   "author": "Stanisław Lem",
-   "year": 1961,
-   "orig": "Polish",
-   "genre": "Science Fiction",
-   "langs": 40,
-   "multi": {
-    "English": 2,
-    "Russian": 2,
-    "German": 2
-   },
-   "score": 115,
-   "retranslations": 3,
-   "rank": 87
-  },
-  {
-   "title": "The Tale of Genji",
-   "author": "Murasaki Shikibu",
-   "year": 1010,
-   "orig": "Japanese",
-   "genre": "Classic Literature",
-   "langs": 30,
-   "multi": {
-    "English": 5,
-    "French": 2
-   },
-   "score": 113,
-   "retranslations": 5,
-   "rank": 88
-  },
-  {
-   "title": "The Lion, the Witch and the Wardrobe",
-   "author": "C. S. Lewis",
-   "year": 1950,
-   "orig": "English",
-   "genre": "Fantasy",
-   "langs": 47,
-   "multi": {
-    "Russian": 3,
-    "German": 2
-   },
-   "score": 112,
-   "retranslations": 3,
-   "rank": 89
-  },
-  {
-   "title": "Leaves of Grass",
-   "author": "Walt Whitman",
-   "year": 1855,
-   "orig": "English",
-   "genre": "Poetry & Epic",
-   "langs": 30,
-   "multi": {
-    "German": 3,
-    "French": 3
-   },
-   "score": 109,
-   "retranslations": 4,
-   "rank": 90
-  },
-  {
-   "title": "Gone with the Wind",
-   "author": "Margaret Mitchell",
-   "year": 1936,
-   "orig": "English",
-   "genre": "Romance",
-   "langs": 40,
-   "multi": {
-    "Russian": 3,
-    "German": 2
-   },
-   "score": 105,
-   "retranslations": 3,
-   "rank": 91
-  },
-  {
-   "title": "The War of the Worlds",
-   "author": "H. G. Wells",
-   "year": 1898,
-   "orig": "English",
-   "genre": "Science Fiction",
-   "langs": 40,
-   "multi": {
-    "Russian": 3,
-    "French": 2
-   },
-   "score": 105,
-   "retranslations": 3,
-   "rank": 92
-  },
-  {
-   "title": "The Jungle Book",
-   "author": "Rudyard Kipling",
-   "year": 1894,
-   "orig": "English",
-   "genre": "Children's",
-   "langs": 40,
-   "multi": {
-    "Russian": 3,
-    "French": 2
-   },
-   "score": 105,
-   "retranslations": 3,
-   "rank": 93
-  },
-  {
-   "title": "We",
-   "author": "Yevgeny Zamyatin",
-   "year": 1924,
-   "orig": "Russian",
-   "genre": "Dystopian",
-   "langs": 30,
-   "multi": {
-    "English": 7
-   },
-   "score": 100,
-   "retranslations": 6,
-   "rank": 94
-  },
-  {
-   "title": "The Wonderful Adventures of Nils",
-   "author": "Selma Lagerlöf",
-   "year": 1906,
-   "orig": "Swedish",
-   "genre": "Children's",
-   "langs": 60,
-   "multi": {
-    "English": 3
-   },
-   "score": 100,
-   "retranslations": 2,
-   "rank": 95
-  },
-  {
-   "title": "The Hitchhiker's Guide to the Galaxy",
-   "author": "Douglas Adams",
-   "year": 1979,
-   "orig": "English",
-   "genre": "Science Fiction",
-   "langs": 30,
-   "multi": {
-    "Russian": 3,
-    "German": 2
-   },
-   "score": 95,
-   "retranslations": 3,
-   "rank": 96
-  },
-  {
-   "title": "Brave New World",
-   "author": "Aldous Huxley",
-   "year": 1932,
-   "orig": "English",
-   "genre": "Dystopian",
-   "langs": 30,
-   "multi": {
-    "German": 3,
-    "Russian": 2
-   },
-   "score": 95,
-   "retranslations": 3,
-   "rank": 97
-  },
-  {
-   "title": "Lolita",
-   "author": "Vladimir Nabokov",
-   "year": 1955,
-   "orig": "English",
-   "genre": "Modern Literary Fiction",
-   "langs": 40,
-   "multi": {
-    "French": 2,
-    "German": 2
-   },
-   "score": 90,
-   "retranslations": 2,
-   "rank": 98
-  },
-  {
-   "title": "To Kill a Mockingbird",
-   "author": "Harper Lee",
-   "year": 1960,
-   "orig": "English",
-   "genre": "Modern Literary Fiction",
-   "langs": 40,
-   "multi": {
-    "French": 2,
-    "German": 2
-   },
-   "score": 90,
-   "retranslations": 2,
-   "rank": 99
-  },
-  {
-   "title": "The Old Man and the Sea",
-   "author": "Ernest Hemingway",
-   "year": 1952,
-   "orig": "English",
-   "genre": "Modern Literary Fiction",
-   "langs": 40,
-   "multi": {
-    "German": 2,
-    "French": 2
-   },
-   "score": 90,
-   "retranslations": 2,
-   "rank": 100
-  },
-  {
-   "title": "Murder on the Orient Express",
-   "author": "Agatha Christie",
-   "year": 1934,
-   "orig": "English",
-   "genre": "Mystery & Thriller",
-   "langs": 50,
-   "multi": {
-    "Russian": 3
-   },
-   "score": 90,
-   "retranslations": 2,
-   "rank": 101
-  },
-  {
-   "title": "The Alchemist",
-   "author": "Paulo Coelho",
-   "year": 1988,
-   "orig": "Portuguese",
-   "genre": "Modern Literary Fiction",
-   "langs": 88,
-   "multi": {},
-   "score": 88,
-   "retranslations": 0,
-   "rank": 102
-  },
-  {
-   "title": "Norwegian Wood",
-   "author": "Haruki Murakami",
-   "year": 1987,
-   "orig": "Japanese",
-   "genre": "Modern Literary Fiction",
-   "langs": 36,
-   "multi": {
-    "English": 2,
-    "Chinese": 2
-   },
-   "score": 86,
-   "retranslations": 2,
-   "rank": 103
-  },
-  {
-   "title": "Peter Pan",
-   "author": "J. M. Barrie",
-   "year": 1911,
-   "orig": "English",
-   "genre": "Children's",
-   "langs": 40,
-   "multi": {
-    "Russian": 3
-   },
-   "score": 80,
-   "retranslations": 2,
-   "rank": 104
-  },
-  {
-   "title": "Journey to the West",
-   "author": "Wu Cheng'en",
-   "year": 1592,
-   "orig": "Chinese",
-   "genre": "Adventure",
-   "langs": 30,
-   "multi": {
-    "English": 4
-   },
-   "score": 80,
-   "retranslations": 3,
-   "rank": 105
-  },
-  {
-   "title": "Strange Case of Dr Jekyll and Mr Hyde",
-   "author": "Robert Louis Stevenson",
-   "year": 1886,
-   "orig": "English",
-   "genre": "Horror & Gothic",
-   "langs": 40,
-   "multi": {
-    "Russian": 3
-   },
-   "score": 80,
-   "retranslations": 2,
-   "rank": 106
-  },
-  {
-   "title": "Sense and Sensibility",
-   "author": "Jane Austen",
-   "year": 1811,
-   "orig": "English",
-   "genre": "Romance",
-   "langs": 35,
-   "multi": {
-    "French": 3
-   },
-   "score": 75,
-   "retranslations": 2,
-   "rank": 107
-  },
-  {
-   "title": "The Call of the Wild",
-   "author": "Jack London",
-   "year": 1903,
-   "orig": "English",
-   "genre": "Adventure",
-   "langs": 50,
-   "multi": {
-    "Russian": 2
-   },
-   "score": 75,
-   "retranslations": 1,
-   "rank": 108
-  },
-  {
-   "title": "A Game of Thrones",
-   "author": "George R. R. Martin",
-   "year": 1996,
-   "orig": "English",
-   "genre": "Fantasy",
-   "langs": 47,
-   "multi": {
-    "German": 2
-   },
-   "score": 72,
-   "retranslations": 1,
-   "rank": 109
-  },
-  {
-   "title": "A Wizard of Earthsea",
-   "author": "Ursula K. Le Guin",
-   "year": 1968,
-   "orig": "English",
-   "genre": "Fantasy",
-   "langs": 30,
-   "multi": {
-    "Russian": 3
-   },
-   "score": 70,
-   "retranslations": 2,
-   "rank": 110
-  },
-  {
-   "title": "Roadside Picnic",
-   "author": "Arkady & Boris Strugatsky",
-   "year": 1972,
-   "orig": "Russian",
-   "genre": "Science Fiction",
-   "langs": 20,
-   "multi": {
-    "English": 2,
-    "German": 2
-   },
-   "score": 70,
-   "retranslations": 2,
    "rank": 111
-  },
-  {
-   "title": "Foundation",
-   "author": "Isaac Asimov",
-   "year": 1951,
-   "orig": "English",
-   "genre": "Science Fiction",
-   "langs": 30,
-   "multi": {
-    "Russian": 3
-   },
-   "score": 70,
-   "retranslations": 2,
-   "rank": 112
-  },
-  {
-   "title": "Dream of the Red Chamber",
-   "author": "Cao Xueqin",
-   "year": 1791,
-   "orig": "Chinese",
-   "genre": "Classic Literature",
-   "langs": 25,
-   "multi": {
-    "English": 3
-   },
-   "score": 65,
-   "retranslations": 2,
-   "rank": 113
-  },
-  {
-   "title": "Romance of the Three Kingdoms",
-   "author": "Luo Guanzhong",
-   "year": 1522,
-   "orig": "Chinese",
-   "genre": "Classic Literature",
-   "langs": 25,
-   "multi": {
-    "English": 3
-   },
-   "score": 65,
-   "retranslations": 2,
-   "rank": 114
   },
   {
    "title": "Doctor Zhivago",
@@ -1784,22 +4139,75 @@
    "multi": {
     "English": 2
    },
-   "score": 65,
+   "ru": "Доктор Живаго",
+   "ru_author": "Пастернак",
+   "score": 130,
+   "free": [],
    "retranslations": 1,
-   "rank": 115
+   "rank": 112
   },
   {
-   "title": "The Time Machine",
-   "author": "H. G. Wells",
-   "year": 1895,
+   "title": "Sapiens",
+   "author": "Yuval Noah Harari",
+   "year": 2011,
+   "orig": "Hebrew",
+   "genre": "History & Non-fiction",
+   "langs": 65,
+   "multi": {},
+   "ru": "Sapiens. Краткая история человечества",
+   "ru_author": "Харари",
+   "score": 130,
+   "free": [],
+   "retranslations": 0,
+   "rank": 113
+  },
+  {
+   "title": "Kafka on the Shore",
+   "author": "Haruki Murakami",
+   "year": 2002,
+   "orig": "Japanese",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "Chinese": 2
+   },
+   "ru": "Кафка на пляже",
+   "ru_author": "Мураками",
+   "score": 130,
+   "free": [],
+   "retranslations": 1,
+   "rank": 114
+  },
+  {
+   "title": "Matilda",
+   "author": "Roald Dahl",
+   "year": 1988,
    "orig": "English",
-   "genre": "Science Fiction",
+   "genre": "Children's",
    "langs": 40,
    "multi": {
     "Russian": 2
    },
-   "score": 65,
+   "ru": "Матильда",
+   "ru_author": "Даль",
+   "score": 130,
+   "free": [],
    "retranslations": 1,
+   "rank": 115
+  },
+  {
+   "title": "Diary of a Wimpy Kid",
+   "author": "Jeff Kinney",
+   "year": 2007,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 65,
+   "multi": {},
+   "ru": "Дневник слабака",
+   "ru_author": "Кинни",
+   "score": 130,
+   "free": [],
+   "retranslations": 0,
    "rank": 116
   },
   {
@@ -1812,21 +4220,160 @@
    "multi": {
     "Russian": 3
    },
-   "score": 65,
+   "ru": "Нейромант",
+   "ru_author": "Гибсон",
+   "score": 129,
+   "free": [],
    "retranslations": 2,
    "rank": 117
   },
   {
-   "title": "Sapiens",
-   "author": "Yuval Noah Harari",
-   "year": 2011,
-   "orig": "Hebrew",
-   "genre": "History & Non-fiction",
-   "langs": 65,
-   "multi": {},
-   "score": 65,
-   "retranslations": 0,
+   "title": "A Study in Scarlet",
+   "author": "Arthur Conan Doyle",
+   "year": 1887,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 50,
+   "multi": {
+    "Russian": 3,
+    "German": 3
+   },
+   "ru": "Этюд в багровых тонах",
+   "ru_author": "Конан Дойл",
+   "score": 129,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/244.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/244"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=A_Study_in_Scarlet&format=pdf-a4"
+    }
+   ],
+   "retranslations": 4,
    "rank": 118
+  },
+  {
+   "title": "The Seagull",
+   "author": "Anton Chekhov",
+   "year": 1896,
+   "orig": "Russian",
+   "genre": "Drama",
+   "langs": 30,
+   "multi": {
+    "English": 15
+   },
+   "ru": "Чайка",
+   "ru_author": "Чехов",
+   "score": 128,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1754.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1754"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 14,
+   "rank": 119
+  },
+  {
+   "title": "The Book Thief",
+   "author": "Markus Zusak",
+   "year": 2005,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 63,
+   "multi": {},
+   "ru": "Книжный вор",
+   "ru_author": "Зусак",
+   "score": 126,
+   "free": [],
+   "retranslations": 0,
+   "rank": 120
+  },
+  {
+   "title": "Fathers and Sons",
+   "author": "Ivan Turgenev",
+   "year": 1862,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 40,
+   "multi": {
+    "English": 10
+   },
+   "ru": "Отцы и дети",
+   "ru_author": "Тургенев",
+   "score": 123,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/47935.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/47935"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D1%82%D1%86%D1%8B_%D0%B8_%D0%B4%D0%B5%D1%82%D0%B8_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9E%D1%82%D1%86%D1%8B_%D0%B8_%D0%B4%D0%B5%D1%82%D0%B8_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9E%D1%82%D1%86%D1%8B_%D0%B8_%D0%B4%D0%B5%D1%82%D0%B8_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29"
+    }
+   ],
+   "retranslations": 9,
+   "rank": 121
   },
   {
    "title": "Sophie's World",
@@ -1836,9 +4383,12 @@
    "genre": "Philosophy",
    "langs": 60,
    "multi": {},
-   "score": 60,
+   "ru": "Мир Софии",
+   "ru_author": "Гордер",
+   "score": 120,
+   "free": [],
    "retranslations": 0,
-   "rank": 119
+   "rank": 122
   },
   {
    "title": "The Shining",
@@ -1850,23 +4400,30 @@
    "multi": {
     "Russian": 2
    },
-   "score": 60,
+   "ru": "Сияние",
+   "ru_author": "Кинг",
+   "score": 120,
+   "free": [],
    "retranslations": 1,
-   "rank": 120
+   "rank": 123
   },
   {
-   "title": "How to Win Friends and Influence People",
-   "author": "Dale Carnegie",
-   "year": 1936,
-   "orig": "English",
-   "genre": "Self-help",
-   "langs": 35,
+   "title": "The Diary of a Young Girl",
+   "author": "Anne Frank",
+   "year": 1947,
+   "orig": "Dutch",
+   "genre": "History & Non-fiction",
+   "langs": 70,
    "multi": {
-    "Russian": 2
+    "English": 2,
+    "German": 2
    },
-   "score": 60,
-   "retranslations": 1,
-   "rank": 121
+   "ru": "Дневник Анны Франк",
+   "ru_author": "Франк",
+   "score": 120,
+   "free": [],
+   "retranslations": 2,
+   "rank": 124
   },
   {
    "title": "Atomic Habits",
@@ -1876,9 +4433,116 @@
    "genre": "Self-help",
    "langs": 60,
    "multi": {},
-   "score": 60,
+   "ru": "Атомные привычки",
+   "ru_author": "Клир",
+   "score": 120,
+   "free": [],
    "retranslations": 0,
-   "rank": 122
+   "rank": 125
+  },
+  {
+   "title": "Things Fall Apart",
+   "author": "Chinua Achebe",
+   "year": 1958,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 60,
+   "multi": {},
+   "ru": "И пришло разрушение",
+   "ru_author": "Ачебе",
+   "score": 120,
+   "free": [],
+   "retranslations": 0,
+   "rank": 126
+  },
+  {
+   "title": "Ikigai",
+   "author": "Héctor García & Francesc Miralles",
+   "year": 2016,
+   "orig": "Spanish",
+   "genre": "Self-help",
+   "langs": 60,
+   "multi": {},
+   "ru": "Икигай",
+   "ru_author": "Гарсия",
+   "score": 120,
+   "free": [],
+   "retranslations": 0,
+   "rank": 127
+  },
+  {
+   "title": "Great Expectations",
+   "author": "Charles Dickens",
+   "year": 1861,
+   "orig": "English",
+   "genre": "Classic Literature",
+   "langs": 40,
+   "multi": {
+    "French": 3,
+    "German": 3
+   },
+   "ru": "Большие надежды",
+   "ru_author": "Диккенс",
+   "score": 119,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1400.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1400"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Great_Expectations_%281890%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 4,
+   "rank": 128
+  },
+  {
+   "title": "Anne of Green Gables",
+   "author": "L. M. Montgomery",
+   "year": 1908,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 36,
+   "multi": {
+    "Japanese": 5,
+    "Russian": 2
+   },
+   "ru": "Аня из Зелёных Мезонинов",
+   "ru_author": "Монтгомери",
+   "score": 119,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/45.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/45"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Anne_of_Green_Gables_%281908%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 5,
+   "rank": 129
   },
   {
    "title": "Fahrenheit 451",
@@ -1890,9 +4554,73 @@
    "multi": {
     "Russian": 2
    },
-   "score": 58,
+   "ru": "451 градус по Фаренгейту",
+   "ru_author": "Брэдбери",
+   "score": 116,
+   "free": [],
    "retranslations": 1,
-   "rank": 123
+   "rank": 130
+  },
+  {
+   "title": "The Tale of Genji",
+   "author": "Murasaki Shikibu",
+   "year": 1010,
+   "orig": "Japanese",
+   "genre": "Classic Literature",
+   "langs": 30,
+   "multi": {
+    "English": 5,
+    "French": 2
+   },
+   "ru": "Повесть о Гэндзи",
+   "ru_author": "Мурасаки",
+   "score": 113,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/66057.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/66057"
+    }
+   ],
+   "retranslations": 5,
+   "rank": 131
+  },
+  {
+   "title": "Enchiridion",
+   "author": "Epictetus",
+   "year": 125,
+   "orig": "Ancient Greek",
+   "genre": "Philosophy",
+   "langs": 30,
+   "multi": {
+    "English": 10
+   },
+   "ru": "Энхиридион",
+   "ru_author": "Эпиктет",
+   "score": 113,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/45109.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/45109"
+    }
+   ],
+   "retranslations": 9,
+   "rank": 132
   },
   {
    "title": "Night",
@@ -1904,9 +4632,352 @@
    "multi": {
     "English": 2
    },
-   "score": 55,
+   "ru": "Ночь",
+   "ru_author": "Визель",
+   "score": 110,
+   "free": [],
    "retranslations": 1,
-   "rank": 124
+   "rank": 133
+  },
+  {
+   "title": "The Tin Drum",
+   "author": "Günter Grass",
+   "year": 1959,
+   "orig": "German",
+   "genre": "Modern Literary Fiction",
+   "langs": 30,
+   "multi": {
+    "English": 2
+   },
+   "ru": "Жестяной барабан",
+   "ru_author": "Грасс",
+   "score": 110,
+   "free": [],
+   "retranslations": 1,
+   "rank": 134
+  },
+  {
+   "title": "The Martian Chronicles",
+   "author": "Ray Bradbury",
+   "year": 1950,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 30,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Марсианские хроники",
+   "ru_author": "Брэдбери",
+   "score": 110,
+   "free": [],
+   "retranslations": 1,
+   "rank": 135
+  },
+  {
+   "title": "I, Robot",
+   "author": "Isaac Asimov",
+   "year": 1950,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 30,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Я, робот",
+   "ru_author": "Азимов",
+   "score": 110,
+   "free": [],
+   "retranslations": 1,
+   "rank": 136
+  },
+  {
+   "title": "It",
+   "author": "Stephen King",
+   "year": 1986,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 30,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Оно",
+   "ru_author": "Кинг",
+   "score": 110,
+   "free": [],
+   "retranslations": 1,
+   "rank": 137
+  },
+  {
+   "title": "Pet Sematary",
+   "author": "Stephen King",
+   "year": 1983,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 30,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Кладбище домашних животных",
+   "ru_author": "Кинг",
+   "score": 110,
+   "free": [],
+   "retranslations": 1,
+   "rank": 138
+  },
+  {
+   "title": "Dead Souls",
+   "author": "Nikolai Gogol",
+   "year": 1842,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 40,
+   "multi": {
+    "English": 7
+   },
+   "ru": "Мёртвые души",
+   "ru_author": "Гоголь",
+   "score": 110,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1081.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1081"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Dead_Souls&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5_%D0%B4%D1%83%D1%88%D0%B8_%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5_%D0%B4%D1%83%D1%88%D0%B8_%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9C%D1%91%D1%80%D1%82%D0%B2%D1%8B%D0%B5_%D0%B4%D1%83%D1%88%D0%B8_%28%D0%93%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%29"
+    }
+   ],
+   "retranslations": 6,
+   "rank": 139
+  },
+  {
+   "title": "Leaves of Grass",
+   "author": "Walt Whitman",
+   "year": 1855,
+   "orig": "English",
+   "genre": "Poetry & Epic",
+   "langs": 30,
+   "multi": {
+    "German": 3,
+    "French": 3
+   },
+   "ru": "Листья травы",
+   "ru_author": "Уитмен",
+   "score": 109,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1322.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1322"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Leaves_of_Grass_%281855%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 4,
+   "rank": 140
+  },
+  {
+   "title": "Gone with the Wind",
+   "author": "Margaret Mitchell",
+   "year": 1936,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 40,
+   "multi": {
+    "Russian": 3,
+    "German": 2
+   },
+   "ru": "Унесённые ветром",
+   "ru_author": "Митчелл",
+   "score": 105,
+   "free": [],
+   "retranslations": 3,
+   "rank": 141
+  },
+  {
+   "title": "The War of the Worlds",
+   "author": "H. G. Wells",
+   "year": 1898,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 40,
+   "multi": {
+    "Russian": 3,
+    "French": 2
+   },
+   "ru": "Война миров",
+   "ru_author": "Уэллс",
+   "score": 105,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/36.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/36"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_War_of_the_Worlds_%281898%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2_%28%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%B0%D0%B3%D1%83%D1%80%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2_%28%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%B0%D0%B3%D1%83%D1%80%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%BC%D0%B8%D1%80%D0%BE%D0%B2_%28%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%B0%D0%B3%D1%83%D1%80%29"
+    }
+   ],
+   "retranslations": 3,
+   "rank": 142
+  },
+  {
+   "title": "The Jungle Book",
+   "author": "Rudyard Kipling",
+   "year": 1894,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 40,
+   "multi": {
+    "Russian": 3,
+    "French": 2
+   },
+   "ru": "Книга джунглей",
+   "ru_author": "Киплинг",
+   "score": 105,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/236.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/236"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Jungle_Book_%28Century_edition%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 3,
+   "rank": 143
+  },
+  {
+   "title": "The Idiot",
+   "author": "Fyodor Dostoevsky",
+   "year": 1869,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 40,
+   "multi": {
+    "English": 6
+   },
+   "ru": "Идиот",
+   "ru_author": "Достоевский",
+   "score": 105,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2638.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/2638"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Idiot_%281913%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%98%D0%B4%D0%B8%D0%BE%D1%82_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%98%D0%B4%D0%B8%D0%BE%D1%82_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%98%D0%B4%D0%B8%D0%BE%D1%82_%28%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%29"
+    }
+   ],
+   "retranslations": 5,
+   "rank": 144
   },
   {
    "title": "Rich Dad Poor Dad",
@@ -1916,9 +4987,27 @@
    "genre": "Self-help",
    "langs": 51,
    "multi": {},
-   "score": 51,
+   "ru": "Богатый папа, бедный папа",
+   "ru_author": "Кийосаки",
+   "score": 102,
+   "free": [],
    "retranslations": 0,
-   "rank": 125
+   "rank": 145
+  },
+  {
+   "title": "The Hunger Games",
+   "author": "Suzanne Collins",
+   "year": 2008,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 51,
+   "multi": {},
+   "ru": "Голодные игры",
+   "ru_author": "Коллинз",
+   "score": 102,
+   "free": [],
+   "retranslations": 0,
+   "rank": 146
   },
   {
    "title": "Waiting for Godot",
@@ -1928,21 +5017,243 @@
    "genre": "Drama",
    "langs": 50,
    "multi": {},
-   "score": 50,
+   "ru": "В ожидании Годо",
+   "ru_author": "Беккет",
+   "score": 100,
+   "free": [],
    "retranslations": 0,
-   "rank": 126
+   "rank": 147
   },
   {
-   "title": "Man's Search for Meaning",
-   "author": "Viktor Frankl",
-   "year": 1946,
-   "orig": "German",
+   "title": "We",
+   "author": "Yevgeny Zamyatin",
+   "year": 1924,
+   "orig": "Russian",
+   "genre": "Dystopian",
+   "langs": 30,
+   "multi": {
+    "English": 7
+   },
+   "ru": "Мы",
+   "ru_author": "Замятин",
+   "score": 100,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=We_%28Zamyatin%2C_Zilboorg_translation%29&format=epub-3"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=We_%28Zamyatin%2C_Zilboorg_translation%29&format=pdf-a4"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://en.wikisource.org/wiki/We_%28Zamyatin%2C_Zilboorg_translation%29"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9C%D1%8B_%28%D0%97%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%D0%BD%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9C%D1%8B_%28%D0%97%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%D0%BD%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9C%D1%8B_%28%D0%97%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%D0%BD%29"
+    }
+   ],
+   "retranslations": 6,
+   "rank": 148
+  },
+  {
+   "title": "The Wonderful Adventures of Nils",
+   "author": "Selma Lagerlöf",
+   "year": 1906,
+   "orig": "Swedish",
+   "genre": "Children's",
+   "langs": 60,
+   "multi": {
+    "English": 3
+   },
+   "ru": "Чудесное путешествие Нильса с дикими гусями",
+   "ru_author": "Лагерлёф",
+   "score": 100,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/10935.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/10935"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 149
+  },
+  {
+   "title": "The Shadow of the Wind",
+   "author": "Carlos Ruiz Zafón",
+   "year": 2001,
+   "orig": "Spanish",
+   "genre": "Modern Literary Fiction",
+   "langs": 50,
+   "multi": {},
+   "ru": "Тень ветра",
+   "ru_author": "Сафон",
+   "score": 100,
+   "free": [],
+   "retranslations": 0,
+   "rank": 150
+  },
+  {
+   "title": "Catch-22",
+   "author": "Joseph Heller",
+   "year": 1961,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 25,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Уловка-22",
+   "ru_author": "Хеллер",
+   "score": 100,
+   "free": [],
+   "retranslations": 1,
+   "rank": 151
+  },
+  {
+   "title": "Do Androids Dream of Electric Sheep?",
+   "author": "Philip K. Dick",
+   "year": 1968,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 25,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Мечтают ли андроиды об электроовцах?",
+   "ru_author": "Дик",
+   "score": 100,
+   "free": [],
+   "retranslations": 1,
+   "rank": 152
+  },
+  {
+   "title": "The Silence of the Lambs",
+   "author": "Thomas Harris",
+   "year": 1988,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 25,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Молчание ягнят",
+   "ru_author": "Харрис",
+   "score": 100,
+   "free": [],
+   "retranslations": 1,
+   "rank": 153
+  },
+  {
+   "title": "Homo Deus",
+   "author": "Yuval Noah Harari",
+   "year": 2015,
+   "orig": "Hebrew",
    "genre": "History & Non-fiction",
    "langs": 50,
    "multi": {},
-   "score": 50,
+   "ru": "Homo Deus. Краткая история будущего",
+   "ru_author": "Харари",
+   "score": 100,
+   "free": [],
    "retranslations": 0,
-   "rank": 127
+   "rank": 154
+  },
+  {
+   "title": "The Four Agreements",
+   "author": "Don Miguel Ruiz",
+   "year": 1997,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 50,
+   "multi": {},
+   "ru": "Четыре соглашения",
+   "ru_author": "Руис",
+   "score": 100,
+   "free": [],
+   "retranslations": 0,
+   "rank": 155
+  },
+  {
+   "title": "The 5 Love Languages",
+   "author": "Gary Chapman",
+   "year": 1992,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 50,
+   "multi": {},
+   "ru": "Пять языков любви",
+   "ru_author": "Чепмен",
+   "score": 100,
+   "free": [],
+   "retranslations": 0,
+   "rank": 156
+  },
+  {
+   "title": "Emil and the Detectives",
+   "author": "Erich Kästner",
+   "year": 1929,
+   "orig": "German",
+   "genre": "Children's",
+   "langs": 59,
+   "multi": {
+    "English": 3
+   },
+   "ru": "Эмиль и сыщики",
+   "ru_author": "Кестнер",
+   "score": 99,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/79102.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/79102"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Emil_and_the_Detectives&format=pdf-a4"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 157
   },
   {
    "title": "Perfume",
@@ -1952,9 +5263,78 @@
    "genre": "Mystery & Thriller",
    "langs": 49,
    "multi": {},
-   "score": 49,
+   "ru": "Парфюмер",
+   "ru_author": "Зюскинд",
+   "score": 98,
+   "free": [],
    "retranslations": 0,
-   "rank": 128
+   "rank": 158
+  },
+  {
+   "title": "Brave New World",
+   "author": "Aldous Huxley",
+   "year": 1932,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 30,
+   "multi": {
+    "German": 3,
+    "Russian": 2
+   },
+   "ru": "О дивный новый мир",
+   "ru_author": "Хаксли",
+   "score": 95,
+   "free": [],
+   "retranslations": 3,
+   "rank": 159
+  },
+  {
+   "title": "A Hero of Our Time",
+   "author": "Mikhail Lermontov",
+   "year": 1840,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 30,
+   "multi": {
+    "English": 6
+   },
+   "ru": "Герой нашего времени",
+   "ru_author": "Лермонтов",
+   "score": 95,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/913.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/913"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%28%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%28%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%93%D0%B5%D1%80%D0%BE%D0%B9_%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%28%D0%9B%D0%B5%D1%80%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 5,
+   "rank": 160
   },
   {
    "title": "The Name of the Rose",
@@ -1964,9 +5344,12 @@
    "genre": "Mystery & Thriller",
    "langs": 47,
    "multi": {},
-   "score": 47,
+   "ru": "Имя розы",
+   "ru_author": "Эко",
+   "score": 94,
+   "free": [],
    "retranslations": 0,
-   "rank": 129
+   "rank": 161
   },
   {
    "title": "One Hundred Years of Solitude",
@@ -1976,9 +5359,27 @@
    "genre": "Modern Literary Fiction",
    "langs": 46,
    "multi": {},
-   "score": 46,
+   "ru": "Сто лет одиночества",
+   "ru_author": "Маркес",
+   "score": 92,
+   "free": [],
    "retranslations": 0,
-   "rank": 130
+   "rank": 162
+  },
+  {
+   "title": "Me Before You",
+   "author": "Jojo Moyes",
+   "year": 2012,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 46,
+   "multi": {},
+   "ru": "До встречи с тобой",
+   "ru_author": "Мойес",
+   "score": 92,
+   "free": [],
+   "retranslations": 0,
+   "rank": 163
   },
   {
    "title": "The Neverending Story",
@@ -1988,9 +5389,162 @@
    "genre": "Fantasy",
    "langs": 45,
    "multi": {},
-   "score": 45,
+   "ru": "Бесконечная история",
+   "ru_author": "Энде",
+   "score": 90,
+   "free": [],
    "retranslations": 0,
-   "rank": 131
+   "rank": 164
+  },
+  {
+   "title": "Murder on the Orient Express",
+   "author": "Agatha Christie",
+   "year": 1934,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 50,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Убийство в «Восточном экспрессе»",
+   "ru_author": "Кристи",
+   "score": 90,
+   "free": [],
+   "retranslations": 2,
+   "rank": 165
+  },
+  {
+   "title": "My Brilliant Friend",
+   "author": "Elena Ferrante",
+   "year": 2011,
+   "orig": "Italian",
+   "genre": "Modern Literary Fiction",
+   "langs": 45,
+   "multi": {},
+   "ru": "Моя гениальная подруга",
+   "ru_author": "Ферранте",
+   "score": 90,
+   "free": [],
+   "retranslations": 0,
+   "rank": 166
+  },
+  {
+   "title": "A Man Called Ove",
+   "author": "Fredrik Backman",
+   "year": 2012,
+   "orig": "Swedish",
+   "genre": "Modern Literary Fiction",
+   "langs": 45,
+   "multi": {},
+   "ru": "Вторая жизнь Уве",
+   "ru_author": "Бакман",
+   "score": 90,
+   "free": [],
+   "retranslations": 0,
+   "rank": 167
+  },
+  {
+   "title": "Monday Begins on Saturday",
+   "author": "Arkady & Boris Strugatsky",
+   "year": 1965,
+   "orig": "Russian",
+   "genre": "Fantasy",
+   "langs": 20,
+   "multi": {
+    "English": 2
+   },
+   "ru": "Понедельник начинается в субботу",
+   "ru_author": "Стругацкие",
+   "score": 90,
+   "free": [],
+   "retranslations": 1,
+   "rank": 168
+  },
+  {
+   "title": "Hard to Be a God",
+   "author": "Arkady & Boris Strugatsky",
+   "year": 1964,
+   "orig": "Russian",
+   "genre": "Science Fiction",
+   "langs": 20,
+   "multi": {
+    "English": 2
+   },
+   "ru": "Трудно быть богом",
+   "ru_author": "Стругацкие",
+   "score": 90,
+   "free": [],
+   "retranslations": 1,
+   "rank": 169
+  },
+  {
+   "title": "The Mysterious Island",
+   "author": "Jules Verne",
+   "year": 1875,
+   "orig": "French",
+   "genre": "Adventure",
+   "langs": 40,
+   "multi": {
+    "English": 4
+   },
+   "ru": "Таинственный остров",
+   "ru_author": "Верн",
+   "score": 90,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1268.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/1268"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Mysterious_Island&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%28%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%28%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2_%28%D0%92%D0%B5%D1%80%D0%BD%3B_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 3,
+   "rank": 170
+  },
+  {
+   "title": "Educated",
+   "author": "Tara Westover",
+   "year": 2018,
+   "orig": "English",
+   "genre": "History & Non-fiction",
+   "langs": 45,
+   "multi": {},
+   "ru": "Ученица",
+   "ru_author": "Вестовер",
+   "score": 90,
+   "free": [],
+   "retranslations": 0,
+   "rank": 171
   },
   {
    "title": "The Girl with the Dragon Tattoo",
@@ -2000,9 +5554,12 @@
    "genre": "Mystery & Thriller",
    "langs": 44,
    "multi": {},
-   "score": 44,
+   "ru": "Девушка с татуировкой дракона",
+   "ru_author": "Ларссон",
+   "score": 88,
+   "free": [],
    "retranslations": 0,
-   "rank": 132
+   "rank": 172
   },
   {
    "title": "The Da Vinci Code",
@@ -2012,9 +5569,63 @@
    "genre": "Mystery & Thriller",
    "langs": 44,
    "multi": {},
-   "score": 44,
+   "ru": "Код да Винчи",
+   "ru_author": "Браун",
+   "score": 88,
+   "free": [],
    "retranslations": 0,
-   "rank": 133
+   "rank": 173
+  },
+  {
+   "title": "The Tibetan Book of the Dead",
+   "author": "Padmasambhava (attr.)",
+   "year": 800,
+   "orig": "Tibetan",
+   "genre": "Religion & Spirituality",
+   "langs": 20,
+   "multi": {
+    "English": 6
+   },
+   "ru": "Тибетская книга мёртвых",
+   "ru_author": "",
+   "score": 85,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Tibetan_Book_of_the_Dead&format=epub-3"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Tibetan_Book_of_the_Dead&format=pdf-a4"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://en.wikisource.org/wiki/The_Tibetan_Book_of_the_Dead"
+    }
+   ],
+   "retranslations": 5,
+   "rank": 174
+  },
+  {
+   "title": "Life of Pi",
+   "author": "Yann Martel",
+   "year": 2001,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 41,
+   "multi": {},
+   "ru": "Жизнь Пи",
+   "ru_author": "Мартел",
+   "score": 82,
+   "free": [],
+   "retranslations": 0,
+   "rank": 175
   },
   {
    "title": "The Three-Body Problem",
@@ -2024,9 +5635,12 @@
    "genre": "Science Fiction",
    "langs": 40,
    "multi": {},
-   "score": 40,
+   "ru": "Задача трёх тел",
+   "ru_author": "Лю Цысинь",
+   "score": 80,
+   "free": [],
    "retranslations": 0,
-   "rank": 134
+   "rank": 176
   },
   {
    "title": "The Handmaid's Tale",
@@ -2036,9 +5650,95 @@
    "genre": "Dystopian",
    "langs": 40,
    "multi": {},
-   "score": 40,
+   "ru": "Рассказ служанки",
+   "ru_author": "Этвуд",
+   "score": 80,
+   "free": [],
    "retranslations": 0,
-   "rank": 135
+   "rank": 177
+  },
+  {
+   "title": "Peter Pan",
+   "author": "J. M. Barrie",
+   "year": 1911,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 40,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Питер Пэн",
+   "ru_author": "Барри",
+   "score": 80,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/16.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/16"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 178
+  },
+  {
+   "title": "Journey to the West",
+   "author": "Wu Cheng'en",
+   "year": 1592,
+   "orig": "Chinese",
+   "genre": "Adventure",
+   "langs": 30,
+   "multi": {
+    "English": 4
+   },
+   "ru": "Путешествие на Запад",
+   "ru_author": "У Чэнъэнь",
+   "score": 80,
+   "free": [],
+   "retranslations": 3,
+   "rank": 179
+  },
+  {
+   "title": "Strange Case of Dr Jekyll and Mr Hyde",
+   "author": "Robert Louis Stevenson",
+   "year": 1886,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 40,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Странная история доктора Джекила и мистера Хайда",
+   "ru_author": "Стивенсон",
+   "score": 80,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/42.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/42"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Strange_Case_of_Dr_Jekyll_and_Mr_Hyde&format=pdf-a4"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 180
   },
   {
    "title": "A Brief History of Time",
@@ -2048,9 +5748,12 @@
    "genre": "History & Non-fiction",
    "langs": 40,
    "multi": {},
-   "score": 40,
+   "ru": "Краткая история времени",
+   "ru_author": "Хокинг",
+   "score": 80,
+   "free": [],
    "retranslations": 0,
-   "rank": 136
+   "rank": 181
   },
   {
    "title": "The 7 Habits of Highly Effective People",
@@ -2060,9 +5763,529 @@
    "genre": "Self-help",
    "langs": 40,
    "multi": {},
-   "score": 40,
+   "ru": "Семь навыков высокоэффективных людей",
+   "ru_author": "Кови",
+   "score": 80,
+   "free": [],
    "retranslations": 0,
-   "rank": 137
+   "rank": 182
+  },
+  {
+   "title": "The Unbearable Lightness of Being",
+   "author": "Milan Kundera",
+   "year": 1984,
+   "orig": "Czech",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {},
+   "ru": "Невыносимая лёгкость бытия",
+   "ru_author": "Кундера",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 183
+  },
+  {
+   "title": "Never Let Me Go",
+   "author": "Kazuo Ishiguro",
+   "year": 2005,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {},
+   "ru": "Не отпускай меня",
+   "ru_author": "Исигуро",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 184
+  },
+  {
+   "title": "Love in the Time of Cholera",
+   "author": "Gabriel García Márquez",
+   "year": 1985,
+   "orig": "Spanish",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {},
+   "ru": "Любовь во время чумы",
+   "ru_author": "Маркес",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 185
+  },
+  {
+   "title": "The Plague",
+   "author": "Albert Camus",
+   "year": 1947,
+   "orig": "French",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "English": 3
+   },
+   "ru": "Чума",
+   "ru_author": "Камю",
+   "score": 80,
+   "free": [],
+   "retranslations": 2,
+   "rank": 186
+  },
+  {
+   "title": "Where the Crawdads Sing",
+   "author": "Delia Owens",
+   "year": 2018,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {},
+   "ru": "Там, где раки поют",
+   "ru_author": "Оуэнс",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 187
+  },
+  {
+   "title": "All the Light We Cannot See",
+   "author": "Anthony Doerr",
+   "year": 2014,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {},
+   "ru": "Весь невидимый нам свет",
+   "ru_author": "Дорр",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 188
+  },
+  {
+   "title": "Steppenwolf",
+   "author": "Hermann Hesse",
+   "year": 1927,
+   "orig": "German",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "English": 3
+   },
+   "ru": "Степной волк",
+   "ru_author": "Гессе",
+   "score": 80,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/75756.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/75756"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Steppenwolf&format=pdf-a4"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 189
+  },
+  {
+   "title": "Northern Lights (The Golden Compass)",
+   "author": "Philip Pullman",
+   "year": 1995,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 40,
+   "multi": {},
+   "ru": "Северное сияние",
+   "ru_author": "Пулман",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 190
+  },
+  {
+   "title": "The Martian",
+   "author": "Andy Weir",
+   "year": 2011,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 40,
+   "multi": {},
+   "ru": "Марсианин",
+   "ru_author": "Уир",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 191
+  },
+  {
+   "title": "The Giver",
+   "author": "Lois Lowry",
+   "year": 1993,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 40,
+   "multi": {},
+   "ru": "Дающий",
+   "ru_author": "Лоури",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 192
+  },
+  {
+   "title": "Gone Girl",
+   "author": "Gillian Flynn",
+   "year": 2012,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 40,
+   "multi": {},
+   "ru": "Исчезнувшая",
+   "ru_author": "Флинн",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 193
+  },
+  {
+   "title": "The Murder of Roger Ackroyd",
+   "author": "Agatha Christie",
+   "year": 1926,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 40,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Убийство Роджера Экройда",
+   "ru_author": "Кристи",
+   "score": 80,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/69087.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/69087"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Murder_of_Roger_Ackroyd&format=pdf-a4"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 194
+  },
+  {
+   "title": "Rebecca",
+   "author": "Daphne du Maurier",
+   "year": 1938,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 30,
+   "multi": {
+    "Russian": 2,
+    "French": 2
+   },
+   "ru": "Ребекка",
+   "ru_author": "Дюморье",
+   "score": 80,
+   "free": [],
+   "retranslations": 2,
+   "rank": 195
+  },
+  {
+   "title": "The Phantom of the Opera",
+   "author": "Gaston Leroux",
+   "year": 1910,
+   "orig": "French",
+   "genre": "Horror & Gothic",
+   "langs": 30,
+   "multi": {
+    "English": 4
+   },
+   "ru": "Призрак Оперы",
+   "ru_author": "Леру",
+   "score": 80,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/175.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/175"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Phantom_of_the_Opera_%281911%29&format=pdf-a4"
+    }
+   ],
+   "retranslations": 3,
+   "rank": 196
+  },
+  {
+   "title": "Outlander",
+   "author": "Diana Gabaldon",
+   "year": 1991,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 40,
+   "multi": {},
+   "ru": "Чужестранка",
+   "ru_author": "Гэблдон",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 197
+  },
+  {
+   "title": "Bridget Jones's Diary",
+   "author": "Helen Fielding",
+   "year": 1996,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 40,
+   "multi": {},
+   "ru": "Дневник Бриджит Джонс",
+   "ru_author": "Филдинг",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 198
+  },
+  {
+   "title": "Twenty Love Poems and a Song of Despair",
+   "author": "Pablo Neruda",
+   "year": 1924,
+   "orig": "Spanish",
+   "genre": "Poetry & Epic",
+   "langs": 30,
+   "multi": {
+    "English": 4
+   },
+   "ru": "Двадцать стихотворений о любви и одна песня отчаяния",
+   "ru_author": "Неруда",
+   "score": 80,
+   "free": [],
+   "retranslations": 3,
+   "rank": 199
+  },
+  {
+   "title": "Oliver Twist",
+   "author": "Charles Dickens",
+   "year": 1838,
+   "orig": "English",
+   "genre": "Classic Literature",
+   "langs": 40,
+   "multi": {
+    "Russian": 3
+   },
+   "ru": "Приключения Оливера Твиста",
+   "ru_author": "Диккенс",
+   "score": 80,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/730.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/730"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Oliver_Twist&format=pdf-a4"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 200
+  },
+  {
+   "title": "Thinking, Fast and Slow",
+   "author": "Daniel Kahneman",
+   "year": 2011,
+   "orig": "English",
+   "genre": "History & Non-fiction",
+   "langs": 40,
+   "multi": {},
+   "ru": "Думай медленно… решай быстро",
+   "ru_author": "Канеман",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 201
+  },
+  {
+   "title": "The Subtle Art of Not Giving a F*ck",
+   "author": "Mark Manson",
+   "year": 2016,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 40,
+   "multi": {},
+   "ru": "Тонкое искусство пофигизма",
+   "ru_author": "Мэнсон",
+   "score": 80,
+   "free": [],
+   "retranslations": 0,
+   "rank": 202
+  },
+  {
+   "title": "Sense and Sensibility",
+   "author": "Jane Austen",
+   "year": 1811,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 35,
+   "multi": {
+    "French": 3
+   },
+   "ru": "Чувство и чувствительность",
+   "ru_author": "Остин",
+   "score": 75,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/161.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/161"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Sense_and_Sensibility&format=pdf-a4"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 203
+  },
+  {
+   "title": "The Call of the Wild",
+   "author": "Jack London",
+   "year": 1903,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 50,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Зов предков",
+   "ru_author": "Лондон",
+   "score": 75,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/215.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/215"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Call_of_the_Wild_%28London%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%97%D0%BE%D0%B2_%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2_%28%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%3B_%D0%92%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%97%D0%BE%D0%B2_%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2_%28%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%3B_%D0%92%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%97%D0%BE%D0%B2_%D0%BF%D1%80%D0%B5%D0%B4%D0%BA%D0%BE%D0%B2_%28%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%3B_%D0%92%D0%B5%D1%80%D1%88%D0%B8%D0%BD%D0%B8%D0%BD%D0%B0%29"
+    }
+   ],
+   "retranslations": 1,
+   "rank": 204
+  },
+  {
+   "title": "The Wonderful Wizard of Oz",
+   "author": "L. Frank Baum",
+   "year": 1900,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 50,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Удивительный волшебник из страны Оз",
+   "ru_author": "Баум",
+   "score": 75,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/55.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/55"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Wonderful_Wizard_of_Oz&format=pdf-a4"
+    }
+   ],
+   "retranslations": 1,
+   "rank": 205
   },
   {
    "title": "The Last Wish (The Witcher)",
@@ -2072,9 +6295,12 @@
    "genre": "Fantasy",
    "langs": 37,
    "multi": {},
-   "score": 37,
+   "ru": "Последнее желание",
+   "ru_author": "Сапковский",
+   "score": 74,
+   "free": [],
    "retranslations": 0,
-   "rank": 138
+   "rank": 206
   },
   {
    "title": "The Colour of Magic",
@@ -2084,9 +6310,164 @@
    "genre": "Fantasy",
    "langs": 37,
    "multi": {},
-   "score": 37,
+   "ru": "Цвет волшебства",
+   "ru_author": "Пратчетт",
+   "score": 74,
+   "free": [],
    "retranslations": 0,
-   "rank": 139
+   "rank": 207
+  },
+  {
+   "title": "Metro 2033",
+   "author": "Dmitry Glukhovsky",
+   "year": 2005,
+   "orig": "Russian",
+   "genre": "Science Fiction",
+   "langs": 37,
+   "multi": {},
+   "ru": "Метро 2033",
+   "ru_author": "Глуховский",
+   "score": 74,
+   "free": [],
+   "retranslations": 0,
+   "rank": 208
+  },
+  {
+   "title": "Twilight",
+   "author": "Stephenie Meyer",
+   "year": 2005,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 37,
+   "multi": {},
+   "ru": "Сумерки",
+   "ru_author": "Майер",
+   "score": 74,
+   "free": [],
+   "retranslations": 0,
+   "rank": 209
+  },
+  {
+   "title": "Guns, Germs, and Steel",
+   "author": "Jared Diamond",
+   "year": 1997,
+   "orig": "English",
+   "genre": "History & Non-fiction",
+   "langs": 37,
+   "multi": {},
+   "ru": "Ружья, микробы и сталь",
+   "ru_author": "Даймонд",
+   "score": 74,
+   "free": [],
+   "retranslations": 0,
+   "rank": 210
+  },
+  {
+   "title": "The Name of the Wind",
+   "author": "Patrick Rothfuss",
+   "year": 2007,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 35,
+   "multi": {},
+   "ru": "Имя ветра",
+   "ru_author": "Ротфусс",
+   "score": 70,
+   "free": [],
+   "retranslations": 0,
+   "rank": 211
+  },
+  {
+   "title": "Pietr the Latvian",
+   "author": "Georges Simenon",
+   "year": 1931,
+   "orig": "French",
+   "genre": "Mystery & Thriller",
+   "langs": 30,
+   "multi": {
+    "English": 3
+   },
+   "ru": "Петерс Латыш",
+   "ru_author": "Сименон",
+   "score": 70,
+   "free": [],
+   "retranslations": 2,
+   "rank": 212
+  },
+  {
+   "title": "Like Water for Chocolate",
+   "author": "Laura Esquivel",
+   "year": 1989,
+   "orig": "Spanish",
+   "genre": "Romance",
+   "langs": 35,
+   "multi": {},
+   "ru": "Шоколад на крутом кипятке",
+   "ru_author": "Эскивель",
+   "score": 70,
+   "free": [],
+   "retranslations": 0,
+   "rank": 213
+  },
+  {
+   "title": "Charlotte's Web",
+   "author": "E. B. White",
+   "year": 1952,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 35,
+   "multi": {},
+   "ru": "Паутина Шарлотты",
+   "ru_author": "Уайт",
+   "score": 70,
+   "free": [],
+   "retranslations": 0,
+   "rank": 214
+  },
+  {
+   "title": "Kon-Tiki",
+   "author": "Thor Heyerdahl",
+   "year": 1948,
+   "orig": "Norwegian",
+   "genre": "Adventure",
+   "langs": 70,
+   "multi": {},
+   "ru": "Путешествие на «Кон-Тики»",
+   "ru_author": "Хейердал",
+   "score": 70,
+   "free": [],
+   "retranslations": 0,
+   "rank": 215
+  },
+  {
+   "title": "The Gulag Archipelago",
+   "author": "Aleksandr Solzhenitsyn",
+   "year": 1973,
+   "orig": "Russian",
+   "genre": "History & Non-fiction",
+   "langs": 35,
+   "multi": {},
+   "ru": "Архипелаг ГУЛАГ",
+   "ru_author": "Солженицын",
+   "score": 70,
+   "free": [],
+   "retranslations": 0,
+   "rank": 216
+  },
+  {
+   "title": "Ender's Game",
+   "author": "Orson Scott Card",
+   "year": 1985,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 34,
+   "multi": {},
+   "ru": "Игра Эндера",
+   "ru_author": "Кард",
+   "score": 68,
+   "free": [],
+   "retranslations": 0,
+   "rank": 217
   },
   {
    "title": "The Power of Now",
@@ -2096,9 +6477,537 @@
    "genre": "Self-help",
    "langs": 33,
    "multi": {},
-   "score": 33,
+   "ru": "Сила момента сейчас",
+   "ru_author": "Толле",
+   "score": 66,
+   "free": [],
    "retranslations": 0,
-   "rank": 140
+   "rank": 218
+  },
+  {
+   "title": "Dream of the Red Chamber",
+   "author": "Cao Xueqin",
+   "year": 1791,
+   "orig": "Chinese",
+   "genre": "Classic Literature",
+   "langs": 25,
+   "multi": {
+    "English": 3
+   },
+   "ru": "Сон в красном тереме",
+   "ru_author": "Цао Сюэцинь",
+   "score": 65,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/9603.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/9603"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 219
+  },
+  {
+   "title": "Romance of the Three Kingdoms",
+   "author": "Luo Guanzhong",
+   "year": 1522,
+   "orig": "Chinese",
+   "genre": "Classic Literature",
+   "langs": 25,
+   "multi": {
+    "English": 3
+   },
+   "ru": "Троецарствие",
+   "ru_author": "Ло Гуаньчжун",
+   "score": 65,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/77416.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/77416"
+    }
+   ],
+   "retranslations": 2,
+   "rank": 220
+  },
+  {
+   "title": "The Time Machine",
+   "author": "H. G. Wells",
+   "year": 1895,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 40,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Машина времени",
+   "ru_author": "Уэллс",
+   "score": 65,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/35.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/35"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Time_Machine&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%28%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%28%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%B0_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B8_%28%D0%A3%D1%8D%D0%BB%D0%BB%D1%81%3B_%D0%9C%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 1,
+   "rank": 221
+  },
+  {
+   "title": "Gitanjali",
+   "author": "Rabindranath Tagore",
+   "year": 1910,
+   "orig": "Bengali",
+   "genre": "Poetry & Epic",
+   "langs": 40,
+   "multi": {
+    "English": 2
+   },
+   "ru": "Гитанджали",
+   "ru_author": "Тагор",
+   "score": 65,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/7164.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/7164"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=Gitanjali&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%B8%D1%82%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8_%28%D0%A2%D0%B0%D0%B3%D0%BE%D1%80%3B_%D0%9F%D1%83%D1%88%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%93%D0%B8%D1%82%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8_%28%D0%A2%D0%B0%D0%B3%D0%BE%D1%80%3B_%D0%9F%D1%83%D1%88%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%93%D0%B8%D1%82%D0%B0%D0%BD%D0%B4%D0%B6%D0%B0%D0%BB%D0%B8_%28%D0%A2%D0%B0%D0%B3%D0%BE%D1%80%3B_%D0%9F%D1%83%D1%88%D0%B5%D1%88%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%29"
+    }
+   ],
+   "retranslations": 1,
+   "rank": 222
+  },
+  {
+   "title": "Cosmos",
+   "author": "Carl Sagan",
+   "year": 1980,
+   "orig": "English",
+   "genre": "History & Non-fiction",
+   "langs": 31,
+   "multi": {},
+   "ru": "Космос",
+   "ru_author": "Саган",
+   "score": 62,
+   "free": [],
+   "retranslations": 0,
+   "rank": 223
+  },
+  {
+   "title": "How to Win Friends and Influence People",
+   "author": "Dale Carnegie",
+   "year": 1936,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 35,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Как завоёвывать друзей и оказывать влияние на людей",
+   "ru_author": "Карнеги",
+   "score": 60,
+   "free": [],
+   "retranslations": 1,
+   "rank": 224
+  },
+  {
+   "title": "American Gods",
+   "author": "Neil Gaiman",
+   "year": 2001,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 30,
+   "multi": {},
+   "ru": "Американские боги",
+   "ru_author": "Гейман",
+   "score": 60,
+   "free": [],
+   "retranslations": 0,
+   "rank": 225
+  },
+  {
+   "title": "Night Watch",
+   "author": "Sergei Lukyanenko",
+   "year": 1998,
+   "orig": "Russian",
+   "genre": "Fantasy",
+   "langs": 30,
+   "multi": {},
+   "ru": "Ночной дозор",
+   "ru_author": "Лукьяненко",
+   "score": 60,
+   "free": [],
+   "retranslations": 0,
+   "rank": 226
+  },
+  {
+   "title": "2001: A Space Odyssey",
+   "author": "Arthur C. Clarke",
+   "year": 1968,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 30,
+   "multi": {},
+   "ru": "2001: Космическая одиссея",
+   "ru_author": "Кларк",
+   "score": 60,
+   "free": [],
+   "retranslations": 0,
+   "rank": 227
+  },
+  {
+   "title": "The Winter Queen (Azazel)",
+   "author": "Boris Akunin",
+   "year": 1998,
+   "orig": "Russian",
+   "genre": "Mystery & Thriller",
+   "langs": 30,
+   "multi": {},
+   "ru": "Азазель",
+   "ru_author": "Акунин",
+   "score": 60,
+   "free": [],
+   "retranslations": 0,
+   "rank": 228
+  },
+  {
+   "title": "In Cold Blood",
+   "author": "Truman Capote",
+   "year": 1966,
+   "orig": "English",
+   "genre": "History & Non-fiction",
+   "langs": 30,
+   "multi": {},
+   "ru": "Хладнокровное убийство",
+   "ru_author": "Капоте",
+   "score": 60,
+   "free": [],
+   "retranslations": 0,
+   "rank": 229
+  },
+  {
+   "title": "Mary Poppins",
+   "author": "P. L. Travers",
+   "year": 1934,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 30,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Мэри Поппинс",
+   "ru_author": "Трэверс",
+   "score": 55,
+   "free": [],
+   "retranslations": 1,
+   "rank": 230
+  },
+  {
+   "title": "The Last of the Mohicans",
+   "author": "James Fenimore Cooper",
+   "year": 1826,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 30,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Последний из могикан",
+   "ru_author": "Купер",
+   "score": 55,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/940.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/940"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Last_of_the_Mohicans&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "EPUB",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B8%D0%B7_%D0%BC%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%D0%BD_%28%D0%9A%D1%83%D0%BF%D0%B5%D1%80%3B_%D0%A7%D0%B8%D1%81%D1%82%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0-%D0%92%D1%8D%D1%80%2C_%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0%29&format=epub-3"
+    },
+    {
+     "lang": "ru",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=ru&page=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B8%D0%B7_%D0%BC%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%D0%BD_%28%D0%9A%D1%83%D0%BF%D0%B5%D1%80%3B_%D0%A7%D0%B8%D1%81%D1%82%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0-%D0%92%D1%8D%D1%80%2C_%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0%29&format=pdf-a4"
+    },
+    {
+     "lang": "ru",
+     "fmt": "Read",
+     "src": "Wikisource",
+     "url": "https://ru.wikisource.org/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B8%D0%B7_%D0%BC%D0%BE%D0%B3%D0%B8%D0%BA%D0%B0%D0%BD_%28%D0%9A%D1%83%D0%BF%D0%B5%D1%80%3B_%D0%A7%D0%B8%D1%81%D1%82%D1%8F%D0%BA%D0%BE%D0%B2%D0%B0-%D0%92%D1%8D%D1%80%2C_%D0%A0%D0%B5%D0%BF%D0%B8%D0%BD%D0%B0%29"
+    }
+   ],
+   "retranslations": 1,
+   "rank": 231
+  },
+  {
+   "title": "The Myth of Sisyphus",
+   "author": "Albert Camus",
+   "year": 1942,
+   "orig": "French",
+   "genre": "Philosophy",
+   "langs": 30,
+   "multi": {
+    "English": 2
+   },
+   "ru": "Миф о Сизифе",
+   "ru_author": "Камю",
+   "score": 55,
+   "free": [],
+   "retranslations": 1,
+   "rank": 232
+  },
+  {
+   "title": "The Importance of Being Earnest",
+   "author": "Oscar Wilde",
+   "year": 1895,
+   "orig": "English",
+   "genre": "Drama",
+   "langs": 30,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Как важно быть серьёзным",
+   "ru_author": "Уайльд",
+   "score": 55,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/844.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/844"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Importance_of_Being_Earnest&format=pdf-a4"
+    }
+   ],
+   "retranslations": 1,
+   "rank": 233
+  },
+  {
+   "title": "Flowers for Algernon",
+   "author": "Daniel Keyes",
+   "year": 1966,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 27,
+   "multi": {},
+   "ru": "Цветы для Элджернона",
+   "ru_author": "Киз",
+   "score": 54,
+   "free": [],
+   "retranslations": 0,
+   "rank": 234
+  },
+  {
+   "title": "Zen and the Art of Motorcycle Maintenance",
+   "author": "Robert M. Pirsig",
+   "year": 1974,
+   "orig": "English",
+   "genre": "Philosophy",
+   "langs": 27,
+   "multi": {},
+   "ru": "Дзен и искусство ухода за мотоциклом",
+   "ru_author": "Пирсиг",
+   "score": 54,
+   "free": [],
+   "retranslations": 0,
+   "rank": 235
+  },
+  {
+   "title": "Man's Search for Meaning",
+   "author": "Viktor Frankl",
+   "year": 1946,
+   "orig": "German",
+   "genre": "History & Non-fiction",
+   "langs": 50,
+   "multi": {},
+   "ru": "Человек в поисках смысла",
+   "ru_author": "Франкл",
+   "score": 50,
+   "free": [],
+   "retranslations": 0,
+   "rank": 236
+  },
+  {
+   "title": "Slaughterhouse-Five",
+   "author": "Kurt Vonnegut",
+   "year": 1969,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 25,
+   "multi": {},
+   "ru": "Бойня номер пять",
+   "ru_author": "Воннегут",
+   "score": 50,
+   "free": [],
+   "retranslations": 0,
+   "rank": 237
+  },
+  {
+   "title": "The Turn of the Screw",
+   "author": "Henry James",
+   "year": 1898,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 25,
+   "multi": {
+    "Russian": 2
+   },
+   "ru": "Поворот винта",
+   "ru_author": "Джеймс",
+   "score": 50,
+   "free": [
+    {
+     "lang": "en",
+     "fmt": "EPUB",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/209.epub3.images"
+    },
+    {
+     "lang": "en",
+     "fmt": "Read",
+     "src": "Project Gutenberg",
+     "url": "https://www.gutenberg.org/ebooks/209"
+    },
+    {
+     "lang": "en",
+     "fmt": "PDF",
+     "src": "Wikisource",
+     "url": "https://ws-export.wmcloud.org/?lang=en&page=The_Turn_of_the_Screw&format=pdf-a4"
+    }
+   ],
+   "retranslations": 1,
+   "rank": 238
+  },
+  {
+   "title": "If This Is a Man",
+   "author": "Primo Levi",
+   "year": 1947,
+   "orig": "Italian",
+   "genre": "History & Non-fiction",
+   "langs": 40,
+   "multi": {},
+   "ru": "Человек ли это?",
+   "ru_author": "Леви",
+   "score": 40,
+   "free": [],
+   "retranslations": 0,
+   "rank": 239
+  },
+  {
+   "title": "Death of a Salesman",
+   "author": "Arthur Miller",
+   "year": 1949,
+   "orig": "English",
+   "genre": "Drama",
+   "langs": 30,
+   "multi": {},
+   "ru": "Смерть коммивояжёра",
+   "ru_author": "Миллер",
+   "score": 30,
+   "free": [],
+   "retranslations": 0,
+   "rank": 240
   }
  ]
 }

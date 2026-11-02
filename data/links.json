@@ -1,0 +1,998 @@
+{
+ "A Christmas Carol": {
+  "gutenberg_en": {
+   "id": 19337,
+   "title": "A Christmas Carol"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "A Christmas Carol (Dickens, 1843 facsimile)",
+  "wikisource_ru": "Рождественская песнь в прозе (Диккенс; Пушешников)"
+ },
+ "A Doll's House": {
+  "gutenberg_en": {
+   "id": 2542,
+   "title": "A Doll's House : a play"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "A Doll's House",
+  "wikisource_ru": "Кукольный дом (Ибсен)"
+ },
+ "A Hero of Our Time": {
+  "gutenberg_en": {
+   "id": 913,
+   "title": "A Hero of Our Time"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Герой нашего времени (Лермонтов)"
+ },
+ "A Study in Scarlet": {
+  "gutenberg_en": {
+   "id": 244,
+   "title": "A Study in Scarlet"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "A Study in Scarlet",
+  "wikisource_ru": null
+ },
+ "Adventures of Huckleberry Finn": {
+  "gutenberg_en": {
+   "id": 76,
+   "title": "Adventures of Huckleberry Finn"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Adventures of Huckleberry Finn",
+  "wikisource_ru": null
+ },
+ "Alice's Adventures in Wonderland": {
+  "gutenberg_en": {
+   "id": 11,
+   "title": "Alice's Adventures in Wonderland"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Alice's Adventures in Wonderland (1907)",
+  "wikisource_ru": null
+ },
+ "Andersen's Fairy Tales": {
+  "gutenberg_en": {
+   "id": 1597,
+   "title": "Andersen's Fairy Tales"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Anna Karenina": {
+  "gutenberg_en": {
+   "id": 1399,
+   "title": "Anna Karenina"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Анна Каренина (Толстой)"
+ },
+ "Anne of Green Gables": {
+  "gutenberg_en": {
+   "id": 45,
+   "title": "Anne of Green Gables"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Anne of Green Gables (1908)",
+  "wikisource_ru": null
+ },
+ "Antigone": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Антигона (Софокл; Шестаков)"
+ },
+ "Around the World in Eighty Days": {
+  "gutenberg_en": {
+   "id": 103,
+   "title": "Around the World in Eighty Days"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Beowulf": {
+  "gutenberg_en": {
+   "id": 981,
+   "title": "Beowulf"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Beowulf",
+  "wikisource_ru": null
+ },
+ "Bhagavad Gita": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Candide": {
+  "gutenberg_en": {
+   "id": 19942,
+   "title": "Candide"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Candide",
+  "wikisource_ru": null
+ },
+ "Confessions": {
+  "gutenberg_en": {
+   "id": 3296,
+   "title": "The Confessions of St. Augustine"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Исповедь (Августин)"
+ },
+ "Crime and Punishment": {
+  "gutenberg_en": {
+   "id": 2554,
+   "title": "Crime and Punishment"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Crime and Punishment",
+  "wikisource_ru": "Преступление и наказание (Достоевский)"
+ },
+ "Dead Souls": {
+  "gutenberg_en": {
+   "id": 1081,
+   "title": "Dead Souls"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Dead Souls",
+  "wikisource_ru": "Мёртвые души (Гоголь)"
+ },
+ "Doctor Zhivago": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Don Quixote": {
+  "gutenberg_en": {
+   "id": 996,
+   "title": "Don Quixote"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Don Quixote",
+  "wikisource_ru": null
+ },
+ "Dracula": {
+  "gutenberg_en": {
+   "id": 345,
+   "title": "Dracula"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Dracula",
+  "wikisource_ru": null
+ },
+ "Dream of the Red Chamber": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Emil and the Detectives": {
+  "gutenberg_en": {
+   "id": 79102,
+   "title": "Emil and the detectives"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Emil and the Detectives",
+  "wikisource_ru": null
+ },
+ "Enchiridion": {
+  "gutenberg_en": {
+   "id": 45109,
+   "title": "The Enchiridion"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Eugene Onegin": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Евгений Онегин (Пушкин)"
+ },
+ "Fathers and Sons": {
+  "gutenberg_en": {
+   "id": 47935,
+   "title": "Fathers and Sons"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Отцы и дети (Тургенев)"
+ },
+ "Faust": {
+  "gutenberg_en": {
+   "id": 14460,
+   "title": "Faust: a Tragedy [part 1], Translated from the German of Goethe"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Фауст (Гёте; Холодковский)"
+ },
+ "Frankenstein": {
+  "gutenberg_en": {
+   "id": 84,
+   "title": "Frankenstein; or, The modern Prometheus"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Gitanjali": {
+  "gutenberg_en": {
+   "id": 7164,
+   "title": "Gitanjali"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Gitanjali",
+  "wikisource_ru": "Гитанджали (Тагор; Пушешников)"
+ },
+ "Great Expectations": {
+  "gutenberg_en": {
+   "id": 1400,
+   "title": "Great Expectations"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Great Expectations (1890)",
+  "wikisource_ru": null
+ },
+ "Grimms' Fairy Tales": {
+  "gutenberg_en": {
+   "id": 2591,
+   "title": "Grimms' Fairy Tales"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Gulliver's Travels": {
+  "gutenberg_en": {
+   "id": 65473,
+   "title": "Gulliver's Travels"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Gulliver's Travels",
+  "wikisource_ru": null
+ },
+ "Hamlet": {
+  "gutenberg_en": {
+   "id": 1122,
+   "title": "Hamlet"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Hamlet (Shakespeare)",
+  "wikisource_ru": "Гамлет (Шекспир; Кронеберг)"
+ },
+ "Heidi": {
+  "gutenberg_en": {
+   "id": 1448,
+   "title": "Heidi"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Heidi (1899)",
+  "wikisource_ru": null
+ },
+ "Jane Eyre": {
+  "gutenberg_en": {
+   "id": 1260,
+   "title": "Jane Eyre: An Autobiography"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Jane Eyre (1st edition)",
+  "wikisource_ru": null
+ },
+ "Journey to the West": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "King Lear": {
+  "gutenberg_en": {
+   "id": 1128,
+   "title": "King Lear"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "King Lear (Shakespeare)",
+  "wikisource_ru": "Король Лир (Шекспир; Каншин)"
+ },
+ "Leaves of Grass": {
+  "gutenberg_en": {
+   "id": 1322,
+   "title": "Leaves of Grass"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Leaves of Grass (1855)",
+  "wikisource_ru": null
+ },
+ "Les Fleurs du mal": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Цветы зла (Бодлер; Ламбле)"
+ },
+ "Les Misérables": {
+  "gutenberg_en": {
+   "id": 135,
+   "title": "Les Misérables"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Les Misérables",
+  "wikisource_ru": "Отверженные (Гюго; Виноградов)"
+ },
+ "Little Women": {
+  "gutenberg_en": {
+   "id": 514,
+   "title": "Little Women"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Little Women",
+  "wikisource_ru": null
+ },
+ "Macbeth": {
+  "gutenberg_en": {
+   "id": 1533,
+   "title": "Macbeth"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Macbeth (Shakespeare)",
+  "wikisource_ru": "Макбет (Шекспир; Соловьёв)"
+ },
+ "Madame Bovary": {
+  "gutenberg_en": {
+   "id": 2413,
+   "title": "Madame Bovary"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Madame Bovary (Marx-Aveling translation)",
+  "wikisource_ru": "Госпожа Бовари (Флобер; Ромм)"
+ },
+ "Meditations": {
+  "gutenberg_en": {
+   "id": 2680,
+   "title": "Meditations"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Moby-Dick": {
+  "gutenberg_en": {
+   "id": 15,
+   "title": "Moby-Dick; or, The Whale"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Moby-Dick (Melville)",
+  "wikisource_ru": null
+ },
+ "Oedipus Rex": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Царь Эдип (Софокл; Зелинский)"
+ },
+ "Oliver Twist": {
+  "gutenberg_en": {
+   "id": 730,
+   "title": "Oliver Twist"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Oliver Twist",
+  "wikisource_ru": null
+ },
+ "On the Origin of Species": {
+  "gutenberg_en": {
+   "id": 1228,
+   "title": "On the Origin of Species By Means of Natural Selection\nOr, the Preservation of F"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "On the Origin of Species (1859)",
+  "wikisource_ru": null
+ },
+ "Paradise Lost": {
+  "gutenberg_en": {
+   "id": 20,
+   "title": "Paradise Lost"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Paradise Lost (1674)",
+  "wikisource_ru": "Потерянный рай (Мильтон; Шульговская)"
+ },
+ "Peter Pan": {
+  "gutenberg_en": {
+   "id": 16,
+   "title": "Peter Pan"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Pride and Prejudice": {
+  "gutenberg_en": {
+   "id": 1342,
+   "title": "Pride and Prejudice"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Pride and Prejudice (1817)",
+  "wikisource_ru": null
+ },
+ "Robinson Crusoe": {
+  "gutenberg_en": {
+   "id": 70841,
+   "title": "Robinson Crusoe"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Robinson Crusoe (Defoe)",
+  "wikisource_ru": "Робинзон Крузо (Дефо; Шишмарёва)"
+ },
+ "Romance of the Three Kingdoms": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Romeo and Juliet": {
+  "gutenberg_en": {
+   "id": 1112,
+   "title": "Romeo and Juliet"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Romeo and Juliet (Shakespeare)",
+  "wikisource_ru": "Ромео и Джульетта (Шекспир; Бальмонт)"
+ },
+ "Rubáiyát of Omar Khayyám": {
+  "gutenberg_en": {
+   "id": 246,
+   "title": "The Rubaiyat of Omar Khayyam"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Rubáiyát of Omar Khayyám (tr. Fitzgerald, 1905)",
+  "wikisource_ru": "Рубаи (Хайям; Л. Н.)"
+ },
+ "Sense and Sensibility": {
+  "gutenberg_en": {
+   "id": 161,
+   "title": "Sense and Sensibility"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Sense and Sensibility",
+  "wikisource_ru": null
+ },
+ "Siddhartha": {
+  "gutenberg_en": {
+   "id": 2500,
+   "title": "Siddhartha"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Sonnets": {
+  "gutenberg_en": {
+   "id": 1105,
+   "title": "The Sonnets"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Sonnets (Masefield, 1916)",
+  "wikisource_ru": "Сонеты (Шекспир)"
+ },
+ "Steppenwolf": {
+  "gutenberg_en": {
+   "id": 75756,
+   "title": "Steppenwolf"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Steppenwolf",
+  "wikisource_ru": null
+ },
+ "Strange Case of Dr Jekyll and Mr Hyde": {
+  "gutenberg_en": {
+   "id": 42,
+   "title": "The strange case of Dr. Jekyll and Mr. Hyde"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Strange Case of Dr Jekyll and Mr Hyde",
+  "wikisource_ru": null
+ },
+ "Swann's Way (In Search of Lost Time)": {
+  "gutenberg_en": {
+   "id": 7178,
+   "title": "Swann's Way"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Swann's Way",
+  "wikisource_ru": null
+ },
+ "Tao Te Ching": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Adventures of Pinocchio": {
+  "gutenberg_en": {
+   "id": 500,
+   "title": "The Adventures of Pinocchio"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Adventures of Pinocchio (1904)",
+  "wikisource_ru": "Приключения Пиноккио (Коллоди)"
+ },
+ "The Adventures of Tom Sawyer": {
+  "gutenberg_en": {
+   "id": 74,
+   "title": "The Adventures of Tom Sawyer, Complete"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Adventures of Tom Sawyer",
+  "wikisource_ru": null
+ },
+ "The Aeneid": {
+  "gutenberg_en": {
+   "id": 228,
+   "title": "The Aeneid"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Analects": {
+  "gutenberg_en": {
+   "id": 3330,
+   "title": "The Analects of Confucius (from the Chinese Classics)"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Art of War": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Bible": {
+  "gutenberg_en": {
+   "id": 36266,
+   "title": "The Bible: What It Is!"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Библия (Синодальный перевод)"
+ },
+ "The Brothers Karamazov": {
+  "gutenberg_en": {
+   "id": 28054,
+   "title": "The Brothers Karamazov"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Brothers Karamazov",
+  "wikisource_ru": "Братья Карамазовы (Достоевский)"
+ },
+ "The Call of the Wild": {
+  "gutenberg_en": {
+   "id": 215,
+   "title": "The call of the wild"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Call of the Wild (London)",
+  "wikisource_ru": "Зов предков (Лондон; Вершинина)"
+ },
+ "The Cherry Orchard": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": "The Cherry Orchard",
+  "wikisource_ru": "Вишнёвый сад (Чехов)"
+ },
+ "The Communist Manifesto": {
+  "gutenberg_en": {
+   "id": 61,
+   "title": "The Communist Manifesto"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Count of Monte Cristo": {
+  "gutenberg_en": {
+   "id": 1184,
+   "title": "The Count of Monte Cristo"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Count of Monte Cristo",
+  "wikisource_ru": null
+ },
+ "The Dhammapada": {
+  "gutenberg_en": {
+   "id": 2017,
+   "title": "Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Budd"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Divine Comedy": {
+  "gutenberg_en": {
+   "id": 8800,
+   "title": "The divine comedy"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Epic of Gilgamesh": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Great Gatsby": {
+  "gutenberg_en": {
+   "id": 64317,
+   "title": "The Great Gatsby"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Great Gatsby (1925)",
+  "wikisource_ru": null
+ },
+ "The Histories": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": "The Histories (Paton translation)",
+  "wikisource_ru": "История (Геродот; Мищенко)"
+ },
+ "The Hound of the Baskervilles": {
+  "gutenberg_en": {
+   "id": 2852,
+   "title": "The Hound of the Baskervilles"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Hound of the Baskervilles (Newnes, 1902)",
+  "wikisource_ru": null
+ },
+ "The Hunchback of Notre-Dame": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Собор Парижской Богоматери (Гюго; Локс)"
+ },
+ "The Idiot": {
+  "gutenberg_en": {
+   "id": 2638,
+   "title": "The Idiot"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Idiot (1913)",
+  "wikisource_ru": "Идиот (Достоевский)"
+ },
+ "The Iliad": {
+  "gutenberg_en": {
+   "id": 2199,
+   "title": "The Iliad"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Илиада (отрывки) (Гомер)"
+ },
+ "The Imitation of Christ": {
+  "gutenberg_en": {
+   "id": 1653,
+   "title": "The Imitation of Christ"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Importance of Being Earnest": {
+  "gutenberg_en": {
+   "id": 844,
+   "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Importance of Being Earnest",
+  "wikisource_ru": null
+ },
+ "The Jungle Book": {
+  "gutenberg_en": {
+   "id": 236,
+   "title": "The Jungle Book"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Jungle Book (Century edition)",
+  "wikisource_ru": null
+ },
+ "The Last of the Mohicans": {
+  "gutenberg_en": {
+   "id": 940,
+   "title": "The Last of the Mohicans; A narrative of 1757"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Last of the Mohicans",
+  "wikisource_ru": "Последний из могикан (Купер; Чистякова-Вэр, Репина)"
+ },
+ "The Metamorphosis": {
+  "gutenberg_en": {
+   "id": 5200,
+   "title": "Metamorphosis"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Murder of Roger Ackroyd": {
+  "gutenberg_en": {
+   "id": 69087,
+   "title": "The murder of Roger Ackroyd"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Murder of Roger Ackroyd",
+  "wikisource_ru": null
+ },
+ "The Mysterious Island": {
+  "gutenberg_en": {
+   "id": 1268,
+   "title": "The Mysterious Island"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Mysterious Island",
+  "wikisource_ru": "Таинственный остров (Верн; Петров)"
+ },
+ "The Odyssey": {
+  "gutenberg_en": {
+   "id": 1727,
+   "title": "The Odyssey\nRendered into English prose for the use of those who cannot read the"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Одиссея (Гомер; Пушкин)"
+ },
+ "The Phantom of the Opera": {
+  "gutenberg_en": {
+   "id": 175,
+   "title": "The Phantom of the Opera"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Phantom of the Opera (1911)",
+  "wikisource_ru": null
+ },
+ "The Picture of Dorian Gray": {
+  "gutenberg_en": {
+   "id": 174,
+   "title": "The Picture of Dorian Gray"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Picture of Dorian Gray",
+  "wikisource_ru": "Портрет Дориана Грея (Уайльд; Ликиардопуло)"
+ },
+ "The Pilgrim's Progress": {
+  "gutenberg_en": {
+   "id": 131,
+   "title": "The Pilgrim's Progress from this world to that which is to come\nDelivered under "
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Pilgrim's Progress",
+  "wikisource_ru": null
+ },
+ "The Prince": {
+  "gutenberg_en": {
+   "id": 1232,
+   "title": "The Prince"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Государь (Макиавелли; Курочкин)"
+ },
+ "The Prophet": {
+  "gutenberg_en": {
+   "id": 58585,
+   "title": "The Prophet"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Prophet (Gibran)",
+  "wikisource_ru": null
+ },
+ "The Quran": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Коран (Мухаммед; Саблуков)"
+ },
+ "The Raven": {
+  "gutenberg_en": {
+   "id": 1065,
+   "title": "The Raven"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Raven (Poe)",
+  "wikisource_ru": "Ворон (По; 1885)"
+ },
+ "The Republic": {
+  "gutenberg_en": {
+   "id": 150,
+   "title": "The Republic"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Seagull": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Чайка (Чехов)"
+ },
+ "The Sorrows of Young Werther": {
+  "gutenberg_en": {
+   "id": 2527,
+   "title": "The Sorrows of Young Werther"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Tale of Genji": {
+  "gutenberg_en": {
+   "id": 66057,
+   "title": "The tale of Genji"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Three Musketeers": {
+  "gutenberg_en": {
+   "id": 1257,
+   "title": "The three musketeers"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Three Musketeers",
+  "wikisource_ru": null
+ },
+ "The Tibetan Book of the Dead": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": "The Tibetan Book of the Dead",
+  "wikisource_ru": null
+ },
+ "The Time Machine": {
+  "gutenberg_en": {
+   "id": 35,
+   "title": "The Time Machine"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Time Machine",
+  "wikisource_ru": "Машина времени (Уэллс; Морозов)"
+ },
+ "The Trial": {
+  "gutenberg_en": {
+   "id": 7849,
+   "title": "The Trial"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Turn of the Screw": {
+  "gutenberg_en": {
+   "id": 209,
+   "title": "The Turn of the Screw"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Turn of the Screw",
+  "wikisource_ru": null
+ },
+ "The War of the Worlds": {
+  "gutenberg_en": {
+   "id": 36,
+   "title": "The war of the worlds"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The War of the Worlds (1898)",
+  "wikisource_ru": "Война миров (Уэллс; Магур)"
+ },
+ "The Wealth of Nations": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": "The Wealth of Nations",
+  "wikisource_ru": null
+ },
+ "The Wonderful Adventures of Nils": {
+  "gutenberg_en": {
+   "id": 10935,
+   "title": "The Wonderful Adventures of Nils"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "The Wonderful Wizard of Oz": {
+  "gutenberg_en": {
+   "id": 55,
+   "title": "The Wonderful Wizard of Oz"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "The Wonderful Wizard of Oz",
+  "wikisource_ru": null
+ },
+ "Thus Spoke Zarathustra": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Так говорил Заратустра (Ницше)"
+ },
+ "Treasure Island": {
+  "gutenberg_en": {
+   "id": 120,
+   "title": "Treasure Island"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Treasure Island (1911)",
+  "wikisource_ru": "Остров сокровищ (Стивенсон; Григорьева)"
+ },
+ "Twenty Love Poems and a Song of Despair": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": null
+ },
+ "Twenty Thousand Leagues Under the Seas": {
+  "gutenberg_en": {
+   "id": 2488,
+   "title": "Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": null,
+  "wikisource_ru": "Двадцать тысяч лье под водой (Верн; 1907)"
+ },
+ "Ulysses": {
+  "gutenberg_en": {
+   "id": 4300,
+   "title": "Ulysses"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Ulysses (Joyce)",
+  "wikisource_ru": "Улисс (Джойс)"
+ },
+ "War and Peace": {
+  "gutenberg_en": {
+   "id": 2600,
+   "title": "War and Peace"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "War and Peace (Tolstoy)",
+  "wikisource_ru": "Война и мир (Толстой)"
+ },
+ "We": {
+  "gutenberg_en": null,
+  "gutenberg_ru": null,
+  "wikisource_en": "We (Zamyatin, Zilboorg translation)",
+  "wikisource_ru": "Мы (Замятин)"
+ },
+ "Winnie-the-Pooh": {
+  "gutenberg_en": {
+   "id": 67098,
+   "title": "Winnie-the-Pooh"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Winnie-the-Pooh (1961)",
+  "wikisource_ru": null
+ },
+ "Wuthering Heights": {
+  "gutenberg_en": {
+   "id": 768,
+   "title": "Wuthering Heights"
+  },
+  "gutenberg_ru": null,
+  "wikisource_en": "Wuthering Heights",
+  "wikisource_ru": null
+ }
+}

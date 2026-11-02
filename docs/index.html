@@ -37,6 +37,12 @@
   .score { font-weight:700; color:var(--accent); font-variant-numeric:tabular-nums; }
   .bar { height:4px; background:var(--accent); opacity:.35; border-radius:2px; margin-top:3px; }
   .ml { font-size:12px; }
+  .ru { font-size:13px; color:var(--muted); font-style:italic; }
+  .new { font-size:10px; background:var(--accent); color:var(--bg); border-radius:3px; padding:0 4px; margin-left:4px; vertical-align:middle; }
+  .dl a { display:inline-block; font-size:11px; border:1px solid var(--line); border-radius:4px; padding:0 5px; margin:1px 2px 1px 0;
+          color:var(--fg); text-decoration:none; white-space:nowrap; }
+  .dl a.ru-l { border-color:var(--accent); }
+  .dl a:hover { background:var(--chip); }
   details { margin:14px 0; background:var(--card); border:1px solid var(--line); border-radius:8px; padding:10px 14px; }
   summary { cursor:pointer; font-weight:600; }
   code { background:var(--chip); padding:1px 5px; border-radius:4px; }
@@ -46,19 +52,23 @@
 <body>
 <header>
   <h1>Translated Audiobooks</h1>
-  <p class="sub">Books with an audiobook, an English edition, and translations into at least 3 languages — grouped by genre, ranked by the Translation Popularity Index.</p>
+  <p class="sub">Books with an audiobook, an English edition, and translations into at least 3 languages — grouped by genre, ranked by the Translation Popularity Index, with free public-domain EPUB/PDF links (English &amp; Russian).</p>
 </header>
 <main>
   <details>
     <summary>How the score (TPI) works</summary>
-    <p><code>TPI = L + W × Σ log<sub>2</sub>(k)</code></p>
+    <p><code>TPI = (L + W × Σ log<sub>2</sub>(k)) × R</code></p>
     <ul>
       <li><b>L</b> — number of languages the book is translated into.</li>
       <li><b>k</b> — number of distinct translations into one language (each language with k ≥ 2 contributes).</li>
       <li><b>W</b> — retranslation weight (default 25, adjustable below).</li>
+      <li><b>R</b> — recency boost: books first published in 1950 or later get × (1 + B), default B = 100%, i.e. ×2 (adjustable below).
+          Newer books have had less time to collect retranslations.</li>
     </ul>
     <p>Multiple translations into the same language count very high: every doubling of translations in one language is worth W extra languages.
-       Counts are curated, rounded estimates intended for ranking. Source data: <a href="https://github.com/levnach/books/blob/main/data/books.json">data/books.json</a>.</p>
+       Counts are curated, rounded estimates intended for ranking.</p>
+    <p><b>Free e-books</b>: links go only to legal public-domain copies — Project Gutenberg (EPUB) and Wikisource
+       (EPUB/PDF via WS Export), in English (EN) and Russian (RU, highlighted). Books under copyright have none. Source data: <a href="https://github.com/levnach/books/blob/main/data/books.json">data/books.json</a>.</p>
   </details>
 
   <div class="controls">
@@ -72,14 +82,19 @@
         <option value="author">Author</option>
         <option value="year">Year (oldest first)</option>
         <option value="-year">Year (newest first)</option>
+        <option value="ru">Russian title</option>
       </select>
     </label>
     <label><input type="checkbox" id="group" checked> Group by genre</label>
     <label>Original
       <select id="orig"><option value="">any</option></select>
     </label>
+    <label>E-books
+      <select id="free"><option value="">any</option><option value="any">free e-book</option><option value="ru">free in Russian</option><option value="pdf">free PDF</option></select>
+    </label>
     <label>Min languages <input type="number" id="minL" value="3" min="3" step="1" style="width:70px"></label>
     <label>Weight W <input type="range" id="w" min="0" max="100" value="25"> <span id="wv">25</span></label>
+    <label>Post-1950 boost <input type="range" id="boost" min="0" max="200" step="10" value="100"> <span id="bv">100%</span></label>
     <span class="muted" id="count"></span>
   </div>
   <div class="chips" id="chips"></div>
@@ -89,7 +104,9 @@
 const $ = id => document.getElementById(id);
 let books = [], genre = "";
 
-const scoreOf = (b, w) => Math.round(b.langs + w * Object.values(b.multi).filter(k => k > 1).reduce((s, k) => s + Math.log2(k), 0));
+let MODERN = 1950;
+const scoreOf = (b, w, boost) => Math.round((b.langs + w * Object.values(b.multi).filter(k => k > 1).reduce((s, k) => s + Math.log2(k), 0))
+  * (b.year >= MODERN ? 1 + boost : 1));
 const yearStr = y => y < 0 ? `${-y} BC` : y;
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const multiStr = m => Object.entries(m).filter(([, k]) => k > 1).sort((a, b) => b[1] - a[1]).map(([l, k]) => `${esc(l)} ×${k}`).join(", ") || "—";
@@ -102,30 +119,37 @@ const sorters = {
   author: (a, b) => a.author.localeCompare(b.author),
   year: (a, b) => a.year - b.year,
   "-year": (a, b) => b.year - a.year,
+  ru: (a, b) => a.ru.localeCompare(b.ru, "ru"),
 };
 
 function table(list, max) {
   const rows = list.map(b => `<tr>
     <td class="num muted">${b.r}</td>
     <td class="title"><a href="https://en.wikipedia.org/w/index.php?search=${encodeURIComponent(b.title + " " + b.author)}" target="_blank" rel="noopener">${esc(b.title)}</a>
+${b.year >= MODERN ? '<span class="new" title="published ' + MODERN + ' or later — boosted">' + MODERN + '+</span>' : ""}
+      <div class="ru">${esc(b.ru)}</div>
       <div class="muted">${esc(b.author)} · ${yearStr(b.year)}</div></td>
     <td class="hide-sm muted">${esc(b.orig)}</td>
     <td class="num">${b.langs}</td>
     <td class="ml hide-sm">${multiStr(b.multi)}</td>
     <td class="num"><span class="score">${b.s}</span><div class="bar" style="width:${Math.max(4, 100 * b.s / max)}%"></div></td>
+    <td class="dl">${b.free.map(l => `<a class="${l.lang === "ru" ? "ru-l" : ""}" href="${esc(l.url)}" target="_blank" rel="noopener" title="${esc(l.src)}">${l.lang.toUpperCase()} ${l.fmt}</a>`).join("") || '<span class="muted">—</span>'}</td>
   </tr>`).join("");
   return `<table><thead><tr><th class="num">#</th><th>Book</th><th class="hide-sm">Original</th>
-    <th class="num">Languages</th><th class="hide-sm">Same-language translations</th><th class="num">TPI</th></tr></thead><tbody>${rows}</tbody></table>`;
+    <th class="num">Languages</th><th class="hide-sm">Same-language translations</th><th class="num">TPI</th><th>Free e-book</th></tr></thead><tbody>${rows}</tbody></table>`;
 }
 
 function render() {
   const w = +$("w").value; $("wv").textContent = w;
+  const boost = +$("boost").value / 100; $("bv").textContent = $("boost").value + "%";
+  const free = $("free").value;
+  const freeOk = b => !free || (free === "any" ? b.free.length : free === "ru" ? b.free.some(l => l.lang === "ru") : b.free.some(l => l.fmt === "PDF"));
   const q = $("q").value.trim().toLowerCase(), orig = $("orig").value, minL = +$("minL").value || 3;
-  books.forEach(b => b.s = scoreOf(b, w));
+  books.forEach(b => b.s = scoreOf(b, w, boost));
   [...books].sort(sorters.score).forEach((b, i) => b.r = i + 1);
   const list = books.filter(b =>
-    (!genre || b.genre === genre) && (!orig || b.orig === orig) && b.langs >= minL &&
-    (!q || [b.title, b.author, b.orig, b.genre, ...Object.keys(b.multi)].join(" ").toLowerCase().includes(q))
+    (!genre || b.genre === genre) && (!orig || b.orig === orig) && b.langs >= minL && freeOk(b) &&
+    (!q || [b.title, b.ru, b.ru_author, b.author, b.orig, b.genre, ...Object.keys(b.multi)].join(" ").toLowerCase().includes(q))
   ).sort(sorters[$("sort").value]);
   const max = Math.max(1, ...books.map(b => b.s));
   $("count").textContent = `${list.length} of ${books.length} books`;
@@ -144,10 +168,11 @@ function chips() {
 }
 
 $("chips").addEventListener("click", e => { const g = e.target.dataset.g; if (g === undefined) return; genre = g; chips(); render(); });
-["q", "sort", "group", "orig", "minL", "w"].forEach(id => $(id).addEventListener("input", render));
+["q", "sort", "group", "orig", "minL", "w", "boost", "free"].forEach(id => $(id).addEventListener("input", render));
 
 fetch("books.json").then(r => r.json()).then(d => {
-  books = d.books;
+  books = d.books; MODERN = d.modern;
+  $("boost").value = Math.round(d.boost * 100); $("w").value = d.weight;
   [...new Set(books.map(b => b.orig))].sort().forEach(o => $("orig").insertAdjacentHTML("beforeend", `<option>${esc(o)}</option>`));
   chips(); render();
 });

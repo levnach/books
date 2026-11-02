@@ -1,0 +1,2104 @@
+{
+ "weight": 25,
+ "books": [
+  {
+   "title": "The Bible",
+   "author": "Various",
+   "year": -500,
+   "orig": "Hebrew / Greek",
+   "genre": "Religion & Spirituality",
+   "langs": 736,
+   "multi": {
+    "English": 100,
+    "German": 30,
+    "French": 30,
+    "Spanish": 20,
+    "Russian": 10
+   },
+   "score": 1339,
+   "retranslations": 185,
+   "rank": 1
+  },
+  {
+   "title": "The Little Prince",
+   "author": "Antoine de Saint-Exupéry",
+   "year": 1943,
+   "orig": "French",
+   "genre": "Children's",
+   "langs": 505,
+   "multi": {
+    "English": 10,
+    "Italian": 8,
+    "German": 6,
+    "Russian": 6,
+    "Spanish": 5
+   },
+   "score": 850,
+   "retranslations": 30,
+   "rank": 2
+  },
+  {
+   "title": "Tao Te Ching",
+   "author": "Laozi",
+   "year": -400,
+   "orig": "Classical Chinese",
+   "genre": "Philosophy",
+   "langs": 250,
+   "multi": {
+    "English": 100,
+    "German": 20,
+    "French": 15,
+    "Russian": 10,
+    "Spanish": 10
+   },
+   "score": 788,
+   "retranslations": 150,
+   "rank": 3
+  },
+  {
+   "title": "Alice's Adventures in Wonderland",
+   "author": "Lewis Carroll",
+   "year": 1865,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 174,
+   "multi": {
+    "Russian": 13,
+    "Japanese": 10,
+    "French": 8,
+    "German": 8,
+    "Hebrew": 4
+   },
+   "score": 550,
+   "retranslations": 38,
+   "rank": 4
+  },
+  {
+   "title": "The Quran",
+   "author": "—",
+   "year": 632,
+   "orig": "Arabic",
+   "genre": "Religion & Spirituality",
+   "langs": 110,
+   "multi": {
+    "English": 60,
+    "German": 15,
+    "French": 10,
+    "Russian": 8
+   },
+   "score": 513,
+   "retranslations": 89,
+   "rank": 5
+  },
+  {
+   "title": "The Odyssey",
+   "author": "Homer",
+   "year": -700,
+   "orig": "Ancient Greek",
+   "genre": "Poetry & Epic",
+   "langs": 60,
+   "multi": {
+    "English": 60,
+    "German": 10,
+    "French": 8,
+    "Italian": 6,
+    "Russian": 3
+   },
+   "score": 470,
+   "retranslations": 82,
+   "rank": 6
+  },
+  {
+   "title": "Don Quixote",
+   "author": "Miguel de Cervantes",
+   "year": 1605,
+   "orig": "Spanish",
+   "genre": "Classic Literature",
+   "langs": 140,
+   "multi": {
+    "English": 20,
+    "French": 10,
+    "German": 8,
+    "Russian": 4
+   },
+   "score": 456,
+   "retranslations": 38,
+   "rank": 7
+  },
+  {
+   "title": "Bhagavad Gita",
+   "author": "Vyasa (attr.)",
+   "year": -200,
+   "orig": "Sanskrit",
+   "genre": "Religion & Spirituality",
+   "langs": 80,
+   "multi": {
+    "English": 100,
+    "German": 10,
+    "French": 6,
+    "Russian": 5
+   },
+   "score": 452,
+   "retranslations": 117,
+   "rank": 8
+  },
+  {
+   "title": "The Adventures of Pinocchio",
+   "author": "Carlo Collodi",
+   "year": 1883,
+   "orig": "Italian",
+   "genre": "Children's",
+   "langs": 260,
+   "multi": {
+    "English": 15,
+    "German": 6,
+    "Russian": 2
+   },
+   "score": 447,
+   "retranslations": 20,
+   "rank": 9
+  },
+  {
+   "title": "The Divine Comedy",
+   "author": "Dante Alighieri",
+   "year": 1320,
+   "orig": "Italian",
+   "genre": "Poetry & Epic",
+   "langs": 60,
+   "multi": {
+    "English": 50,
+    "German": 15,
+    "French": 15,
+    "Russian": 4
+   },
+   "score": 446,
+   "retranslations": 80,
+   "rank": 10
+  },
+  {
+   "title": "The Iliad",
+   "author": "Homer",
+   "year": -750,
+   "orig": "Ancient Greek",
+   "genre": "Poetry & Epic",
+   "langs": 60,
+   "multi": {
+    "English": 50,
+    "German": 8,
+    "French": 6,
+    "Russian": 4
+   },
+   "score": 391,
+   "retranslations": 64,
+   "rank": 11
+  },
+  {
+   "title": "Grimms' Fairy Tales",
+   "author": "Brothers Grimm",
+   "year": 1812,
+   "orig": "German",
+   "genre": "Children's",
+   "langs": 160,
+   "multi": {
+    "English": 20,
+    "French": 6,
+    "Russian": 4
+   },
+   "score": 383,
+   "retranslations": 27,
+   "rank": 12
+  },
+  {
+   "title": "Hamlet",
+   "author": "William Shakespeare",
+   "year": 1603,
+   "orig": "English",
+   "genre": "Drama",
+   "langs": 80,
+   "multi": {
+    "German": 20,
+    "French": 15,
+    "Russian": 10
+   },
+   "score": 369,
+   "retranslations": 42,
+   "rank": 13
+  },
+  {
+   "title": "The Raven",
+   "author": "Edgar Allan Poe",
+   "year": 1845,
+   "orig": "English",
+   "genre": "Poetry & Epic",
+   "langs": 40,
+   "multi": {
+    "Russian": 30,
+    "German": 10,
+    "Spanish": 8,
+    "French": 3
+   },
+   "score": 360,
+   "retranslations": 47,
+   "rank": 14
+  },
+  {
+   "title": "Rubáiyát of Omar Khayyám",
+   "author": "Omar Khayyám",
+   "year": 1120,
+   "orig": "Persian",
+   "genre": "Poetry & Epic",
+   "langs": 80,
+   "multi": {
+    "English": 30,
+    "Russian": 10,
+    "German": 6
+   },
+   "score": 350,
+   "retranslations": 43,
+   "rank": 15
+  },
+  {
+   "title": "Andersen's Fairy Tales",
+   "author": "Hans Christian Andersen",
+   "year": 1835,
+   "orig": "Danish",
+   "genre": "Children's",
+   "langs": 125,
+   "multi": {
+    "English": 20,
+    "German": 6,
+    "Russian": 4
+   },
+   "score": 348,
+   "retranslations": 27,
+   "rank": 16
+  },
+  {
+   "title": "The Imitation of Christ",
+   "author": "Thomas à Kempis",
+   "year": 1427,
+   "orig": "Latin",
+   "genre": "Religion & Spirituality",
+   "langs": 90,
+   "multi": {
+    "English": 15,
+    "French": 10,
+    "German": 8
+   },
+   "score": 346,
+   "retranslations": 30,
+   "rank": 17
+  },
+  {
+   "title": "Romeo and Juliet",
+   "author": "William Shakespeare",
+   "year": 1597,
+   "orig": "English",
+   "genre": "Drama",
+   "langs": 80,
+   "multi": {
+    "German": 12,
+    "French": 10,
+    "Russian": 8
+   },
+   "score": 328,
+   "retranslations": 27,
+   "rank": 18
+  },
+  {
+   "title": "Faust",
+   "author": "Johann Wolfgang von Goethe",
+   "year": 1808,
+   "orig": "German",
+   "genre": "Drama",
+   "langs": 60,
+   "multi": {
+    "English": 40,
+    "French": 6,
+    "Russian": 5
+   },
+   "score": 316,
+   "retranslations": 48,
+   "rank": 19
+  },
+  {
+   "title": "The Metamorphosis",
+   "author": "Franz Kafka",
+   "year": 1915,
+   "orig": "German",
+   "genre": "Modern Literary Fiction",
+   "langs": 100,
+   "multi": {
+    "English": 20,
+    "French": 6,
+    "Russian": 3
+   },
+   "score": 312,
+   "retranslations": 26,
+   "rank": 20
+  },
+  {
+   "title": "Robinson Crusoe",
+   "author": "Daniel Defoe",
+   "year": 1719,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 100,
+   "multi": {
+    "German": 10,
+    "French": 8,
+    "Russian": 4
+   },
+   "score": 308,
+   "retranslations": 19,
+   "rank": 21
+  },
+  {
+   "title": "Crime and Punishment",
+   "author": "Fyodor Dostoevsky",
+   "year": 1866,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 80,
+   "multi": {
+    "English": 13,
+    "German": 7,
+    "French": 6
+   },
+   "score": 307,
+   "retranslations": 23,
+   "rank": 22
+  },
+  {
+   "title": "Oedipus Rex",
+   "author": "Sophocles",
+   "year": -429,
+   "orig": "Ancient Greek",
+   "genre": "Drama",
+   "langs": 40,
+   "multi": {
+    "English": 30,
+    "German": 8,
+    "French": 6
+   },
+   "score": 302,
+   "retranslations": 41,
+   "rank": 23
+  },
+  {
+   "title": "The Prince",
+   "author": "Niccolò Machiavelli",
+   "year": 1532,
+   "orig": "Italian",
+   "genre": "Philosophy",
+   "langs": 60,
+   "multi": {
+    "English": 25,
+    "French": 6,
+    "German": 5
+   },
+   "score": 299,
+   "retranslations": 33,
+   "rank": 24
+  },
+  {
+   "title": "The Communist Manifesto",
+   "author": "Karl Marx & Friedrich Engels",
+   "year": 1848,
+   "orig": "German",
+   "genre": "History & Non-fiction",
+   "langs": 200,
+   "multi": {
+    "English": 3,
+    "Russian": 5
+   },
+   "score": 298,
+   "retranslations": 6,
+   "rank": 25
+  },
+  {
+   "title": "Eugene Onegin",
+   "author": "Alexander Pushkin",
+   "year": 1833,
+   "orig": "Russian",
+   "genre": "Poetry & Epic",
+   "langs": 40,
+   "multi": {
+    "English": 25,
+    "German": 10,
+    "French": 5
+   },
+   "score": 297,
+   "retranslations": 37,
+   "rank": 26
+  },
+  {
+   "title": "Macbeth",
+   "author": "William Shakespeare",
+   "year": 1623,
+   "orig": "English",
+   "genre": "Drama",
+   "langs": 70,
+   "multi": {
+    "German": 10,
+    "French": 8,
+    "Russian": 6
+   },
+   "score": 293,
+   "retranslations": 21,
+   "rank": 27
+  },
+  {
+   "title": "Anna Karenina",
+   "author": "Leo Tolstoy",
+   "year": 1878,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 60,
+   "multi": {
+    "English": 12,
+    "German": 8,
+    "French": 6
+   },
+   "score": 289,
+   "retranslations": 23,
+   "rank": 28
+  },
+  {
+   "title": "The Dhammapada",
+   "author": "Buddhist canon",
+   "year": -250,
+   "orig": "Pali",
+   "genre": "Religion & Spirituality",
+   "langs": 50,
+   "multi": {
+    "English": 30,
+    "German": 6,
+    "French": 4
+   },
+   "score": 287,
+   "retranslations": 37,
+   "rank": 29
+  },
+  {
+   "title": "The Aeneid",
+   "author": "Virgil",
+   "year": -19,
+   "orig": "Latin",
+   "genre": "Poetry & Epic",
+   "langs": 40,
+   "multi": {
+    "English": 30,
+    "French": 6,
+    "German": 5
+   },
+   "score": 285,
+   "retranslations": 38,
+   "rank": 30
+  },
+  {
+   "title": "The Pilgrim's Progress",
+   "author": "John Bunyan",
+   "year": 1678,
+   "orig": "English",
+   "genre": "Religion & Spirituality",
+   "langs": 200,
+   "multi": {
+    "French": 3,
+    "German": 3
+   },
+   "score": 279,
+   "retranslations": 4,
+   "rank": 31
+  },
+  {
+   "title": "War and Peace",
+   "author": "Leo Tolstoy",
+   "year": 1869,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 50,
+   "multi": {
+    "English": 12,
+    "German": 8,
+    "French": 6
+   },
+   "score": 279,
+   "retranslations": 23,
+   "rank": 32
+  },
+  {
+   "title": "The Republic",
+   "author": "Plato",
+   "year": -375,
+   "orig": "Ancient Greek",
+   "genre": "Philosophy",
+   "langs": 50,
+   "multi": {
+    "English": 15,
+    "German": 6,
+    "French": 6
+   },
+   "score": 277,
+   "retranslations": 24,
+   "rank": 33
+  },
+  {
+   "title": "Nineteen Eighty-Four",
+   "author": "George Orwell",
+   "year": 1949,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 65,
+   "multi": {
+    "German": 6,
+    "Russian": 5,
+    "Spanish": 4,
+    "French": 3
+   },
+   "score": 277,
+   "retranslations": 14,
+   "rank": 34
+  },
+  {
+   "title": "The Prophet",
+   "author": "Kahlil Gibran",
+   "year": 1923,
+   "orig": "English",
+   "genre": "Religion & Spirituality",
+   "langs": 110,
+   "multi": {
+    "Arabic": 8,
+    "French": 4,
+    "Russian": 3
+   },
+   "score": 275,
+   "retranslations": 12,
+   "rank": 35
+  },
+  {
+   "title": "The Art of War",
+   "author": "Sun Tzu",
+   "year": -500,
+   "orig": "Classical Chinese",
+   "genre": "Philosophy",
+   "langs": 40,
+   "multi": {
+    "English": 30,
+    "French": 5,
+    "Russian": 4
+   },
+   "score": 271,
+   "retranslations": 36,
+   "rank": 36
+  },
+  {
+   "title": "Meditations",
+   "author": "Marcus Aurelius",
+   "year": 180,
+   "orig": "Ancient Greek",
+   "genre": "Philosophy",
+   "langs": 40,
+   "multi": {
+    "English": 15,
+    "French": 6,
+    "German": 5
+   },
+   "score": 260,
+   "retranslations": 23,
+   "rank": 37
+  },
+  {
+   "title": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "year": 1925,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 42,
+   "multi": {
+    "German": 10,
+    "French": 7,
+    "Spanish": 6
+   },
+   "score": 260,
+   "retranslations": 20,
+   "rank": 38
+  },
+  {
+   "title": "The Brothers Karamazov",
+   "author": "Fyodor Dostoevsky",
+   "year": 1880,
+   "orig": "Russian",
+   "genre": "Classic Literature",
+   "langs": 60,
+   "multi": {
+    "English": 8,
+    "German": 6,
+    "French": 5
+   },
+   "score": 258,
+   "retranslations": 16,
+   "rank": 39
+  },
+  {
+   "title": "The Analects",
+   "author": "Confucius",
+   "year": -475,
+   "orig": "Classical Chinese",
+   "genre": "Philosophy",
+   "langs": 40,
+   "multi": {
+    "English": 20,
+    "German": 4,
+    "French": 4
+   },
+   "score": 248,
+   "retranslations": 25,
+   "rank": 40
+  },
+  {
+   "title": "The Hound of the Baskervilles",
+   "author": "Arthur Conan Doyle",
+   "year": 1902,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 70,
+   "multi": {
+    "German": 6,
+    "Russian": 4,
+    "French": 4
+   },
+   "score": 235,
+   "retranslations": 11,
+   "rank": 41
+  },
+  {
+   "title": "Thus Spoke Zarathustra",
+   "author": "Friedrich Nietzsche",
+   "year": 1883,
+   "orig": "German",
+   "genre": "Philosophy",
+   "langs": 60,
+   "multi": {
+    "English": 8,
+    "French": 5,
+    "Russian": 3
+   },
+   "score": 233,
+   "retranslations": 13,
+   "rank": 42
+  },
+  {
+   "title": "Madame Bovary",
+   "author": "Gustave Flaubert",
+   "year": 1857,
+   "orig": "French",
+   "genre": "Classic Literature",
+   "langs": 60,
+   "multi": {
+    "English": 20,
+    "German": 6
+   },
+   "score": 233,
+   "retranslations": 24,
+   "rank": 43
+  },
+  {
+   "title": "Animal Farm",
+   "author": "George Orwell",
+   "year": 1945,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 70,
+   "multi": {
+    "Russian": 5,
+    "German": 4,
+    "French": 4
+   },
+   "score": 228,
+   "retranslations": 10,
+   "rank": 44
+  },
+  {
+   "title": "Beowulf",
+   "author": "Anonymous",
+   "year": 1000,
+   "orig": "Old English",
+   "genre": "Poetry & Epic",
+   "langs": 35,
+   "multi": {
+    "English (modern)": 40,
+    "German": 5
+   },
+   "score": 226,
+   "retranslations": 43,
+   "rank": 45
+  },
+  {
+   "title": "Gulliver's Travels",
+   "author": "Jonathan Swift",
+   "year": 1726,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 50,
+   "multi": {
+    "German": 6,
+    "French": 5,
+    "Russian": 4
+   },
+   "score": 223,
+   "retranslations": 12,
+   "rank": 46
+  },
+  {
+   "title": "The Histories",
+   "author": "Herodotus",
+   "year": -430,
+   "orig": "Ancient Greek",
+   "genre": "History & Non-fiction",
+   "langs": 30,
+   "multi": {
+    "English": 12,
+    "German": 4,
+    "French": 4
+   },
+   "score": 220,
+   "retranslations": 17,
+   "rank": 47
+  },
+  {
+   "title": "Pride and Prejudice",
+   "author": "Jane Austen",
+   "year": 1813,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 40,
+   "multi": {
+    "French": 8,
+    "German": 6,
+    "Russian": 3
+   },
+   "score": 219,
+   "retranslations": 14,
+   "rank": 48
+  },
+  {
+   "title": "Treasure Island",
+   "author": "Robert Louis Stevenson",
+   "year": 1883,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 60,
+   "multi": {
+    "German": 5,
+    "Russian": 4,
+    "French": 4
+   },
+   "score": 218,
+   "retranslations": 10,
+   "rank": 49
+  },
+  {
+   "title": "The Epic of Gilgamesh",
+   "author": "Anonymous",
+   "year": -1200,
+   "orig": "Akkadian",
+   "genre": "Poetry & Epic",
+   "langs": 35,
+   "multi": {
+    "English": 15,
+    "German": 4,
+    "Russian": 2
+   },
+   "score": 208,
+   "retranslations": 18,
+   "rank": 50
+  },
+  {
+   "title": "The Hobbit",
+   "author": "J. R. R. Tolkien",
+   "year": 1937,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 60,
+   "multi": {
+    "Russian": 5,
+    "German": 3,
+    "French": 2,
+    "Swedish": 2
+   },
+   "score": 208,
+   "retranslations": 8,
+   "rank": 51
+  },
+  {
+   "title": "Moby-Dick",
+   "author": "Herman Melville",
+   "year": 1851,
+   "orig": "English",
+   "genre": "Classic Literature",
+   "langs": 30,
+   "multi": {
+    "German": 6,
+    "Italian": 5,
+    "French": 4
+   },
+   "score": 203,
+   "retranslations": 12,
+   "rank": 52
+  },
+  {
+   "title": "Frankenstein",
+   "author": "Mary Shelley",
+   "year": 1818,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 50,
+   "multi": {
+    "French": 5,
+    "German": 4,
+    "Russian": 3
+   },
+   "score": 198,
+   "retranslations": 9,
+   "rank": 53
+  },
+  {
+   "title": "Jane Eyre",
+   "author": "Charlotte Brontë",
+   "year": 1847,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 57,
+   "multi": {
+    "French": 8,
+    "German": 6
+   },
+   "score": 197,
+   "retranslations": 12,
+   "rank": 54
+  },
+  {
+   "title": "The Picture of Dorian Gray",
+   "author": "Oscar Wilde",
+   "year": 1890,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 50,
+   "multi": {
+    "German": 6,
+    "Russian": 3,
+    "French": 3
+   },
+   "score": 194,
+   "retranslations": 9,
+   "rank": 55
+  },
+  {
+   "title": "Les Misérables",
+   "author": "Victor Hugo",
+   "year": 1862,
+   "orig": "French",
+   "genre": "Classic Literature",
+   "langs": 60,
+   "multi": {
+    "English": 8,
+    "German": 5
+   },
+   "score": 193,
+   "retranslations": 11,
+   "rank": 56
+  },
+  {
+   "title": "Twenty Thousand Leagues Under the Seas",
+   "author": "Jules Verne",
+   "year": 1870,
+   "orig": "French",
+   "genre": "Science Fiction",
+   "langs": 70,
+   "multi": {
+    "English": 10,
+    "Russian": 3
+   },
+   "score": 193,
+   "retranslations": 11,
+   "rank": 57
+  },
+  {
+   "title": "The Cherry Orchard",
+   "author": "Anton Chekhov",
+   "year": 1904,
+   "orig": "Russian",
+   "genre": "Drama",
+   "langs": 40,
+   "multi": {
+    "English": 15,
+    "German": 4
+   },
+   "score": 188,
+   "retranslations": 17,
+   "rank": 58
+  },
+  {
+   "title": "Candide",
+   "author": "Voltaire",
+   "year": 1759,
+   "orig": "French",
+   "genre": "Classic Literature",
+   "langs": 50,
+   "multi": {
+    "English": 10,
+    "German": 4
+   },
+   "score": 183,
+   "retranslations": 12,
+   "rank": 59
+  },
+  {
+   "title": "The Lord of the Rings",
+   "author": "J. R. R. Tolkien",
+   "year": 1954,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 38,
+   "multi": {
+    "Russian": 7,
+    "German": 2,
+    "French": 2,
+    "Swedish": 2
+   },
+   "score": 183,
+   "retranslations": 9,
+   "rank": 60
+  },
+  {
+   "title": "A Doll's House",
+   "author": "Henrik Ibsen",
+   "year": 1879,
+   "orig": "Norwegian",
+   "genre": "Drama",
+   "langs": 50,
+   "multi": {
+    "English": 10,
+    "German": 3
+   },
+   "score": 173,
+   "retranslations": 11,
+   "rank": 61
+  },
+  {
+   "title": "Ulysses",
+   "author": "James Joyce",
+   "year": 1922,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "Spanish": 3,
+    "Italian": 3,
+    "French": 2,
+    "German": 2
+   },
+   "score": 169,
+   "retranslations": 6,
+   "rank": 62
+  },
+  {
+   "title": "Pippi Longstocking",
+   "author": "Astrid Lindgren",
+   "year": 1945,
+   "orig": "Swedish",
+   "genre": "Children's",
+   "langs": 77,
+   "multi": {
+    "English": 3,
+    "Russian": 2,
+    "German": 2
+   },
+   "score": 167,
+   "retranslations": 4,
+   "rank": 63
+  },
+  {
+   "title": "The Trial",
+   "author": "Franz Kafka",
+   "year": 1925,
+   "orig": "German",
+   "genre": "Modern Literary Fiction",
+   "langs": 60,
+   "multi": {
+    "English": 6,
+    "French": 3
+   },
+   "score": 164,
+   "retranslations": 7,
+   "rank": 64
+  },
+  {
+   "title": "Dracula",
+   "author": "Bram Stoker",
+   "year": 1897,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 44,
+   "multi": {
+    "Russian": 3,
+    "German": 3,
+    "French": 3
+   },
+   "score": 163,
+   "retranslations": 6,
+   "rank": 65
+  },
+  {
+   "title": "The Stranger",
+   "author": "Albert Camus",
+   "year": 1942,
+   "orig": "French",
+   "genre": "Modern Literary Fiction",
+   "langs": 70,
+   "multi": {
+    "English": 4,
+    "German": 3
+   },
+   "score": 160,
+   "retranslations": 5,
+   "rank": 66
+  },
+  {
+   "title": "The Master and Margarita",
+   "author": "Mikhail Bulgakov",
+   "year": 1967,
+   "orig": "Russian",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "English": 7,
+    "German": 4
+   },
+   "score": 160,
+   "retranslations": 9,
+   "rank": 67
+  },
+  {
+   "title": "Harry Potter and the Philosopher's Stone",
+   "author": "J. K. Rowling",
+   "year": 1997,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 85,
+   "multi": {
+    "Russian": 2,
+    "Chinese": 2,
+    "Portuguese": 2
+   },
+   "score": 160,
+   "retranslations": 3,
+   "rank": 68
+  },
+  {
+   "title": "The Adventures of Tom Sawyer",
+   "author": "Mark Twain",
+   "year": 1876,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 50,
+   "multi": {
+    "Russian": 5,
+    "German": 4
+   },
+   "score": 158,
+   "retranslations": 7,
+   "rank": 69
+  },
+  {
+   "title": "Paradise Lost",
+   "author": "John Milton",
+   "year": 1667,
+   "orig": "English",
+   "genre": "Poetry & Epic",
+   "langs": 30,
+   "multi": {
+    "French": 6,
+    "German": 5
+   },
+   "score": 153,
+   "retranslations": 9,
+   "rank": 70
+  },
+  {
+   "title": "The Three Musketeers",
+   "author": "Alexandre Dumas",
+   "year": 1844,
+   "orig": "French",
+   "genre": "Adventure",
+   "langs": 50,
+   "multi": {
+    "English": 8,
+    "Russian": 2
+   },
+   "score": 150,
+   "retranslations": 8,
+   "rank": 71
+  },
+  {
+   "title": "On the Origin of Species",
+   "author": "Charles Darwin",
+   "year": 1859,
+   "orig": "English",
+   "genre": "History & Non-fiction",
+   "langs": 30,
+   "multi": {
+    "German": 3,
+    "French": 3,
+    "Russian": 3
+   },
+   "score": 149,
+   "retranslations": 6,
+   "rank": 72
+  },
+  {
+   "title": "Wuthering Heights",
+   "author": "Emily Brontë",
+   "year": 1847,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 40,
+   "multi": {
+    "French": 5,
+    "German": 4
+   },
+   "score": 148,
+   "retranslations": 7,
+   "rank": 73
+  },
+  {
+   "title": "The Wealth of Nations",
+   "author": "Adam Smith",
+   "year": 1776,
+   "orig": "English",
+   "genre": "History & Non-fiction",
+   "langs": 30,
+   "multi": {
+    "German": 6,
+    "French": 4
+   },
+   "score": 145,
+   "retranslations": 8,
+   "rank": 74
+  },
+  {
+   "title": "Siddhartha",
+   "author": "Hermann Hesse",
+   "year": 1922,
+   "orig": "German",
+   "genre": "Modern Literary Fiction",
+   "langs": 60,
+   "multi": {
+    "English": 5,
+    "French": 2
+   },
+   "score": 143,
+   "retranslations": 5,
+   "rank": 75
+  },
+  {
+   "title": "Heidi",
+   "author": "Johanna Spyri",
+   "year": 1881,
+   "orig": "German",
+   "genre": "Children's",
+   "langs": 50,
+   "multi": {
+    "English": 13
+   },
+   "score": 143,
+   "retranslations": 12,
+   "rank": 76
+  },
+  {
+   "title": "Winnie-the-Pooh",
+   "author": "A. A. Milne",
+   "year": 1926,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 50,
+   "multi": {
+    "Russian": 3,
+    "German": 2,
+    "Hebrew": 2
+   },
+   "score": 140,
+   "retranslations": 4,
+   "rank": 77
+  },
+  {
+   "title": "And Then There Were None",
+   "author": "Agatha Christie",
+   "year": 1939,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 50,
+   "multi": {
+    "Russian": 3,
+    "German": 2,
+    "French": 2
+   },
+   "score": 140,
+   "retranslations": 4,
+   "rank": 78
+  },
+  {
+   "title": "Around the World in Eighty Days",
+   "author": "Jules Verne",
+   "year": 1872,
+   "orig": "French",
+   "genre": "Adventure",
+   "langs": 60,
+   "multi": {
+    "English": 8
+   },
+   "score": 135,
+   "retranslations": 7,
+   "rank": 79
+  },
+  {
+   "title": "The Count of Monte Cristo",
+   "author": "Alexandre Dumas",
+   "year": 1844,
+   "orig": "French",
+   "genre": "Adventure",
+   "langs": 50,
+   "multi": {
+    "English": 5,
+    "Russian": 2
+   },
+   "score": 133,
+   "retranslations": 5,
+   "rank": 80
+  },
+  {
+   "title": "Swann's Way (In Search of Lost Time)",
+   "author": "Marcel Proust",
+   "year": 1913,
+   "orig": "French",
+   "genre": "Classic Literature",
+   "langs": 40,
+   "multi": {
+    "English": 4,
+    "German": 3
+   },
+   "score": 130,
+   "retranslations": 5,
+   "rank": 81
+  },
+  {
+   "title": "Dune",
+   "author": "Frank Herbert",
+   "year": 1965,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 25,
+   "multi": {
+    "Russian": 4,
+    "German": 2,
+    "French": 2
+   },
+   "score": 125,
+   "retranslations": 5,
+   "rank": 82
+  },
+  {
+   "title": "The Catcher in the Rye",
+   "author": "J. D. Salinger",
+   "year": 1951,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 30,
+   "multi": {
+    "German": 3,
+    "French": 2,
+    "Russian": 2
+   },
+   "score": 120,
+   "retranslations": 4,
+   "rank": 83
+  },
+  {
+   "title": "Charlie and the Chocolate Factory",
+   "author": "Roald Dahl",
+   "year": 1964,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 55,
+   "multi": {
+    "Russian": 3,
+    "German": 2
+   },
+   "score": 120,
+   "retranslations": 3,
+   "rank": 84
+  },
+  {
+   "title": "The Diary of a Young Girl",
+   "author": "Anne Frank",
+   "year": 1947,
+   "orig": "Dutch",
+   "genre": "History & Non-fiction",
+   "langs": 70,
+   "multi": {
+    "English": 2,
+    "German": 2
+   },
+   "score": 120,
+   "retranslations": 2,
+   "rank": 85
+  },
+  {
+   "title": "Great Expectations",
+   "author": "Charles Dickens",
+   "year": 1861,
+   "orig": "English",
+   "genre": "Classic Literature",
+   "langs": 40,
+   "multi": {
+    "French": 3,
+    "German": 3
+   },
+   "score": 119,
+   "retranslations": 4,
+   "rank": 86
+  },
+  {
+   "title": "Solaris",
+   "author": "Stanisław Lem",
+   "year": 1961,
+   "orig": "Polish",
+   "genre": "Science Fiction",
+   "langs": 40,
+   "multi": {
+    "English": 2,
+    "Russian": 2,
+    "German": 2
+   },
+   "score": 115,
+   "retranslations": 3,
+   "rank": 87
+  },
+  {
+   "title": "The Tale of Genji",
+   "author": "Murasaki Shikibu",
+   "year": 1010,
+   "orig": "Japanese",
+   "genre": "Classic Literature",
+   "langs": 30,
+   "multi": {
+    "English": 5,
+    "French": 2
+   },
+   "score": 113,
+   "retranslations": 5,
+   "rank": 88
+  },
+  {
+   "title": "The Lion, the Witch and the Wardrobe",
+   "author": "C. S. Lewis",
+   "year": 1950,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 47,
+   "multi": {
+    "Russian": 3,
+    "German": 2
+   },
+   "score": 112,
+   "retranslations": 3,
+   "rank": 89
+  },
+  {
+   "title": "Leaves of Grass",
+   "author": "Walt Whitman",
+   "year": 1855,
+   "orig": "English",
+   "genre": "Poetry & Epic",
+   "langs": 30,
+   "multi": {
+    "German": 3,
+    "French": 3
+   },
+   "score": 109,
+   "retranslations": 4,
+   "rank": 90
+  },
+  {
+   "title": "Gone with the Wind",
+   "author": "Margaret Mitchell",
+   "year": 1936,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 40,
+   "multi": {
+    "Russian": 3,
+    "German": 2
+   },
+   "score": 105,
+   "retranslations": 3,
+   "rank": 91
+  },
+  {
+   "title": "The War of the Worlds",
+   "author": "H. G. Wells",
+   "year": 1898,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 40,
+   "multi": {
+    "Russian": 3,
+    "French": 2
+   },
+   "score": 105,
+   "retranslations": 3,
+   "rank": 92
+  },
+  {
+   "title": "The Jungle Book",
+   "author": "Rudyard Kipling",
+   "year": 1894,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 40,
+   "multi": {
+    "Russian": 3,
+    "French": 2
+   },
+   "score": 105,
+   "retranslations": 3,
+   "rank": 93
+  },
+  {
+   "title": "We",
+   "author": "Yevgeny Zamyatin",
+   "year": 1924,
+   "orig": "Russian",
+   "genre": "Dystopian",
+   "langs": 30,
+   "multi": {
+    "English": 7
+   },
+   "score": 100,
+   "retranslations": 6,
+   "rank": 94
+  },
+  {
+   "title": "The Wonderful Adventures of Nils",
+   "author": "Selma Lagerlöf",
+   "year": 1906,
+   "orig": "Swedish",
+   "genre": "Children's",
+   "langs": 60,
+   "multi": {
+    "English": 3
+   },
+   "score": 100,
+   "retranslations": 2,
+   "rank": 95
+  },
+  {
+   "title": "The Hitchhiker's Guide to the Galaxy",
+   "author": "Douglas Adams",
+   "year": 1979,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 30,
+   "multi": {
+    "Russian": 3,
+    "German": 2
+   },
+   "score": 95,
+   "retranslations": 3,
+   "rank": 96
+  },
+  {
+   "title": "Brave New World",
+   "author": "Aldous Huxley",
+   "year": 1932,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 30,
+   "multi": {
+    "German": 3,
+    "Russian": 2
+   },
+   "score": 95,
+   "retranslations": 3,
+   "rank": 97
+  },
+  {
+   "title": "Lolita",
+   "author": "Vladimir Nabokov",
+   "year": 1955,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "French": 2,
+    "German": 2
+   },
+   "score": 90,
+   "retranslations": 2,
+   "rank": 98
+  },
+  {
+   "title": "To Kill a Mockingbird",
+   "author": "Harper Lee",
+   "year": 1960,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "French": 2,
+    "German": 2
+   },
+   "score": 90,
+   "retranslations": 2,
+   "rank": 99
+  },
+  {
+   "title": "The Old Man and the Sea",
+   "author": "Ernest Hemingway",
+   "year": 1952,
+   "orig": "English",
+   "genre": "Modern Literary Fiction",
+   "langs": 40,
+   "multi": {
+    "German": 2,
+    "French": 2
+   },
+   "score": 90,
+   "retranslations": 2,
+   "rank": 100
+  },
+  {
+   "title": "Murder on the Orient Express",
+   "author": "Agatha Christie",
+   "year": 1934,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 50,
+   "multi": {
+    "Russian": 3
+   },
+   "score": 90,
+   "retranslations": 2,
+   "rank": 101
+  },
+  {
+   "title": "The Alchemist",
+   "author": "Paulo Coelho",
+   "year": 1988,
+   "orig": "Portuguese",
+   "genre": "Modern Literary Fiction",
+   "langs": 88,
+   "multi": {},
+   "score": 88,
+   "retranslations": 0,
+   "rank": 102
+  },
+  {
+   "title": "Norwegian Wood",
+   "author": "Haruki Murakami",
+   "year": 1987,
+   "orig": "Japanese",
+   "genre": "Modern Literary Fiction",
+   "langs": 36,
+   "multi": {
+    "English": 2,
+    "Chinese": 2
+   },
+   "score": 86,
+   "retranslations": 2,
+   "rank": 103
+  },
+  {
+   "title": "Peter Pan",
+   "author": "J. M. Barrie",
+   "year": 1911,
+   "orig": "English",
+   "genre": "Children's",
+   "langs": 40,
+   "multi": {
+    "Russian": 3
+   },
+   "score": 80,
+   "retranslations": 2,
+   "rank": 104
+  },
+  {
+   "title": "Journey to the West",
+   "author": "Wu Cheng'en",
+   "year": 1592,
+   "orig": "Chinese",
+   "genre": "Adventure",
+   "langs": 30,
+   "multi": {
+    "English": 4
+   },
+   "score": 80,
+   "retranslations": 3,
+   "rank": 105
+  },
+  {
+   "title": "Strange Case of Dr Jekyll and Mr Hyde",
+   "author": "Robert Louis Stevenson",
+   "year": 1886,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 40,
+   "multi": {
+    "Russian": 3
+   },
+   "score": 80,
+   "retranslations": 2,
+   "rank": 106
+  },
+  {
+   "title": "Sense and Sensibility",
+   "author": "Jane Austen",
+   "year": 1811,
+   "orig": "English",
+   "genre": "Romance",
+   "langs": 35,
+   "multi": {
+    "French": 3
+   },
+   "score": 75,
+   "retranslations": 2,
+   "rank": 107
+  },
+  {
+   "title": "The Call of the Wild",
+   "author": "Jack London",
+   "year": 1903,
+   "orig": "English",
+   "genre": "Adventure",
+   "langs": 50,
+   "multi": {
+    "Russian": 2
+   },
+   "score": 75,
+   "retranslations": 1,
+   "rank": 108
+  },
+  {
+   "title": "A Game of Thrones",
+   "author": "George R. R. Martin",
+   "year": 1996,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 47,
+   "multi": {
+    "German": 2
+   },
+   "score": 72,
+   "retranslations": 1,
+   "rank": 109
+  },
+  {
+   "title": "A Wizard of Earthsea",
+   "author": "Ursula K. Le Guin",
+   "year": 1968,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 30,
+   "multi": {
+    "Russian": 3
+   },
+   "score": 70,
+   "retranslations": 2,
+   "rank": 110
+  },
+  {
+   "title": "Roadside Picnic",
+   "author": "Arkady & Boris Strugatsky",
+   "year": 1972,
+   "orig": "Russian",
+   "genre": "Science Fiction",
+   "langs": 20,
+   "multi": {
+    "English": 2,
+    "German": 2
+   },
+   "score": 70,
+   "retranslations": 2,
+   "rank": 111
+  },
+  {
+   "title": "Foundation",
+   "author": "Isaac Asimov",
+   "year": 1951,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 30,
+   "multi": {
+    "Russian": 3
+   },
+   "score": 70,
+   "retranslations": 2,
+   "rank": 112
+  },
+  {
+   "title": "Dream of the Red Chamber",
+   "author": "Cao Xueqin",
+   "year": 1791,
+   "orig": "Chinese",
+   "genre": "Classic Literature",
+   "langs": 25,
+   "multi": {
+    "English": 3
+   },
+   "score": 65,
+   "retranslations": 2,
+   "rank": 113
+  },
+  {
+   "title": "Romance of the Three Kingdoms",
+   "author": "Luo Guanzhong",
+   "year": 1522,
+   "orig": "Chinese",
+   "genre": "Classic Literature",
+   "langs": 25,
+   "multi": {
+    "English": 3
+   },
+   "score": 65,
+   "retranslations": 2,
+   "rank": 114
+  },
+  {
+   "title": "Doctor Zhivago",
+   "author": "Boris Pasternak",
+   "year": 1957,
+   "orig": "Russian",
+   "genre": "Romance",
+   "langs": 40,
+   "multi": {
+    "English": 2
+   },
+   "score": 65,
+   "retranslations": 1,
+   "rank": 115
+  },
+  {
+   "title": "The Time Machine",
+   "author": "H. G. Wells",
+   "year": 1895,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 40,
+   "multi": {
+    "Russian": 2
+   },
+   "score": 65,
+   "retranslations": 1,
+   "rank": 116
+  },
+  {
+   "title": "Neuromancer",
+   "author": "William Gibson",
+   "year": 1984,
+   "orig": "English",
+   "genre": "Science Fiction",
+   "langs": 25,
+   "multi": {
+    "Russian": 3
+   },
+   "score": 65,
+   "retranslations": 2,
+   "rank": 117
+  },
+  {
+   "title": "Sapiens",
+   "author": "Yuval Noah Harari",
+   "year": 2011,
+   "orig": "Hebrew",
+   "genre": "History & Non-fiction",
+   "langs": 65,
+   "multi": {},
+   "score": 65,
+   "retranslations": 0,
+   "rank": 118
+  },
+  {
+   "title": "Sophie's World",
+   "author": "Jostein Gaarder",
+   "year": 1991,
+   "orig": "Norwegian",
+   "genre": "Philosophy",
+   "langs": 60,
+   "multi": {},
+   "score": 60,
+   "retranslations": 0,
+   "rank": 119
+  },
+  {
+   "title": "The Shining",
+   "author": "Stephen King",
+   "year": 1977,
+   "orig": "English",
+   "genre": "Horror & Gothic",
+   "langs": 35,
+   "multi": {
+    "Russian": 2
+   },
+   "score": 60,
+   "retranslations": 1,
+   "rank": 120
+  },
+  {
+   "title": "How to Win Friends and Influence People",
+   "author": "Dale Carnegie",
+   "year": 1936,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 35,
+   "multi": {
+    "Russian": 2
+   },
+   "score": 60,
+   "retranslations": 1,
+   "rank": 121
+  },
+  {
+   "title": "Atomic Habits",
+   "author": "James Clear",
+   "year": 2018,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 60,
+   "multi": {},
+   "score": 60,
+   "retranslations": 0,
+   "rank": 122
+  },
+  {
+   "title": "Fahrenheit 451",
+   "author": "Ray Bradbury",
+   "year": 1953,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 33,
+   "multi": {
+    "Russian": 2
+   },
+   "score": 58,
+   "retranslations": 1,
+   "rank": 123
+  },
+  {
+   "title": "Night",
+   "author": "Elie Wiesel",
+   "year": 1958,
+   "orig": "French (from Yiddish)",
+   "genre": "History & Non-fiction",
+   "langs": 30,
+   "multi": {
+    "English": 2
+   },
+   "score": 55,
+   "retranslations": 1,
+   "rank": 124
+  },
+  {
+   "title": "Rich Dad Poor Dad",
+   "author": "Robert Kiyosaki",
+   "year": 1997,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 51,
+   "multi": {},
+   "score": 51,
+   "retranslations": 0,
+   "rank": 125
+  },
+  {
+   "title": "Waiting for Godot",
+   "author": "Samuel Beckett",
+   "year": 1953,
+   "orig": "French",
+   "genre": "Drama",
+   "langs": 50,
+   "multi": {},
+   "score": 50,
+   "retranslations": 0,
+   "rank": 126
+  },
+  {
+   "title": "Man's Search for Meaning",
+   "author": "Viktor Frankl",
+   "year": 1946,
+   "orig": "German",
+   "genre": "History & Non-fiction",
+   "langs": 50,
+   "multi": {},
+   "score": 50,
+   "retranslations": 0,
+   "rank": 127
+  },
+  {
+   "title": "Perfume",
+   "author": "Patrick Süskind",
+   "year": 1985,
+   "orig": "German",
+   "genre": "Mystery & Thriller",
+   "langs": 49,
+   "multi": {},
+   "score": 49,
+   "retranslations": 0,
+   "rank": 128
+  },
+  {
+   "title": "The Name of the Rose",
+   "author": "Umberto Eco",
+   "year": 1980,
+   "orig": "Italian",
+   "genre": "Mystery & Thriller",
+   "langs": 47,
+   "multi": {},
+   "score": 47,
+   "retranslations": 0,
+   "rank": 129
+  },
+  {
+   "title": "One Hundred Years of Solitude",
+   "author": "Gabriel García Márquez",
+   "year": 1967,
+   "orig": "Spanish",
+   "genre": "Modern Literary Fiction",
+   "langs": 46,
+   "multi": {},
+   "score": 46,
+   "retranslations": 0,
+   "rank": 130
+  },
+  {
+   "title": "The Neverending Story",
+   "author": "Michael Ende",
+   "year": 1979,
+   "orig": "German",
+   "genre": "Fantasy",
+   "langs": 45,
+   "multi": {},
+   "score": 45,
+   "retranslations": 0,
+   "rank": 131
+  },
+  {
+   "title": "The Girl with the Dragon Tattoo",
+   "author": "Stieg Larsson",
+   "year": 2005,
+   "orig": "Swedish",
+   "genre": "Mystery & Thriller",
+   "langs": 44,
+   "multi": {},
+   "score": 44,
+   "retranslations": 0,
+   "rank": 132
+  },
+  {
+   "title": "The Da Vinci Code",
+   "author": "Dan Brown",
+   "year": 2003,
+   "orig": "English",
+   "genre": "Mystery & Thriller",
+   "langs": 44,
+   "multi": {},
+   "score": 44,
+   "retranslations": 0,
+   "rank": 133
+  },
+  {
+   "title": "The Three-Body Problem",
+   "author": "Liu Cixin",
+   "year": 2008,
+   "orig": "Chinese",
+   "genre": "Science Fiction",
+   "langs": 40,
+   "multi": {},
+   "score": 40,
+   "retranslations": 0,
+   "rank": 134
+  },
+  {
+   "title": "The Handmaid's Tale",
+   "author": "Margaret Atwood",
+   "year": 1985,
+   "orig": "English",
+   "genre": "Dystopian",
+   "langs": 40,
+   "multi": {},
+   "score": 40,
+   "retranslations": 0,
+   "rank": 135
+  },
+  {
+   "title": "A Brief History of Time",
+   "author": "Stephen Hawking",
+   "year": 1988,
+   "orig": "English",
+   "genre": "History & Non-fiction",
+   "langs": 40,
+   "multi": {},
+   "score": 40,
+   "retranslations": 0,
+   "rank": 136
+  },
+  {
+   "title": "The 7 Habits of Highly Effective People",
+   "author": "Stephen R. Covey",
+   "year": 1989,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 40,
+   "multi": {},
+   "score": 40,
+   "retranslations": 0,
+   "rank": 137
+  },
+  {
+   "title": "The Last Wish (The Witcher)",
+   "author": "Andrzej Sapkowski",
+   "year": 1993,
+   "orig": "Polish",
+   "genre": "Fantasy",
+   "langs": 37,
+   "multi": {},
+   "score": 37,
+   "retranslations": 0,
+   "rank": 138
+  },
+  {
+   "title": "The Colour of Magic",
+   "author": "Terry Pratchett",
+   "year": 1983,
+   "orig": "English",
+   "genre": "Fantasy",
+   "langs": 37,
+   "multi": {},
+   "score": 37,
+   "retranslations": 0,
+   "rank": 139
+  },
+  {
+   "title": "The Power of Now",
+   "author": "Eckhart Tolle",
+   "year": 1997,
+   "orig": "English",
+   "genre": "Self-help",
+   "langs": 33,
+   "multi": {},
+   "score": 33,
+   "retranslations": 0,
+   "rank": 140
+  }
+ ]
+}

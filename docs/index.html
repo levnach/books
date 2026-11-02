@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Translated Audiobooks — ranked by translation popularity</title>
+<style>
+  :root { --bg:#fbfaf7; --fg:#1f2328; --muted:#6b7280; --card:#fff; --line:#e5e2db; --accent:#8a3b12; --chip:#f1ede4; }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#16171a; --fg:#e8e6e1; --muted:#9a9fa8; --card:#1e2024; --line:#2e3036; --accent:#f0a36b; --chip:#2a2c31; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; font:15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; background:var(--bg); color:var(--fg); }
+  header { padding:28px 20px 8px; max-width:1100px; margin:auto; }
+  h1 { margin:0 0 4px; font-size:28px; }
+  .sub { color:var(--muted); margin:0; }
+  main { max-width:1100px; margin:auto; padding:0 20px 60px; }
+  .controls { position:sticky; top:0; z-index:5; background:var(--bg); padding:12px 0; border-bottom:1px solid var(--line);
+              display:flex; flex-wrap:wrap; gap:10px 16px; align-items:center; }
+  .controls label { font-size:13px; color:var(--muted); display:flex; gap:6px; align-items:center; }
+  input, select { font:inherit; color:var(--fg); background:var(--card); border:1px solid var(--line); border-radius:6px; padding:5px 8px; }
+  input[type=search] { min-width:220px; }
+  input[type=range] { padding:0; }
+  .chips { display:flex; flex-wrap:wrap; gap:6px; padding:10px 0; }
+  .chip { border:1px solid var(--line); background:var(--chip); color:var(--fg); border-radius:999px; padding:3px 11px; cursor:pointer; font-size:13px; }
+  .chip.on { background:var(--accent); color:var(--bg); border-color:var(--accent); }
+  h2 { margin:26px 0 8px; font-size:19px; }
+  h2 small { color:var(--muted); font-weight:normal; font-size:13px; }
+  table { width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:8px; overflow:hidden; }
+  th, td { text-align:left; padding:7px 10px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:var(--muted); cursor:pointer; user-select:none; white-space:nowrap; }
+  th.num, td.num { text-align:right; }
+  tr:last-child td { border-bottom:0; }
+  td.title a { color:var(--fg); font-weight:600; text-decoration:none; }
+  td.title a:hover { text-decoration:underline; }
+  .muted { color:var(--muted); font-size:13px; }
+  .score { font-weight:700; color:var(--accent); font-variant-numeric:tabular-nums; }
+  .bar { height:4px; background:var(--accent); opacity:.35; border-radius:2px; margin-top:3px; }
+  .ml { font-size:12px; }
+  details { margin:14px 0; background:var(--card); border:1px solid var(--line); border-radius:8px; padding:10px 14px; }
+  summary { cursor:pointer; font-weight:600; }
+  code { background:var(--chip); padding:1px 5px; border-radius:4px; }
+  @media (max-width:720px) { .hide-sm { display:none; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Translated Audiobooks</h1>
+  <p class="sub">Books with an audiobook, an English edition, and translations into at least 3 languages — grouped by genre, ranked by the Translation Popularity Index.</p>
+</header>
+<main>
+  <details>
+    <summary>How the score (TPI) works</summary>
+    <p><code>TPI = L + W × Σ log<sub>2</sub>(k)</code></p>
+    <ul>
+      <li><b>L</b> — number of languages the book is translated into.</li>
+      <li><b>k</b> — number of distinct translations into one language (each language with k ≥ 2 contributes).</li>
+      <li><b>W</b> — retranslation weight (default 25, adjustable below).</li>
+    </ul>
+    <p>Multiple translations into the same language count very high: every doubling of translations in one language is worth W extra languages.
+       Counts are curated, rounded estimates intended for ranking. Source data: <a href="https://github.com/levnach/books/blob/main/data/books.json">data/books.json</a>.</p>
+  </details>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search title, author, language…">
+    <label>Sort
+      <select id="sort">
+        <option value="score">Popularity (TPI)</option>
+        <option value="langs">Number of languages</option>
+        <option value="retr">Retranslations</option>
+        <option value="title">Title</option>
+        <option value="author">Author</option>
+        <option value="year">Year (oldest first)</option>
+        <option value="-year">Year (newest first)</option>
+      </select>
+    </label>
+    <label><input type="checkbox" id="group" checked> Group by genre</label>
+    <label>Original
+      <select id="orig"><option value="">any</option></select>
+    </label>
+    <label>Min languages <input type="number" id="minL" value="3" min="3" step="1" style="width:70px"></label>
+    <label>Weight W <input type="range" id="w" min="0" max="100" value="25"> <span id="wv">25</span></label>
+    <span class="muted" id="count"></span>
+  </div>
+  <div class="chips" id="chips"></div>
+  <div id="out"></div>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+let books = [], genre = "";
+
+const scoreOf = (b, w) => Math.round(b.langs + w * Object.values(b.multi).filter(k => k > 1).reduce((s, k) => s + Math.log2(k), 0));
+const yearStr = y => y < 0 ? `${-y} BC` : y;
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const multiStr = m => Object.entries(m).filter(([, k]) => k > 1).sort((a, b) => b[1] - a[1]).map(([l, k]) => `${esc(l)} ×${k}`).join(", ") || "—";
+
+const sorters = {
+  score: (a, b) => b.s - a.s,
+  langs: (a, b) => b.langs - a.langs || b.s - a.s,
+  retr: (a, b) => b.retranslations - a.retranslations || b.s - a.s,
+  title: (a, b) => a.title.localeCompare(b.title),
+  author: (a, b) => a.author.localeCompare(b.author),
+  year: (a, b) => a.year - b.year,
+  "-year": (a, b) => b.year - a.year,
+};
+
+function table(list, max) {
+  const rows = list.map(b => `<tr>
+    <td class="num muted">${b.r}</td>
+    <td class="title"><a href="https://en.wikipedia.org/w/index.php?search=${encodeURIComponent(b.title + " " + b.author)}" target="_blank" rel="noopener">${esc(b.title)}</a>
+      <div class="muted">${esc(b.author)} · ${yearStr(b.year)}</div></td>
+    <td class="hide-sm muted">${esc(b.orig)}</td>
+    <td class="num">${b.langs}</td>
+    <td class="ml hide-sm">${multiStr(b.multi)}</td>
+    <td class="num"><span class="score">${b.s}</span><div class="bar" style="width:${Math.max(4, 100 * b.s / max)}%"></div></td>
+  </tr>`).join("");
+  return `<table><thead><tr><th class="num">#</th><th>Book</th><th class="hide-sm">Original</th>
+    <th class="num">Languages</th><th class="hide-sm">Same-language translations</th><th class="num">TPI</th></tr></thead><tbody>${rows}</tbody></table>`;
+}
+
+function render() {
+  const w = +$("w").value; $("wv").textContent = w;
+  const q = $("q").value.trim().toLowerCase(), orig = $("orig").value, minL = +$("minL").value || 3;
+  books.forEach(b => b.s = scoreOf(b, w));
+  [...books].sort(sorters.score).forEach((b, i) => b.r = i + 1);
+  const list = books.filter(b =>
+    (!genre || b.genre === genre) && (!orig || b.orig === orig) && b.langs >= minL &&
+    (!q || [b.title, b.author, b.orig, b.genre, ...Object.keys(b.multi)].join(" ").toLowerCase().includes(q))
+  ).sort(sorters[$("sort").value]);
+  const max = Math.max(1, ...books.map(b => b.s));
+  $("count").textContent = `${list.length} of ${books.length} books`;
+  if (!$("group").checked) { $("out").innerHTML = list.length ? table(list, max) : "<p>No books match.</p>"; return; }
+  const groups = {};
+  list.forEach(b => (groups[b.genre] ||= []).push(b));
+  const order = Object.keys(groups).sort((a, b) => Math.max(...groups[b].map(x => x.s)) - Math.max(...groups[a].map(x => x.s)));
+  $("out").innerHTML = order.map(g => `<h2>${esc(g)} <small>${groups[g].length} books</small></h2>${table(groups[g], max)}`).join("") || "<p>No books match.</p>";
+}
+
+function chips() {
+  const counts = {};
+  books.forEach(b => counts[b.genre] = (counts[b.genre] || 0) + 1);
+  const gs = ["", ...Object.keys(counts).sort()];
+  $("chips").innerHTML = gs.map(g => `<button class="chip${g === genre ? " on" : ""}" data-g="${esc(g)}">${g ? esc(g) + " (" + counts[g] + ")" : "All genres"}</button>`).join("");
+}
+
+$("chips").addEventListener("click", e => { const g = e.target.dataset.g; if (g === undefined) return; genre = g; chips(); render(); });
+["q", "sort", "group", "orig", "minL", "w"].forEach(id => $(id).addEventListener("input", render));
+
+fetch("books.json").then(r => r.json()).then(d => {
+  books = d.books;
+  [...new Set(books.map(b => b.orig))].sort().forEach(o => $("orig").insertAdjacentHTML("beforeend", `<option>${esc(o)}</option>`));
+  chips(); render();
+});
+</script>
+</body>
+</html>
